@@ -1,6 +1,13 @@
 {
-  "fetched_at": "2026-01-05T10:00:48.805625+00:00",
+  "fetched_at": "2026-01-05T10:56:15.714270+00:00",
   "stories": [
+    {
+      "headline": "Maduro is set to make his first appearance in a US courtroom on drug trafficking charges",
+      "url": "https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328",
+      "published_at": null,
+      "summary": "U.S. President Donald Trump spoke to reporters on Air Force One on Sunday. Trump said he wanted Venezuela’s vice president, Delcy Rodríguez, to provide “total access” to the country. He also commented on the 32 Cuban security officers killed in Venezuela.",
+      "image_url": "https://dims.apnews.com/dims4/default/d543cff/2147483647/strip/true/crop/5049x2840+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F70%2F31f0837635c32007a06f9478913b%2F9c379a0b7f164e788b54f4ef461d5ed4"
+    },
     {
       "headline": "Officers who defended the Capitol on Jan. 6 say their struggles linger, 5 years after the riot",
       "url": "https://apnews.com/article/capitol-riot-police-trump-jan-6-congress-34fb3cfeeb21a746c53760bb0f1df37d",
@@ -21,13 +28,6 @@
       "published_at": null,
       "summary": "Flowers and candles are placed around crosses to honor the victims killed in a school shooting, May 28, 2022, outside Robb Elementary School in Uvalde, Texas. (AP Photo/Jae C. Hong, File)",
       "image_url": "https://dims.apnews.com/dims4/default/46ca6f7/2147483647/strip/true/crop/5623x3163+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F3a%2F3cb47376837c5eca9865314ca2e5%2F17a5849e0ec040c8b996218c066afdb7"
-    },
-    {
-      "headline": "Rubio says US will press change in Venezuela with oil embargo, while Trump insists ‘we’re in charge’",
-      "url": "https://apnews.com/article/venezuela-maduro-trump-military-operation-85041a1ec03bafe839b785a95169d694",
-      "published_at": null,
-      "summary": "Residents in the Venezuelan coastal state of La Guaira were cleaning up damage to their properties on Sunday following the U.S. operation that captured deposed President Nicolas Maduro and his wife a day earlier. (AP video by Juan Arraez)",
-      "image_url": "https://dims.apnews.com/dims4/default/153b0ff/2147483647/strip/true/crop/4352x2448+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fe1%2Fa17fa4ccd4f28bd2ab724ba1ed7b%2Ffc8aa7fce286486db0dc457796a3469e"
     },
     {
       "headline": "Man fought off a mountain lion weeks before a suspected fatal Colorado attack",
@@ -170,11 +170,11 @@
       "image_url": "https://dims.apnews.com/dims4/default/1ca8f5f/2147483647/strip/true/crop/7207x4054+0+571/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2F49%2Ff5441e2130a09073b423e091c7df%2F55cd83ae4843407a8d98df72b4895e4e"
     },
     {
-      "headline": "Maduro is set to make his first appearance in a US courtroom on drug trafficking charges",
-      "url": "https://apnews.com/article/maduro-venezuela-trump-criminal-case-131f59e517cc8314a53c8dace230d328",
+      "headline": "What to expect from CES 2026, the annual show of all things tech",
+      "url": "https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4",
       "published_at": null,
-      "summary": "An anxious quiet fell over Venezuela’s capital on Sunday as trepidation mixed with joy while a nation waited to see what comes next. (AP video by Andry Rincon and Brayan Antequero)",
-      "image_url": "https://dims.apnews.com/dims4/default/d543cff/2147483647/strip/true/crop/5049x2840+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F70%2F31f0837635c32007a06f9478913b%2F9c379a0b7f164e788b54f4ef461d5ed4"
+      "summary": "People arrive at the CES Unveiled tech show Sunday, Jan. 4, 2026, in Las Vegas. (AP Photo/Abbie Parr)",
+      "image_url": "https://dims.apnews.com/dims4/default/1539c66/2147483647/strip/true/crop/4470x2514+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F0c%2Ff5003d99a74377bc987424d08515%2F69a9a7b8a7884ecb823e9ec447f8d036"
     },
     {
       "headline": "Ukraine didn’t target Putin residence in a drone strike as Kremlin claims, Trump says",
@@ -345,7 +345,7 @@
       "image_url": "https://dims.apnews.com/dims4/default/5d04de9/2147483647/strip/true/crop/5064x2849+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2Fea%2F63c66b2552cf5a0d68eb6c69999e%2F3b1d91b93caa419b84878b5ee541c62e"
     },
     {
-      "headline": "A Paris court is set to rule in a case involving the alleged cyberbullying of Brigitte Macron",
+      "headline": "A Paris court finds 10 people guilty of cyberbullying France’s first lady Brigitte Macron",
       "url": "https://apnews.com/article/brigitte-macron-ruling-cyberbullying-france-5f78de63dc14f765e509a004006808a2",
       "published_at": null,
       "summary": "French President’s wife Brigitte Macron arrives ahead of the ceremony outside “La Belle Equipe” bar, Thursday Nov. 13, 2025 in Paris as part of ceremonies marking the 10th anniversary of terrorist attacks. (Ludovic Marin, Pool photo via AP, File)",
@@ -460,15 +460,8 @@
       "headline": "Bluefin tuna sells for record $3.2 million at year-opening auction at Tokyo fish market",
       "url": "https://apnews.com/article/japan-tuna-auction-fish-market-record-ee40ecf56d234a14a625cc09b7a2f8e1",
       "published_at": null,
-      "summary": "A bluefin tuna that won the highest bid at the annual New Year auction is carried to a Sushi Zanmai restaurant in Tokyo, Monday, Jan. 5, 2026. (AP Photo/Louise Delmotte)",
-      "image_url": "https://dims.apnews.com/dims4/default/a922708/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F0b%2F8eae3fcfa94a8d35760960a0320c%2F313514f4e2ee47b4b09929e989f80929"
-    },
-    {
-      "headline": "What to expect from CES 2026, the annual show of all things tech?",
-      "url": "https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4",
-      "published_at": null,
-      "summary": "People arrive at the CES Unveiled tech show Sunday, Jan. 4, 2026, in Las Vegas. (AP Photo/Abbie Parr)",
-      "image_url": "https://dims.apnews.com/dims4/default/1539c66/2147483647/strip/true/crop/4470x2514+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F0c%2Ff5003d99a74377bc987424d08515%2F69a9a7b8a7884ecb823e9ec447f8d036"
+      "summary": "A massive bluefin tuna sold for a record $3.2 million at the first auction of 2026 at Tokyo’s Toyosu fish market. The top bidder for the prized tuna at the auction before dawn Monday was Kiyomura Corp., whose owner Kiyoshi Kimura runs the popular Sushi Zanmai chain. The tuna weighed 243 kilograms (535 pounds). (AP video produced by Annika Wolters)",
+      "image_url": "https://dims.apnews.com/dims4/default/a668531/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F40%2F1f1fae3213e5c2d66c1201b0daf5%2F62915d96129a429ebd8b4bd64c0ba674"
     },
     {
       "headline": "After Maduro, who’s next? Trump spurs speculation about his plans for Greenland, Cuba and Colombia",
@@ -485,11 +478,18 @@
       "image_url": "https://dims.apnews.com/dims4/default/406ba53/2147483647/strip/true/crop/1380x776+0+72/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2F3d%2Ff71bb960882d1cd09322e09dc993%2F899df73c12974598802dea4b93137b3d"
     },
     {
-      "headline": "India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial",
-      "url": "https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79",
+      "headline": "Founder of Indonesian ride-hailing app Gojek stands trial over Chromebooks procurement",
+      "url": "https://apnews.com/article/indonesia-makarim-gojek-founder-corruption-trial-281c03632003a8e38076b8502edf7387",
       "published_at": null,
-      "summary": "Qasim Rasool, father of Umar Khalid, arrives at the Supreme Court for the hearing of the bail plea of his son in New Delhi, India, Monday, Jan. 5, 2026. (AP Photo/Dinesh Joshi)",
-      "image_url": "https://dims.apnews.com/dims4/default/880dc6f/2147483647/strip/true/crop/2267x1275+0+118/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F6a%2F0dfeb1afc6833560ba8f30ac0771%2F3af9ddc4d2c34e6da5eb51121e2c603f"
+      "summary": "Nadiem Anwar Makarim, the co-founder of Indonesia’s payments platform and ride hailing company Gojek and former education minister, reacts as he enters the courtroom for his first trial hearing at the Corruption Court in Jakarta, Indonesia, Monday, Jan. 5, 2026. (AP Photo/Tatan Syuflana)",
+      "image_url": "https://dims.apnews.com/dims4/default/ac1be72/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F0b%2Fd400462a83ee374520f60fa4103a%2F4f5c1ccaa5b5440d9247b3b8c81b193b"
+    },
+    {
+      "headline": "2 police officers relive Jan. 6 through their own bodycam footage",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/01/05/g-s1-103118/jan6-trump-capitol-police-officers-bodycam-footage-video",
+      "published_at": "2026-01-05T05:00:00-05:00",
+      "summary": "On Jan. 6, 2021, 140 police officers were injured defending the U.S. Capitol from a violent mob of President Trump's supporters. Five years later, many still live with the physical and psychological damage from that day.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F57%2Facb61f8444689f044d1640fee036%2Ftwoofficers-1.jpg"
     },
     {
       "headline": "Trial begins for officer accused of failing to protect children during Uvalde shooting",
@@ -653,13 +653,6 @@
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5374x3023+0+285/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F88%2Fffd019fb447d955d0de8c6193198%2Fap25363759486251.jpg"
     },
     {
-      "headline": "Capitol riot 'does not happen' without Trump, Jack Smith told Congress",
-      "url": "https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript",
-      "published_at": "2025-12-31T21:15:19-05:00",
-      "summary": "In this image from video released by the House Judiciary Committee, former special counsel Jack Smith speaks during a deposition Dec. 17, 2025, at the U.S. Capitol in Washington.House Judiciary Committee/APhide caption",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2160x1214+0+102/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2F79%2F13153dd740fc976715ef1bd6a7a3%2Fap25365746528046.jpg"
-    },
-    {
       "headline": "Trump's intervention in Venezuela sparks mixed views of U.S. around the world",
       "url": "https://www.pbs.org/newshour/show/trumps-intervention-in-venezuela-sparks-mixed-views-of-u-s-around-the-world",
       "published_at": null,
@@ -821,53 +814,53 @@
       "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2025/10/crossroads-1024x576.jpg"
     },
     {
-      "headline": "What candidates are running for statewide office in Ohio in 2026?",
-      "url": "https://news.yahoo.com/news/articles/candidates-running-statewide-office-ohio-095055876.html",
-      "published_at": "2026-01-05T09:50:55.000Z",
-      "summary": "Dr. Amy Acton, left, Democratic candidate for Ohio governor in 2026. And Republican businessman Vivek Ramaswamy, right, who has been officially endorsed for governor by the Ohio Republican Party. (Photos/Graphic by WEWS.)",
-      "image_url": "https://media.zenfs.com/en/ohio_capital_journal_articles_828/d96f8eabf0d82d09e9fd6a75b5725525"
+      "headline": "Rhode Island Foundation panel urges R.I. to rewrite school funding formula, boost state share",
+      "url": "https://news.yahoo.com/news/articles/rhode-island-foundation-panel-urges-105007215.html",
+      "published_at": "2026-01-05T10:50:07.000Z",
+      "summary": "A Blue Ribbon Commission formed by the Rhode Island Foundation wants to significantly change the formula for state aid to local school districts. (Photo by Alexander Castro/Rhode Island Current) (Photo by Alexander Castro/Rhode Island Current)",
+      "image_url": "https://media.zenfs.com/en/rhode_island_current_articles_444/dcecf60e874c51d7dfe7721070fd87f7"
     },
     {
-      "headline": "2 lanes blocked on I-75 SB due to vehicle fire",
-      "url": "https://news.yahoo.com/news/articles/2-lanes-blocked-75-sb-094749416.html",
-      "published_at": "2026-01-05T09:47:49.000Z",
-      "summary": "Firefighters are on the scene of a vehicle fire on Interstate 75 southbound in Miami County on Monday morning.",
-      "image_url": "https://media.zenfs.com/en/whio_cox_articles_828/0991bbd3189307072a27e895769a7ffa"
+      "headline": "‘It just kept getting worse and worse;’ Neighbors scared after county-wide backup call at motel",
+      "url": "https://news.yahoo.com/news/articles/just-kept-getting-worse-worse-104746613.html",
+      "published_at": "2026-01-05T10:47:46.000Z",
+      "summary": "Two people are in the Montgomery County Jail after a disturbance Saturday night in Vandalia that led to a Signal 99, or a county-wide call for backup.",
+      "image_url": "https://media.zenfs.com/en/whio_cox_articles_828/58b1163be0f0addd9945d15a3a682c1b"
     },
     {
-      "headline": "Hicks: A reversal of rural fortunes since the pandemic",
-      "url": "https://news.yahoo.com/news/articles/hicks-reversal-rural-fortunes-since-094536377.html",
-      "published_at": "2026-01-05T09:45:36.000Z",
-      "summary": "Small towns are in for a sobering stretch of economic challenges as elected officials reverse pandemic-era policies that had been reviving them.",
-      "image_url": "https://media.zenfs.com/en/the-star-press/0cbb78497edb4259ec69f4461f0cdd39"
+      "headline": "One of the Best New Year’s Resolutions You Can Make in 2026",
+      "url": "https://news.yahoo.com/news/articles/one-best-resolutions-2026-104500981.html",
+      "published_at": "2026-01-05T10:45:00.000Z",
+      "summary": "Sign up for the Slatestto get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/b.krCfdy41lkkNYzt7_fjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/slate_773/0acf0614221878dfb0a9c007456c6041"
     },
     {
-      "headline": "One more look at 2025: These 67 Kansas news stories chronicled tumult, tribulation and triumph",
-      "url": "https://news.yahoo.com/news/articles/one-more-look-2025-67-093305384.html",
-      "published_at": "2026-01-05T09:33:05.000Z",
-      "summary": "Reporters gather around Gov. Laura Kelly and Kansas officials at the announcement of the Kansas City Chiefs' move to Kansas. (Photo by Anna Kaminski/Kansas Reflector)",
-      "image_url": "https://media.zenfs.com/en/kansas_reflector_articles_152/fdc6df371bca8c1bbca0dd48e02bf089"
+      "headline": "1 dead after SUV found partially submerged in river",
+      "url": "https://news.yahoo.com/news/articles/1-dead-suv-found-partially-103436538.html",
+      "published_at": "2026-01-05T10:34:36.000Z",
+      "summary": "One person is dead after an SUV was found partially submerged in the Rocky River Sunday afternoon.",
+      "image_url": "https://media.zenfs.com/en/whio_cox_articles_828/8a0f33b90d4387041645bc6b94b9a8c2"
     },
     {
-      "headline": "Trump's tariffs will make for a grim US economy in 2026 | Your Turn",
-      "url": "https://news.yahoo.com/news/articles/trumps-tariffs-grim-us-economy-093049133.html",
-      "published_at": "2026-01-05T09:30:49.000Z",
-      "summary": "USA TODAY and Yahoo may earn commission from links in this article. Pricing and availability subject to change.",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/yzWW2EaSpisb5E0tBUxdUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_opinion_532/34c57d5635083a0295e9df5bb60cc2fc"
+      "headline": "Ever rising power rates sabotage efforts to rebuild economy in Eastern Kentucky",
+      "url": "https://news.yahoo.com/news/articles/ever-rising-power-rates-sabotage-103006806.html",
+      "published_at": "2026-01-05T10:30:06.000Z",
+      "summary": "Boyd County, once an industrial and economic powerhouse, is looking for a bridge to a prosperous future. In Ashland, a street lamp lights the way between two bridges over the Ohio River. (Getty Images)",
+      "image_url": "https://media.zenfs.com/en/kentucky_lantern_articles_259/efe04f1f07bec1b0083421bf5bd56740"
     },
     {
-      "headline": "Insurance company announces spring layoffs for 37 Illinois workers",
-      "url": "https://news.yahoo.com/news/articles/insurance-company-announces-spring-layoffs-091123684.html",
-      "published_at": "2026-01-05T09:11:23.000Z",
-      "summary": "A Delaware-based insurance company will lay off 37 employees in Chicago, according to the latestWorker Adjustment and Retraining Notificationnotices.",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/334ACcjnFsLL3kZi6asrZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDA4O2NmPXdlYnA-/https://media.zenfs.com/en/journal-star/8d7fc923e2b7a064c42c126af32ed0d5"
+      "headline": "Here’s what Virginia is doing so far to reduce its SNAP error rate",
+      "url": "https://news.yahoo.com/news/articles/virginia-doing-far-reduce-snap-102558292.html",
+      "published_at": "2026-01-05T10:25:58.000Z",
+      "summary": "A 'We Accept (Food Stamps)' sign hangs in the window of a grocery store on Oct. 31, 2025 in Miami, Florida. (Photo by Joe Raedle/Getty Images)",
+      "image_url": "https://media.zenfs.com/en/virginia_mercury_articles_394/e83a3ca1dc8ef403be2e26a9acfe16c5"
     },
     {
-      "headline": "Naming Columbus I-70 for Trump? A dirt road honoring him would disrespect dirt | Letter",
-      "url": "https://news.yahoo.com/news/articles/naming-columbus-70-trump-dirt-090634753.html",
-      "published_at": "2026-01-05T09:06:34.000Z",
-      "summary": "Re\"Donald Trump Freedom Highway in Columbus? Tell us if you support I-70 name change,\" Dec. 30: I am so-o-o glad you asked about honoring Trump with highway naming.",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/3_zgK6pLBIxFm4bn0O6gfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the-columbus-dispatch/cc0129854154f0b1e3a08cec8d143ebc"
+      "headline": "After Virginia judges’ misconduct became public, lawmakers reinstated secrecy",
+      "url": "https://news.yahoo.com/news/articles/virginia-judges-misconduct-became-public-102533008.html",
+      "published_at": "2026-01-05T10:25:33.000Z",
+      "summary": "At the end of every year, state agencies, boards and commissions churn out dozens of annual reports. Last year, one notable document was missing.",
+      "image_url": "https://media.zenfs.com/en/virginia_mercury_articles_394/72209175c4d36c360db803a9cefb306c"
     },
     {
       "headline": "Maduro narco case echoes US history of targeting alleged foreign drug kingpins",
@@ -1073,25 +1066,25 @@
       "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/kamala-harris-trump-maduro.jpg"
     },
     {
+      "headline": "GORDON SONDLAND: Trump's realpolitik may be the only way to end the Ukraine war",
+      "url": "https://www.foxnews.com/opinion/gordon-sondland-trumps-realpolitik-may-only-way-end-ukraine-war",
+      "published_at": "2026-01-05T05:00:41-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/trump-zelenskyy-shaking-hands-december-2025.jpg"
+    },
+    {
+      "headline": "BENNETT, MOHRMAN: 2026 will give us over 1,000 ways to boost educational freedom",
+      "url": "https://www.foxnews.com/opinion/bennett-mohrman-2026-give-us-over-1000-ways-boost-educational-freedom",
+      "published_at": "2026-01-05T05:00:26-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/school-bus-.jpg"
+    },
+    {
       "headline": "Trump says Cuba is ‘ready to fall’ after capture of Venezuela’s Maduro",
       "url": "https://www.foxnews.com/world/trump-says-cuba-ready-fall-after-capture-venezuelas-maduro",
       "published_at": "2026-01-04T23:51:14-05:00",
       "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
       "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-press-gaggle-af1-joint-base-andrews.jpg"
-    },
-    {
-      "headline": "Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez",
-      "url": "https://www.foxnews.com/politics/trump-vows-us-in-charge-venezuela-he-reveals-hes-spoken-delcy-rodriguez",
-      "published_at": "2026-01-04T22:08:04-05:00",
-      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-delcy-rodriguez.png"
-    },
-    {
-      "headline": "UK confirms joint airstrike targeting suspected ISIS weapons facility in Syria",
-      "url": "https://www.foxnews.com/world/uk-confirms-joint-airstrike-targeting-suspected-isis-weapons-facility-syria",
-      "published_at": "2026-01-04T20:52:44-05:00",
-      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/isis-strike.gif"
     },
     {
       "headline": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
@@ -1199,13 +1192,6 @@
       "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-venezuela-presser.jpg"
     },
     {
-      "headline": "María Corina Machado, Venezuelan opposition urge military to back power transfer after Maduro capture",
-      "url": "https://www.foxnews.com/world/maria-corina-machado-venezuelan-opposition-urge-military-back-power-transfer-after-maduro-capture",
-      "published_at": "2026-01-03T12:10:13-05:00",
-      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/maria-corina-machado-venezuela-escape-fox-news-2.jpg"
-    },
-    {
       "headline": "Fox News Politics Newsletter: Israel slams Mamdani over revoked Adams executive orders",
       "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-israel-slams-mamdani-over-revoked-adams-executive-orders",
       "published_at": "2026-01-02T16:55:12-05:00",
@@ -1220,18 +1206,25 @@
       "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/tom-emmer-somali-fraud.jpg"
     },
     {
-      "headline": "'She is going to pay a very big price': Trump issues new threat to interim leader of Venezuela",
+      "headline": "Fox News Politics Newsletter: Boasberg says Trump must provide due process to CECOT migrants",
+      "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-boasberg-says-trump-must-provide-due-process-cecot-migrants",
+      "published_at": "2025-12-23T16:38:15-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/cecot-2025.png"
+    },
+    {
+      "headline": "Trump says U.S. is 'in charge' of Venezuela and warns interim leader to cooperate",
       "url": "https://www.nbcnews.com/politics/white-house/venezuela-trump-maduro-rcna252177",
-      "published_at": "2026-01-05T03:01:46.420Z",
-      "summary": "WASHINGTON — President Donald Trump laid out a stark warning to Venezuela’s interim leader Delcy Rodríguez, tellingThe Atlanticthat “if she doesn’t do what’s right, she is going to pay a very big price, probably bigger than Maduro.”",
+      "published_at": "2026-01-05T10:35:04.725Z",
+      "summary": "WASHINGTON — President Donald Trump stated late Sunday that \"we're in charge\" of Venezuela, while warning its interim leader Delcy Rodríguez that she will fare \"probably worse\" than captured President Nicolas Maduro if she does not cooperate.",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-trump-conference-ch-1308-9340fe.jpg"
     },
     {
-      "headline": "A new Trump foreign policy doctrine emphasizes threats of regime change",
-      "url": "https://www.nbcnews.com/politics/white-house/new-trump-foreign-policy-doctrine-emphasizes-threats-regime-change-rcna252093",
-      "published_at": "2026-01-04T10:00:40.000Z",
-      "summary": "President Donald Trump built his political appeal over the past decade partly by vowing to extricate America from military quagmires overseas, promising to avoid “nation building” and wars designed to topple regimes.",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-donald-trump-venezuela-maduro-cs-3175dd.jpg"
+      "headline": "Congress returns to a shutdown deadline and a health care fight",
+      "url": "https://www.nbcnews.com/politics/congress/congress-returns-venezuela-clash-shutdown-deadline-health-care-fight-rcna250822",
+      "published_at": "2026-01-05T10:00:00.000Z",
+      "summary": "WASHINGTON — The House and the Senate are scheduled to return this week after the holidays and confront a growing list of tasks and potential agenda items in early 2026.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251210-us-capitol-gk-069363.jpg"
     },
     {
       "headline": "A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela",
@@ -1241,11 +1234,11 @@
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-trump-ch-1200-7835a1.jpg"
     },
     {
-      "headline": "Marco Rubio says he believes Cuba is 'in a lot of trouble'",
-      "url": "https://www.nbcnews.com/politics/national-security/marco-rubio-believes-cuba-trouble-havana-maduro-military-venezuela-rcna252150",
-      "published_at": "2026-01-04T17:53:30.941Z",
-      "summary": "Just one day after the U.S. conducted a military operation that led to the capture of Venezuelan leader Nicolás Maduro and his wife, Secretary of State Marco Rubio reiterated a warning to Cuba, telling NBC News’ “Meet the Press” that he thinks “they’re in a lot of trouble.”",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-rubio-trump-rs-6e874c.jpg"
+      "headline": "A new Trump foreign policy doctrine emphasizes threats of regime change",
+      "url": "https://www.nbcnews.com/politics/white-house/new-trump-foreign-policy-doctrine-emphasizes-threats-regime-change-rcna252093",
+      "published_at": "2026-01-04T10:00:40.000Z",
+      "summary": "President Donald Trump built his political appeal over the past decade partly by vowing to extricate America from military quagmires overseas, promising to avoid “nation building” and wars designed to topple regimes.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-donald-trump-venezuela-maduro-cs-3175dd.jpg"
     },
     {
       "headline": "Secretary of State Marco Rubio says U.S. capture of Maduro isn't a war against Venezuela",
@@ -1255,25 +1248,25 @@
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-marco-rubio-cs-c8bd18.jpg"
     },
     {
+      "headline": "Josh Shapiro grapples with Pennsylvania's divided government ahead of a possible 2028 bid",
+      "url": "https://www.nbcnews.com/politics/2028-election/josh-shapiro-pennsylvania-divided-government-2028-rcna249519",
+      "published_at": "2026-01-05T10:00:00.000Z",
+      "summary": "Pennsylvania Gov. Josh Shapiro has been dealing with one big thing that sets him apart from other potential 2028 Democratic presidential candidates: a divided state Legislature and all the tricky political compromises that come with it.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250920-Josh-Shapiro-ch-1232-7ef6af.jpg"
+    },
+    {
+      "headline": "The Supreme Court has delayed direct conflict with Trump. Here's why that could soon change.",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-new-term-trump-tariffs-birthright-citizenship-fed-rcna249340",
+      "published_at": "2026-01-03T10:00:41.000Z",
+      "summary": "WASHINGTON — President Donald Trump and the Supreme Court’s smooth relationship could turn sour in the new year.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-Trump-aa-1151-0d20c5.jpg"
+    },
+    {
       "headline": "New laws in 2026 target AI and deepfakes, paid leave and rising Obamacare premiums",
       "url": "https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602",
       "published_at": "2025-12-31T11:00:41.000Z",
       "summary": "As the country prepares to ring in the new year, new state laws will take effect around the country on a host of issues, including the use of artificial intelligence in health care and elections, paid family and medical leave and rising medical insurance costs.",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-new-laws-ai-voting-rights-paid-family-leave-cs-864c17.jpg"
-    },
-    {
-      "headline": "Four big things Congress did in 2025 — and how they could affect you",
-      "url": "https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338",
-      "published_at": "2026-01-02T15:32:04.751Z",
-      "summary": "WASHINGTON — The Republican-led Congress had a busy first year of President Donald Trump’s second term in 2025.",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg"
-    },
-    {
-      "headline": "What we learned about the state of the Trump coalition in conversations with 50 voters",
-      "url": "https://www.nbcnews.com/politics/elections/learned-state-trump-coalition-conversations-50-voters-year-rcna248275",
-      "published_at": "2025-12-29T10:00:40.000Z",
-      "summary": "The voters who put President Donald Trump back in the White House last year still largely support him. But they are increasingly disagreeing with the president on issues like the economy and immigration, raising questions about the strength of his coalition heading into a midterm election year.",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251209-trump-speech-lr-6a0648.jpg"
     },
     {
       "headline": "Brother went from business partner to murder suspect accused of killing 4 and torching 2 houses",
@@ -1344,6 +1337,118 @@
       "published_at": "2026-01-02T23:37:37.720Z",
       "summary": "The start of a new year is one of the best times to do a reset on your fitness routine, and while you don’t have to do it right away, it’s a good idea to start small. Before looking into thebest running shoesorweighted vests, I recommend choosing a reliablereusable water bottle, such as the ever-popularStanley Quencher. The bottle is currently on sale on Amazon for up to 50% off in select styles. They come in five sizes, all with handles, and keep drinks cold for up to 24 hours.",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-DOTD-Stanley-mm-main-00fef0.jpg"
+    },
+    {
+      "headline": "Rubio says US will press change in Venezuela with oil embargo, while Trump insists ‘we’re in charge’",
+      "url": "https://apnews.com/article/venezuela-maduro-trump-military-operation-85041a1ec03bafe839b785a95169d694",
+      "published_at": null,
+      "summary": "Residents in the Venezuelan coastal state of La Guaira were cleaning up damage to their properties on Sunday following the U.S. operation that captured deposed President Nicolas Maduro and his wife a day earlier. (AP video by Juan Arraez)",
+      "image_url": "https://dims.apnews.com/dims4/default/153b0ff/2147483647/strip/true/crop/4352x2448+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fe1%2Fa17fa4ccd4f28bd2ab724ba1ed7b%2Ffc8aa7fce286486db0dc457796a3469e"
+    },
+    {
+      "headline": "India’s top court denies bail to 2 Muslim activists after 5 years in jail without trial",
+      "url": "https://apnews.com/article/india-delhi-riots-umar-khalid-sharjeel-imam-51c3925ad9bf6b881857c8330210fa79",
+      "published_at": null,
+      "summary": "Qasim Rasool, father of Umar Khalid, arrives at the Supreme Court for the hearing of the bail plea of his son in New Delhi, India, Monday, Jan. 5, 2026. (AP Photo/Dinesh Joshi)",
+      "image_url": "https://dims.apnews.com/dims4/default/880dc6f/2147483647/strip/true/crop/2267x1275+0+118/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F6a%2F0dfeb1afc6833560ba8f30ac0771%2F3af9ddc4d2c34e6da5eb51121e2c603f"
+    },
+    {
+      "headline": "Capitol riot 'does not happen' without Trump, Jack Smith told Congress",
+      "url": "https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript",
+      "published_at": "2025-12-31T21:15:19-05:00",
+      "summary": "In this image from video released by the House Judiciary Committee, former special counsel Jack Smith speaks during a deposition Dec. 17, 2025, at the U.S. Capitol in Washington.House Judiciary Committee/APhide caption",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2160x1214+0+102/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2F79%2F13153dd740fc976715ef1bd6a7a3%2Fap25365746528046.jpg"
+    },
+    {
+      "headline": "What candidates are running for statewide office in Ohio in 2026?",
+      "url": "https://news.yahoo.com/news/articles/candidates-running-statewide-office-ohio-095055876.html",
+      "published_at": "2026-01-05T09:50:55.000Z",
+      "summary": "Dr. Amy Acton, left, Democratic candidate for Ohio governor in 2026. And Republican businessman Vivek Ramaswamy, right, who has been officially endorsed for governor by the Ohio Republican Party. (Photos/Graphic by WEWS.)",
+      "image_url": "https://media.zenfs.com/en/ohio_capital_journal_articles_828/d96f8eabf0d82d09e9fd6a75b5725525"
+    },
+    {
+      "headline": "2 lanes blocked on I-75 SB due to vehicle fire",
+      "url": "https://news.yahoo.com/news/articles/2-lanes-blocked-75-sb-094749416.html",
+      "published_at": "2026-01-05T09:47:49.000Z",
+      "summary": "Firefighters are on the scene of a vehicle fire on Interstate 75 southbound in Miami County on Monday morning.",
+      "image_url": "https://media.zenfs.com/en/whio_cox_articles_828/0991bbd3189307072a27e895769a7ffa"
+    },
+    {
+      "headline": "Hicks: A reversal of rural fortunes since the pandemic",
+      "url": "https://news.yahoo.com/news/articles/hicks-reversal-rural-fortunes-since-094536377.html",
+      "published_at": "2026-01-05T09:45:36.000Z",
+      "summary": "Small towns are in for a sobering stretch of economic challenges as elected officials reverse pandemic-era policies that had been reviving them.",
+      "image_url": "https://media.zenfs.com/en/the-star-press/0cbb78497edb4259ec69f4461f0cdd39"
+    },
+    {
+      "headline": "One more look at 2025: These 67 Kansas news stories chronicled tumult, tribulation and triumph",
+      "url": "https://news.yahoo.com/news/articles/one-more-look-2025-67-093305384.html",
+      "published_at": "2026-01-05T09:33:05.000Z",
+      "summary": "Reporters gather around Gov. Laura Kelly and Kansas officials at the announcement of the Kansas City Chiefs' move to Kansas. (Photo by Anna Kaminski/Kansas Reflector)",
+      "image_url": "https://media.zenfs.com/en/kansas_reflector_articles_152/fdc6df371bca8c1bbca0dd48e02bf089"
+    },
+    {
+      "headline": "Trump's tariffs will make for a grim US economy in 2026 | Your Turn",
+      "url": "https://news.yahoo.com/news/articles/trumps-tariffs-grim-us-economy-093049133.html",
+      "published_at": "2026-01-05T09:30:49.000Z",
+      "summary": "USA TODAY and Yahoo may earn commission from links in this article. Pricing and availability subject to change.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/yzWW2EaSpisb5E0tBUxdUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_opinion_532/34c57d5635083a0295e9df5bb60cc2fc"
+    },
+    {
+      "headline": "Insurance company announces spring layoffs for 37 Illinois workers",
+      "url": "https://news.yahoo.com/news/articles/insurance-company-announces-spring-layoffs-091123684.html",
+      "published_at": "2026-01-05T09:11:23.000Z",
+      "summary": "A Delaware-based insurance company will lay off 37 employees in Chicago, according to the latestWorker Adjustment and Retraining Notificationnotices.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/334ACcjnFsLL3kZi6asrZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDA4O2NmPXdlYnA-/https://media.zenfs.com/en/journal-star/8d7fc923e2b7a064c42c126af32ed0d5"
+    },
+    {
+      "headline": "Naming Columbus I-70 for Trump? A dirt road honoring him would disrespect dirt | Letter",
+      "url": "https://news.yahoo.com/news/articles/naming-columbus-70-trump-dirt-090634753.html",
+      "published_at": "2026-01-05T09:06:34.000Z",
+      "summary": "Re\"Donald Trump Freedom Highway in Columbus? Tell us if you support I-70 name change,\" Dec. 30: I am so-o-o glad you asked about honoring Trump with highway naming.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/3_zgK6pLBIxFm4bn0O6gfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the-columbus-dispatch/cc0129854154f0b1e3a08cec8d143ebc"
+    },
+    {
+      "headline": "Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez",
+      "url": "https://www.foxnews.com/politics/trump-vows-us-in-charge-venezuela-he-reveals-hes-spoken-delcy-rodriguez",
+      "published_at": "2026-01-04T22:08:04-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-delcy-rodriguez.png"
+    },
+    {
+      "headline": "UK confirms joint airstrike targeting suspected ISIS weapons facility in Syria",
+      "url": "https://www.foxnews.com/world/uk-confirms-joint-airstrike-targeting-suspected-isis-weapons-facility-syria",
+      "published_at": "2026-01-04T20:52:44-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/isis-strike.gif"
+    },
+    {
+      "headline": "María Corina Machado, Venezuelan opposition urge military to back power transfer after Maduro capture",
+      "url": "https://www.foxnews.com/world/maria-corina-machado-venezuelan-opposition-urge-military-back-power-transfer-after-maduro-capture",
+      "published_at": "2026-01-03T12:10:13-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/maria-corina-machado-venezuela-escape-fox-news-2.jpg"
+    },
+    {
+      "headline": "Marco Rubio says he believes Cuba is 'in a lot of trouble'",
+      "url": "https://www.nbcnews.com/politics/national-security/marco-rubio-believes-cuba-trouble-havana-maduro-military-venezuela-rcna252150",
+      "published_at": "2026-01-04T17:53:30.941Z",
+      "summary": "Just one day after the U.S. conducted a military operation that led to the capture of Venezuelan leader Nicolás Maduro and his wife, Secretary of State Marco Rubio reiterated a warning to Cuba, telling NBC News’ “Meet the Press” that he thinks “they’re in a lot of trouble.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-rubio-trump-rs-6e874c.jpg"
+    },
+    {
+      "headline": "Four big things Congress did in 2025 — and how they could affect you",
+      "url": "https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338",
+      "published_at": "2026-01-02T15:32:04.751Z",
+      "summary": "WASHINGTON — The Republican-led Congress had a busy first year of President Donald Trump’s second term in 2025.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg"
+    },
+    {
+      "headline": "What we learned about the state of the Trump coalition in conversations with 50 voters",
+      "url": "https://www.nbcnews.com/politics/elections/learned-state-trump-coalition-conversations-50-voters-year-rcna248275",
+      "published_at": "2025-12-29T10:00:40.000Z",
+      "summary": "The voters who put President Donald Trump back in the White House last year still largely support him. But they are increasingly disagreeing with the president on issues like the economy and immigration, raising questions about the strength of his coalition heading into a midterm election year.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251209-trump-speech-lr-6a0648.jpg"
     },
     {
       "headline": "Trump and top Iranian officials exchange threats over protests roiling Iran",
@@ -3010,13 +3115,6 @@
       "published_at": "2026-01-03T19:15:24.097Z",
       "summary": "WASHINGTON — While Republican leaders and allies of President Donald Trump praisedhis strike in Venezuelato capture leader Nicolás Maduro, Democrats and even some Republicans from various ideological corners of the party are pushing back.",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251210-us-capitol-gk-4ba6fe.jpg"
-    },
-    {
-      "headline": "The Supreme Court has delayed direct conflict with Trump. Here's why that could soon change.",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-new-term-trump-tariffs-birthright-citizenship-fed-rcna249340",
-      "published_at": "2026-01-03T10:00:41.000Z",
-      "summary": "WASHINGTON — President Donald Trump and the Supreme Court’s smooth relationship could turn sour in the new year.",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-Trump-aa-1151-0d20c5.jpg"
     },
     {
       "headline": "Minnesota department finds child care centers targeted in viral video operating normally",
