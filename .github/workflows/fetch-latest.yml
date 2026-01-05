@@ -30,6 +30,8 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import sys
+          sys.path.append(str(Path.cwd()))
           from datetime import datetime, timezone
           import scrape_latest
 
