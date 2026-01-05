@@ -1,4 +1,4 @@
-name: Fetch US News (Free Sources)
+name: Fetch US News (Clean Articles Only)
 
 on:
   schedule:
@@ -26,10 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4
 
-      - name: Fetch US news (no categories)
+      - name: Fetch US news
         run: |
           python - <<'PY'
           import json
+          import re
           import urllib.request
           from bs4 import BeautifulSoup
           from urllib.parse import urljoin, urlparse
@@ -40,40 +41,40 @@ jobs:
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
           }
 
-          US_SOURCES = [
+          SOURCES = [
               {"url": "https://apnews.com/us-news", "domain": "apnews.com"},
               {"url": "https://apnews.com/politics", "domain": "apnews.com"},
-              {"url": "https://apnews.com/sports", "domain": "apnews.com"},
               {"url": "https://apnews.com/world-news", "domain": "apnews.com"},
 
               {"url": "https://www.npr.org/sections/national/", "domain": "www.npr.org"},
-              {"url": "https://www.npr.org/sections/business/", "domain": "www.npr.org"},
-
               {"url": "https://www.pbs.org/newshour/", "domain": "www.pbs.org"},
-              {"url": "https://www.pbs.org/newshour/politics", "domain": "www.pbs.org"},
-
               {"url": "https://news.yahoo.com/us/", "domain": "news.yahoo.com"},
-              {"url": "https://news.yahoo.com/politics/", "domain": "news.yahoo.com"},
-
               {"url": "https://www.huffpost.com/news/politics", "domain": "www.huffpost.com"},
 
-              # NEW
               {"url": "https://www.vox.com/politics", "domain": "www.vox.com"},
 
               {"url": "https://www.politico.com/white-house-news-updates-analysis", "domain": "www.politico.com"},
-              {"url": "https://www.politico.com/healthcare-news-updates-analysis", "domain": "www.politico.com"},
               {"url": "https://www.politico.com/news/california", "domain": "www.politico.com"},
               {"url": "https://www.politico.com/news/new-york", "domain": "www.politico.com"},
 
               {"url": "https://www.foxnews.com/us", "domain": "www.foxnews.com"},
               {"url": "https://www.foxnews.com/politics", "domain": "www.foxnews.com"},
-              {"url": "https://www.foxnews.com/world", "domain": "www.foxnews.com"},
-              {"url": "https://www.foxnews.com/entertainment", "domain": "www.foxnews.com"},
-              {"url": "https://www.foxnews.com/sports", "domain": "www.foxnews.com"},
 
               {"url": "https://www.nbcnews.com/politics", "domain": "www.nbcnews.com"},
               {"url": "https://www.nbcnews.com/us-news", "domain": "www.nbcnews.com"},
-              {"url": "https://www.nbcnews.com/business", "domain": "www.nbcnews.com"},
+          ]
+
+          BAD_KEYWORDS = [
+              "/tag/", "/tags/", "/topic/", "/topics/", "/section/",
+              "/author", "/authors", "/about", "/subscribe",
+              "/newsletter", "/podcast", "/video", "/videos",
+              "/gallery", "/photo", "/live", "/shows"
+          ]
+
+          ARTICLE_PATTERNS = [
+              r"/\d{4}/\d{2}/\d{2}/",
+              r"/\d{4}/\d{2}/",
+              r"-\d{6,}"
           ]
 
           def fetch_html(url):
@@ -82,12 +83,33 @@ jobs:
                   return r.read()
 
           def same_domain(href, domain):
-              if not href:
-                  return False
               if href.startswith("/"):
                   return True
               netloc = urlparse(href).netloc
               return netloc == "" or netloc == domain or netloc.endswith("." + domain)
+
+          def valid_headline(text):
+              if not text:
+                  return False
+              text = text.strip()
+              if len(text) < 30 or len(text) > 140:
+                  return False
+              if text.isupper():
+                  return False
+              if len(text.split()) < 5:
+                  return False
+              return True
+
+          def looks_like_article(url):
+              u = url.lower()
+              for bad in BAD_KEYWORDS:
+                  if bad in u:
+                      return False
+              for p in ARTICLE_PATTERNS:
+                  if re.search(p, u):
+                      return True
+              slug = u.rstrip("/").split("/")[-1]
+              return slug.count("-") >= 3 and len(slug) > 25
 
           def get_meta(url):
               try:
@@ -95,8 +117,8 @@ jobs:
                   with urllib.request.urlopen(req, timeout=12) as r:
                       soup = BeautifulSoup(r.read(), "html.parser")
 
-                  og = soup.find("meta", property="og:image")
-                  image = og["content"] if og and og.get("content") else None
+                  img = soup.find("meta", property="og:image")
+                  image = img["content"] if img and img.get("content") else None
 
                   published = None
                   time_tag = soup.find("time")
@@ -105,38 +127,37 @@ jobs:
 
                   summary = None
                   for p in soup.find_all("p"):
-                      txt = p.get_text(strip=True)
-                      if txt and len(txt) > 40:
-                          summary = txt
+                      t = p.get_text(strip=True)
+                      if t and len(t) > 60:
+                          summary = t
                           break
 
                   return image, published, summary
               except Exception:
                   return None, None, None
 
-          def scrape_source(source, max_items=30):
-              html = fetch_html(source["url"])
-              soup = BeautifulSoup(html, "html.parser")
-              items = []
+          def scrape_source(src, limit=25):
+              soup = BeautifulSoup(fetch_html(src["url"]), "html.parser")
+              results = []
               seen = set()
 
-              for a in soup.find_all("a"):
+              for a in soup.select("article a[href], h2 a[href], h3 a[href]"):
                   href = a.get("href")
                   title = a.get_text(strip=True)
 
-                  if not href or not title or len(title) < 22:
+                  if not href or not valid_headline(title):
                       continue
-                  if not same_domain(href, source["domain"]):
+                  if not same_domain(href, src["domain"]):
                       continue
 
-                  url = urljoin(source["url"], href)
-                  if url in seen or url.endswith("#"):
+                  url = urljoin(src["url"], href)
+                  if url in seen or not looks_like_article(url):
                       continue
 
                   image, published, summary = get_meta(url)
                   seen.add(url)
 
-                  items.append({
+                  results.append({
                       "headline": title,
                       "url": url,
                       "published_at": published,
@@ -144,58 +165,50 @@ jobs:
                       "image_url": image
                   })
 
-                  if len(items) >= max_items:
+                  if len(results) >= limit:
                       break
 
-              return items
+              return results
 
-          all_news = []
+          all_items = []
           seen_urls = set()
 
-          for src in US_SOURCES:
+          for s in SOURCES:
               try:
-                  articles = scrape_source(src)
-                  for a in articles:
-                      if a["url"] not in seen_urls:
-                          seen_urls.add(a["url"])
-                          all_news.append(a)
+                  for item in scrape_source(s):
+                      if item["url"] not in seen_urls:
+                          seen_urls.add(item["url"])
+                          all_items.append(item)
               except Exception as e:
-                  print(f"Failed {src['url']}: {e}")
+                  print("Failed:", s["url"], e)
 
           existing = []
           if Path("us_news.json").exists():
-              try:
-                  existing = json.loads(
-                      Path("us_news.json").read_text(encoding="utf-8")
-                  ).get("stories", [])
-              except Exception:
-                  pass
+              existing = json.loads(Path("us_news.json").read_text()).get("stories", [])
 
           def dedupe(items):
-              out = []
-              seen = set()
+              out, seen = [], set()
               for i in items:
                   u = i.get("url")
-                  if not u or u in seen:
-                      continue
-                  seen.add(u)
-                  out.append(i)
+                  if u and u not in seen:
+                      seen.add(u)
+                      out.append(i)
               return out
 
-          merged = dedupe(all_news + existing)
+          final = dedupe(all_items + existing)
 
           with open("us_news.json", "w", encoding="utf-8") as f:
               json.dump(
                   {
                       "fetched_at": datetime.now(timezone.utc).isoformat(),
-                      "stories": merged
+                      "stories": final
                   },
                   f,
                   ensure_ascii=False,
                   indent=2
               )
 
-          print(f"Saved {len(merged)} US news articles")
+          print("Saved", len(final), "clean articles")
           PY
 
       - name: Commit and push
@@ -207,5 +220,5 @@ jobs:
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore: update US news"
+          git commit -m "chore: update clean US news"
           git push
