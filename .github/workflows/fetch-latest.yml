@@ -30,10 +30,14 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          import sys
-          sys.path.append(str(Path.cwd()))
           from datetime import datetime, timezone
-          import scrape_latest
+          import importlib.util
+
+          root = Path.cwd()
+          scraper_path = root / "scrape_latest.py"
+          spec = importlib.util.spec_from_file_location("scrape_latest", scraper_path)
+          scrape_latest = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(scrape_latest)
 
           scrape_latest.SOURCE_URLS = [
               "https://apnews.com/us-news",
