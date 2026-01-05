@@ -56,6 +56,24 @@ jobs:
               {"url": "https://news.yahoo.com/politics/", "domain": "news.yahoo.com"},
 
               {"url": "https://www.huffpost.com/news/politics", "domain": "www.huffpost.com"},
+
+              # NEW
+              {"url": "https://www.vox.com/politics", "domain": "www.vox.com"},
+
+              {"url": "https://www.politico.com/white-house-news-updates-analysis", "domain": "www.politico.com"},
+              {"url": "https://www.politico.com/healthcare-news-updates-analysis", "domain": "www.politico.com"},
+              {"url": "https://www.politico.com/news/california", "domain": "www.politico.com"},
+              {"url": "https://www.politico.com/news/new-york", "domain": "www.politico.com"},
+
+              {"url": "https://www.foxnews.com/us", "domain": "www.foxnews.com"},
+              {"url": "https://www.foxnews.com/politics", "domain": "www.foxnews.com"},
+              {"url": "https://www.foxnews.com/world", "domain": "www.foxnews.com"},
+              {"url": "https://www.foxnews.com/entertainment", "domain": "www.foxnews.com"},
+              {"url": "https://www.foxnews.com/sports", "domain": "www.foxnews.com"},
+
+              {"url": "https://www.nbcnews.com/politics", "domain": "www.nbcnews.com"},
+              {"url": "https://www.nbcnews.com/us-news", "domain": "www.nbcnews.com"},
+              {"url": "https://www.nbcnews.com/business", "domain": "www.nbcnews.com"},
           ]
 
           def fetch_html(url):
