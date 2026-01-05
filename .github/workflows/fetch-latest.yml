@@ -1,4 +1,4 @@
-name: Fetch latest news
+name: Fetch US News (Free Sources)
 
 on:
   schedule:
@@ -24,61 +24,170 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install beautifulsoup4
 
-      - name: Fetch latest news JSON
+      - name: Fetch US news (no categories)
         run: |
           python - <<'PY'
+          import json
+          import urllib.request
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin, urlparse
           from pathlib import Path
           from datetime import datetime, timezone
-          import importlib.util
-          import sys
-          import os
 
-          workspace = Path(os.environ.get("GITHUB_WORKSPACE", ".")).resolve()
-          matches = list(workspace.rglob("scrape_latest.py"))
-          if not matches:
-              raise SystemExit("scrape_latest.py not found in workspace")
-          scraper_path = matches[0]
+          HEADERS = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          }
 
-          spec = importlib.util.spec_from_file_location("scrape_latest", scraper_path)
-          scrape_latest = importlib.util.module_from_spec(spec)
-          spec.loader.exec_module(scrape_latest)
+          US_SOURCES = [
+              {"url": "https://apnews.com/us-news", "domain": "apnews.com"},
+              {"url": "https://apnews.com/politics", "domain": "apnews.com"},
+              {"url": "https://apnews.com/sports", "domain": "apnews.com"},
+              {"url": "https://apnews.com/world-news", "domain": "apnews.com"},
 
-          scrape_latest.SOURCE_URLS = [
-              "https://apnews.com/us-news",
-              "https://apnews.com/politics",
-              "https://apnews.com/sports",
-              "https://apnews.com/world-news",
-              "https://www.npr.org/sections/national/",
-              "https://www.npr.org/sections/business/",
-              "https://www.pbs.org/newshour/",
-              "https://www.pbs.org/newshour/politics",
-              "https://news.yahoo.com/us/",
-              "https://news.yahoo.com/politics/",
-              "https://www.huffpost.com/news/politics",
-              "https://news.yahoo.com/us/",
-              "https://news.yahoo.com/politics/",
+              {"url": "https://www.npr.org/sections/national/", "domain": "www.npr.org"},
+              {"url": "https://www.npr.org/sections/business/", "domain": "www.npr.org"},
+
+              {"url": "https://www.pbs.org/newshour/", "domain": "www.pbs.org"},
+              {"url": "https://www.pbs.org/newshour/politics", "domain": "www.pbs.org"},
+
+              {"url": "https://news.yahoo.com/us/", "domain": "news.yahoo.com"},
+              {"url": "https://news.yahoo.com/politics/", "domain": "news.yahoo.com"},
+
+              {"url": "https://www.huffpost.com/news/politics", "domain": "www.huffpost.com"},
           ]
 
-          stories = scrape_latest.fetch_latest()
-          scrape_latest.save_payload(stories, Path("latest_news.json"))
-          print(f"Fetched {len(stories)} stories at {datetime.now(timezone.utc).isoformat()}")
+          def fetch_html(url):
+              req = urllib.request.Request(url, headers=HEADERS)
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return r.read()
+
+          def same_domain(href, domain):
+              if not href:
+                  return False
+              if href.startswith("/"):
+                  return True
+              netloc = urlparse(href).netloc
+              return netloc == "" or netloc == domain or netloc.endswith("." + domain)
+
+          def get_meta(url):
+              try:
+                  req = urllib.request.Request(url, headers=HEADERS)
+                  with urllib.request.urlopen(req, timeout=12) as r:
+                      soup = BeautifulSoup(r.read(), "html.parser")
+
+                  og = soup.find("meta", property="og:image")
+                  image = og["content"] if og and og.get("content") else None
+
+                  published = None
+                  time_tag = soup.find("time")
+                  if time_tag and time_tag.get("datetime"):
+                      published = time_tag["datetime"]
+
+                  summary = None
+                  for p in soup.find_all("p"):
+                      txt = p.get_text(strip=True)
+                      if txt and len(txt) > 40:
+                          summary = txt
+                          break
+
+                  return image, published, summary
+              except Exception:
+                  return None, None, None
+
+          def scrape_source(source, max_items=30):
+              html = fetch_html(source["url"])
+              soup = BeautifulSoup(html, "html.parser")
+              items = []
+              seen = set()
+
+              for a in soup.find_all("a"):
+                  href = a.get("href")
+                  title = a.get_text(strip=True)
+
+                  if not href or not title or len(title) < 22:
+                      continue
+                  if not same_domain(href, source["domain"]):
+                      continue
+
+                  url = urljoin(source["url"], href)
+                  if url in seen or url.endswith("#"):
+                      continue
+
+                  image, published, summary = get_meta(url)
+                  seen.add(url)
+
+                  items.append({
+                      "headline": title,
+                      "url": url,
+                      "published_at": published,
+                      "summary": summary,
+                      "image_url": image
+                  })
+
+                  if len(items) >= max_items:
+                      break
+
+              return items
+
+          all_news = []
+          seen_urls = set()
+
+          for src in US_SOURCES:
+              try:
+                  articles = scrape_source(src)
+                  for a in articles:
+                      if a["url"] not in seen_urls:
+                          seen_urls.add(a["url"])
+                          all_news.append(a)
+              except Exception as e:
+                  print(f"Failed {src['url']}: {e}")
+
+          existing = []
+          if Path("us_news.json").exists():
+              try:
+                  existing = json.loads(
+                      Path("us_news.json").read_text(encoding="utf-8")
+                  ).get("stories", [])
+              except Exception:
+                  pass
+
+          def dedupe(items):
+              out = []
+              seen = set()
+              for i in items:
+                  u = i.get("url")
+                  if not u or u in seen:
+                      continue
+                  seen.add(u)
+                  out.append(i)
+              return out
+
+          merged = dedupe(all_news + existing)
+
+          with open("us_news.json", "w", encoding="utf-8") as f:
+              json.dump(
+                  {
+                      "fetched_at": datetime.now(timezone.utc).isoformat(),
+                      "stories": merged
+                  },
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print(f"Saved {len(merged)} US news articles")
           PY
 
-      - name: Commit and push changes
-        env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          GIT_COMMITTER_NAME: github-actions[bot]
-          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Commit and push
         run: |
-          git config user.name "$GIT_AUTHOR_NAME"
-          git config user.email "$GIT_AUTHOR_EMAIL"
-          git add latest_news.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add us_news.json
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
             exit 0
           fi
-          git commit -m "chore: update latest news"
+          git commit -m "chore: update US news"
           git push
