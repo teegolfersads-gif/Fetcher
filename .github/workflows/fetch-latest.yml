@@ -32,9 +32,15 @@ jobs:
           from pathlib import Path
           from datetime import datetime, timezone
           import importlib.util
+          import sys
+          import os
 
-          root = Path.cwd()
-          scraper_path = root / "scrape_latest.py"
+          workspace = Path(os.environ.get("GITHUB_WORKSPACE", ".")).resolve()
+          matches = list(workspace.rglob("scrape_latest.py"))
+          if not matches:
+              raise SystemExit("scrape_latest.py not found in workspace")
+          scraper_path = matches[0]
+
           spec = importlib.util.spec_from_file_location("scrape_latest", scraper_path)
           scrape_latest = importlib.util.module_from_spec(spec)
           spec.loader.exec_module(scrape_latest)
