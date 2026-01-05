@@ -1,47 +1,87 @@
-import xml.etree.ElementTree as ET
-import urllib.request
-import json
-from datetime import datetime, timezone
-from pathlib import Path
+name: Fetch US News (Google RSS)
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
-def fetch(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read()
+permissions:
+  contents: write
 
-stories = []
-seen = set()
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
 
-for feed in GOOGLE_RSS:
-    root = ET.fromstring(fetch(feed))
-    for item in root.findall(".//item"):
-        title = item.findtext("title")
-        link = item.findtext("link")
-        pub = item.findtext("pubDate")
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-        if not title or not link:
-            continue
-        if link in seen:
-            continue
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-        seen.add(link)
-        stories.append({
-            "headline": title,
-            "url": link,
-            "published_at": pub
-        })
+      - name: Fetch US news via Google RSS
+        run: |
+          python <<'PY'
+          import xml.etree.ElementTree as ET
+          import urllib.request
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
 
-Path("us_news.json").write_text(
-    json.dumps(
-        {
-            "fetched_at": datetime.now(timezone.utc).isoformat(),
-            "stories": stories
-        },
-        indent=2
-    ),
-    encoding="utf-8"
-)
+          GOOGLE_RSS = [
+              "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",
+              "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
+          ]
 
-print("Fetched", len(stories), "articles")
+          HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+          def fetch(url):
+              req = urllib.request.Request(url, headers=HEADERS)
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return r.read()
+
+          stories = []
+          seen = set()
+
+          for feed in GOOGLE_RSS:
+              root = ET.fromstring(fetch(feed))
+              for item in root.findall(".//item"):
+                  title = item.findtext("title")
+                  link = item.findtext("link")
+                  pub = item.findtext("pubDate")
+
+                  if not title or not link:
+                      continue
+                  if link in seen:
+                      continue
+
+                  seen.add(link)
+                  stories.append({
+                      "headline": title,
+                      "url": link,
+                      "published_at": pub
+                  })
+
+          Path("us_news.json").write_text(
+              json.dumps(
+                  {
+                      "fetched_at": datetime.now(timezone.utc).isoformat(),
+                      "stories": stories
+                  },
+                  indent=2
+              ),
+              encoding="utf-8"
+          )
+
+          print("Fetched", len(stories), "articles")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add us_news.json
+          git diff --cached --quiet || git commit -m "chore: update US news"
+          git push
