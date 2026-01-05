@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-05T07:56:13.354695+00:00",
+  "fetched_at": "2026-01-05T08:04:08.675699+00:00",
   "stories": [
     {
       "headline": "LIVERubio says US won’t govern Venezuela but will press changes through oil blockade",
@@ -203,13 +203,6 @@
       "published_at": null,
       "summary": "Copyright 2026 The Associated Press. All Rights Reserved.",
       "image_url": "https://dims.apnews.com/dims4/default/f422ef9/2147483647/strip/true/crop/3870x2177+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb3%2Fd5%2F8073db2f06b83ad8972af96e8f6f%2F9e5b00b7a52c4ab18ef0d01150fcfd27"
-    },
-    {
-      "headline": "A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera",
-      "url": "https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26",
-      "published_at": null,
-      "summary": "Copyright 2026 The Associated Press. All Rights Reserved.",
-      "image_url": "https://dims.apnews.com/dims4/default/a4ca28e/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2Fcf%2Ff8600a3d4a0b94fe5e105492ca4f%2Fyoutube-thumbnails-2025-02-13t172233-215.png"
     },
     {
       "headline": "Auto shop owner who paid worker in 91,500 oily pennies ordered to pay nearly $40,000 more",
@@ -436,18 +429,25 @@
       "image_url": "https://media.npr.org/assets/img/2018/newsletters/og-images/general-npr-email-image-s1400-c100.png"
     },
     {
+      "headline": "The Indicator from Planet Money",
+      "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
+      "published_at": "2026-01-05",
+      "summary": "A bite-sized show about big ideas. From the people who makePlanet Money,The Indicatorhelps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less.",
+      "image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_wide-0d993460492102e3895016ac8ec5a30137aeb81e.jpg?s=1400&c=100&f=jpeg"
+    },
+    {
+      "headline": "Why China pulled the plug on Japan",
+      "url": "https://www.npr.org/2026/01/05/nx-s1-5664903/why-china-pulled-the-plug-on-japan",
+      "published_at": "2026-01-05T03:00:02-05:00",
+      "summary": "Japan’s new prime minister Sanae Takaichi made waves last fall after saying her country might intervene if China invaded Taiwan. In response, China launched state-organized boycotts against Japan — canceling concerts, restricting seafood imports, and even recalling pandas. Today on the show, what does it look like for a state to organize a boycott, and does it work?Related episodes:How Japan’s new prime minister is jolting marketsWhen do boycotts work?Forging Taiwan's Silicon ShieldFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or atplus.npr.org. Fact-checking bySierra Juarez. Music byDrop Electric. Find us:TikTok,Instagram,Facebook,Newsletter.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2Fc8%2F480fe2b54ef4b567e133ecf5e9e3%2Fc523ea88-12e1-4a96-8a46-e6e5c548523e.jpg"
+    },
+    {
       "headline": "Venezuela’s recent economic history (Update)",
       "url": "https://www.npr.org/2026/01/04/nx-s1-5666322/venezuela-hyperinflation-maduro-gonzalez",
       "published_at": "2026-01-04T13:07:54-05:00",
       "summary": "We've been checking in on the economic conditions in Venezuela for about a decade now. In response to the U.S. strike and the capture of Venezuelan president Nicolás Maduro this weekend, we're re-surfacing this episode with an update.",
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2782x1565+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F92%2F0f305273493a8be8980fd4720ce4%2F1aaa643b-9469-4054-b28b-67525cb082f3.jpg"
-    },
-    {
-      "headline": "The Indicator from Planet Money",
-      "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
-      "published_at": "2026-01-03",
-      "summary": "A bite-sized show about big ideas. From the people who makePlanet Money,The Indicatorhelps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less.",
-      "image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_wide-0d993460492102e3895016ac8ec5a30137aeb81e.jpg?s=1400&c=100&f=jpeg"
     },
     {
       "headline": "Venezuela’s economic descent (Updated)",
@@ -595,13 +595,6 @@
       "published_at": "2025-12-24T03:30:00-05:00",
       "summary": "On the eve of Netflix shoveling a fourish-hour chunk of Stranger Things onto Christmas Day, we visit the past, present, and future of binge-dropped television shows.",
       "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F14%2Fd954507d45d58d5a5907865ee532%2F4b9f1f97-1129-4304-9ec4-9af033adc080.jpg"
-    },
-    {
-      "headline": "Why every A-lister also has a side hustle (Encore)",
-      "url": "https://www.npr.org/2025/12/24/nx-s1-5652152/why-every-a-lister-also-has-a-side-hustle-encore",
-      "published_at": "2025-12-24T03:00:04-05:00",
-      "summary": "Happy Holidays from The Indicator! For the next week, we're running some of our favorite shows from this year. On today's show, why celebrities are increasingly investing in their own brands.This piece originally aired August 14, 2025.Related episodes:The celebrity crypto nexusThe Olympian to influencer pipeline (Apple/Spotify)For sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or atplus.npr.org.Fact-checking bySierra Juarez. Music byDrop Electric. Find us:TikTok,Instagram,Facebook,Newsletter.",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F7c%2Fabd9322f47cb8497dbfd634a6361%2F309fe79a-a558-4cda-992c-21bd0e55dd80.jpg"
     },
     {
       "headline": "Innovation and Invention",
@@ -891,6 +884,13 @@
       "image_url": "https://media.zenfs.com/en/kget_bakersfield_articles_800/2980a0325fb05ade2339666573a3e16e"
     },
     {
+      "headline": "Maduro is set to make his first appearance in a US courtroom on drug trafficking charges",
+      "url": "https://news.yahoo.com/news/articles/maduro-set-first-appearance-us-075938468.html",
+      "published_at": "2026-01-05T07:59:38.000Z",
+      "summary": "NEW YORK (AP) — Deposed Venezuelan PresidentNicolás Madurois set to make his first appearance Monday in an American courtroom on the narco-terrorism charges the Trump administration used to justifycapturing him and bringing himto New York.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/WzKM5gyUfZdUHXGblOXDMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/baa2614a2fdcb8fc1bff6814304e47c3"
+    },
+    {
       "headline": "US capture of Maduro divides a changed region, thrilling Trump's allies and threatening his foes",
       "url": "https://news.yahoo.com/news/articles/us-capture-maduro-divides-changed-052907311.html",
       "published_at": "2026-01-05T05:29:07.000Z",
@@ -931,13 +931,6 @@
       "published_at": "2026-01-05T00:30:41.000Z",
       "summary": "House Minority LeaderHakeem Jeffrieshammered President Donald Trump’s claims that he will “run” Venezuela after having attacked the country and″captured” its leader.",
       "image_url": "https://media.zenfs.com/en/the_huffington_post_584/79b0f8438ff58828573a405919db8206"
-    },
-    {
-      "headline": "From 'First Buddy' bromance to a feud to a thaw, here's how Elon Musk and Donald Trump's relationship has evolved",
-      "url": "https://news.yahoo.com/news/articles/elon-musk-donald-trump-now-205703611.html",
-      "published_at": "2026-01-04T20:05:57.000Z",
-      "summary": "Elon Musk andDonald Trumphave had a tumultuous relationship over the years.",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/Xfn3HiIMhUzFlorcsbD8mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/business_insider_articles_888/877e0d15a68ae95a0ee1573ef9dcf656"
     },
     {
       "headline": "Gmail Users Were Automatically Opted In to This Controversial Setting. Here's How To Turn It Off.",
@@ -1141,6 +1134,1511 @@
       "published_at": null,
       "summary": "HuffPost values audience diversity and inclusion, and to that end, we are actively working to further enhance the accessibility of our websites to visitors who use digital assistive technologies like screen readers, screen magnifiers, or voice recognition software. We view accessibility as an ongoing effort.",
       "image_url": null
+    },
+    {
+      "headline": "The homepageVoxVox logo",
+      "url": "https://www.vox.com/",
+      "published_at": "2026-01-03T21:39:01+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://www.vox.com/static-assets/default-og-image.png"
+    },
+    {
+      "headline": "The US in Venezuela: Latest stories and updates",
+      "url": "https://www.vox.com/politics/473967/us-venezuela-trump-maduro-oil-crisis-rodriguez",
+      "published_at": "2026-01-03T21:39:01+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253880157.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Trump says the US is going to “run” Venezuela. What does that mean?",
+      "url": "https://www.vox.com/politics/473953/trump-maduro-regime-change",
+      "published_at": "2026-01-03T21:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253924553.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
+    },
+    {
+      "headline": "How Trump went from boat strikes to regime change in Venezuela",
+      "url": "https://www.vox.com/politics/473935/trump-venezuela-attack-maduro-arrest-criminal-charges-what-to-know",
+      "published_at": "2026-01-03T18:25:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253839690.jpg?quality=90&strip=all&crop=0%2C10.730425347889%2C100%2C78.539149304223&w=1200"
+    },
+    {
+      "headline": "Why Trump sent in troops to capture Maduro, briefly explained",
+      "url": "https://www.vox.com/politics/473918/venezuela-maduro-captured-strikes-trump",
+      "published_at": "2026-01-03T15:37:39+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253860423.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Why is the US attacking Venezuela?",
+      "url": "https://www.vox.com/politics/470879/venezuela-maduro-drug-boats-military-strikes",
+      "published_at": "2026-01-03T13:05:15+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253857803.jpg?quality=90&strip=all&crop=0%2C10.729137979578%2C100%2C78.541724040845&w=1200"
+    },
+    {
+      "headline": "How to kill a rogue AI",
+      "url": "https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control",
+      "published_at": "2026-01-02T12:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2231488666.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
+    },
+    {
+      "headline": "Elon Musk created a monster that’s tearing the right apart",
+      "url": "https://www.vox.com/politics/473801/elon-musk-x-twitter-influencer-feuding-rufo-antisemitism",
+      "published_at": "2026-01-02T11:30:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-2180560425.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200"
+    },
+    {
+      "headline": "26 things we think will happen in 2026",
+      "url": "https://www.vox.com/future-perfect/473166/forecasts-2026-trump-congress-democrats-musk-artificial-intelligence-hurricanes",
+      "published_at": "2026-01-01T11:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/CeliaJacobs_Vox_PredictionsRevisited.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Inside Trump’s “no data, just vibes” approach to science",
+      "url": "https://www.vox.com/climate/473751/trump-data-deletion-nih-epa-ncar-climate-science-epa-rfk-hhs",
+      "published_at": "2025-12-31T12:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-2154545165.jpg?quality=90&strip=all&crop=0%2C10.737866428679%2C100%2C78.524267142642&w=1200"
+    },
+    {
+      "headline": "The 19 predictions that came true in 2025 — and the 4 that didn’t",
+      "url": "https://www.vox.com/future-perfect/473164/israel-iran-nuclear-bitcoin-trump-musk-congress-forecasts-2025",
+      "published_at": "2025-12-31T11:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/CeliaJacobs_Vox_2025PredictionsRevisited.jpg?quality=90&strip=all&crop=0%2C21.226116998392%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "What the public really thinks about AI",
+      "url": "https://www.vox.com/politics/473715/ai-data-center-chatgpt-electricity-polls",
+      "published_at": "2025-12-30T16:15:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2249621488.jpg?quality=90&strip=all&crop=0%2C10.742803501923%2C100%2C78.514392996155&w=1200"
+    },
+    {
+      "headline": "Zohran Mamdani on his mayoral transition and what comes next",
+      "url": "https://www.vox.com/podcasts/473570/zohran-mamdani-vox-astead-herndon",
+      "published_at": "2025-12-29T19:30:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/why-zohran-mamdani-wants-to-demystify-the-political-process-full-video-interview.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "headline": "10 of the best Vox stories of 2025",
+      "url": "https://www.vox.com/today-explained-newsletter/473442/vox-best-stories-2025-climate-madagascar-podcasts-ai-hungary-trump",
+      "published_at": "2025-12-29T12:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/Vox_Favs_.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "The most volatile group of voters is turning on Trump",
+      "url": "https://www.vox.com/politics/473291/gen-z-volatile-young-trump-voters-conservative-democrat-liberal-vote",
+      "published_at": "2025-12-29T11:15:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2252049264.jpg?quality=90&strip=all&crop=0%2C10.605002908668%2C100%2C78.789994182664&w=1200"
+    },
+    {
+      "headline": "Why politics is ruining how we watch movies",
+      "url": "https://www.vox.com/culture/469833/one-battle-after-another-trump-superman-wicked-oscars",
+      "published_at": "2025-12-29T11:06:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GlennHarvey_Vox_Movies.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Why is the US bombing Nigeria?",
+      "url": "https://www.vox.com/politics/467256/trump-nigeria-christians-intervention-military",
+      "published_at": "2025-12-26T18:13:32+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/gettyimages-1245752969.jpg?quality=90&strip=all&crop=0%2C10.728005592077%2C100%2C78.543988815846&w=1200"
+    },
+    {
+      "headline": "Why 2025 was hell for job hunters",
+      "url": "https://www.vox.com/money/473182/jobs-hiring-economy-us-market-linkedin",
+      "published_at": "2025-12-26T11:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2239024059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "JD Vance and the future of MAGA",
+      "url": "https://www.vox.com/podcasts/473022/jd-vance-explained-ian-ward",
+      "published_at": "2025-12-25T12:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2243659926.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Trump is talking about Greenland again",
+      "url": "https://www.vox.com/politics/473366/trump-greenland-denmark",
+      "published_at": "2025-12-24T12:15:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2252567673.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "The Supreme Court just handed Trump a rare — and very significant — loss",
+      "url": "https://www.vox.com/politics/473434/supreme-court-trump-national-guard",
+      "published_at": "2025-12-23T21:50:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2194930446.jpg?quality=90&strip=all&crop=0%2C10.729520677095%2C100%2C78.540958645809&w=1200"
+    },
+    {
+      "headline": "Will Trump pardon Epstein’s chief enabler?",
+      "url": "https://www.vox.com/podcasts/473264/ghislaine-maxwell-trump-pardon-jeff-epstein",
+      "published_at": "2025-12-23T16:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2252143773.jpg?quality=90&strip=all&crop=0%2C13.100690017097%2C100%2C73.798619965807&w=1200"
+    },
+    {
+      "headline": "The culture war is consuming the Supreme Court",
+      "url": "https://www.vox.com/politics/473152/supreme-court-culture-war-guns-religion-lgbtq-abortion",
+      "published_at": "2025-12-23T11:30:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194969562.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "How Wall Street helped turn poor countries into permanent debtors",
+      "url": "https://www.vox.com/future-perfect/473151/sovereign-debt-crisis-wall-strwet",
+      "published_at": "2025-12-23T11:30:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/Vox_DevilWearsKhakis_JaredBartman.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "7 reasons to feel actually hopeful about the clean energy transition",
+      "url": "https://www.vox.com/climate/473138/clean-energy-transition-trump-solar-2025-batteries-renewables-evs",
+      "published_at": "2025-12-23T11:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-2243731768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "Trump’s war on windmills, briefly explained",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/473251/donald-trump-wind-energy-windmills-lease-halt-briefly-explained",
+      "published_at": "2025-12-22T23:05:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2236453703.jpg?quality=90&strip=all&crop=9.7556738582236%2C0%2C80.488652283553%2C100&w=1200"
+    },
+    {
+      "headline": "Is CBS News censoring 60 Minutes?",
+      "url": "https://www.vox.com/politics/473241/60-minutes-cbs-censored-bari-weiss",
+      "published_at": "2025-12-22T22:35:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-2250986773.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200"
+    },
+    {
+      "headline": "2025 was the year everything changed for the US and China",
+      "url": "https://www.vox.com/politics/473085/us-china-rare-earths-2025",
+      "published_at": "2025-12-22T11:30:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2243596432.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "headline": "What does Trump’s AI czar want?",
+      "url": "https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump",
+      "published_at": "2025-12-21T13:00:00+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/gettyimages-2203839341.jpg?quality=90&strip=all&crop=0%2C10.750608626994%2C100%2C78.498782746012&w=1200"
+    },
+    {
+      "headline": "The Epstein files release did nothing to clear up the scandal’s biggest question",
+      "url": "https://www.vox.com/politics/473124/epstein-files-redactions-disappointing",
+      "published_at": "2025-12-20T13:44:27+00:00",
+      "summary": "Your support goes further this holiday season. When you buy an annual membership or give a one-time contribution, we’ll give a membership to someone who can’t afford access. It’s a simple way for you to support Vox’s journalism and share it with someone who needs it",
+      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1224326172.jpg?quality=90&strip=all&crop=0%2C14.421319281459%2C100%2C71.157361437082&w=1200"
+    },
+    {
+      "headline": "2025 Elections Coverage",
+      "url": "https://www.foxnews.com/elections",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "5 Across the Letter Word Game",
+      "url": "https://www.foxnews.com/games/5-across-word-game",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/pages/games/5-across-word-game-og.png"
+    },
+    {
+      "headline": "Daily Crossword Puzzle",
+      "url": "https://www.foxnews.com/games/daily-crossword-puzzle",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/pages/games/daily-crossword-puzzle-og.png"
+    },
+    {
+      "headline": "Tech and Electronic Deals",
+      "url": "https://www.foxnews.com/category/deals/tech-and-electronic",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Health and Fitness Deals",
+      "url": "https://www.foxnews.com/category/deals/health-and-fitness",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Beauty and Fashion Deals",
+      "url": "https://www.foxnews.com/category/deals/beauty-and-fashion",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Accessibility Statement",
+      "url": "https://www.foxnews.com/accessibility-statement",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https:static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Maduro arraignment expected after helicopters fly Venezuelan leader to New York City",
+      "url": "https://www.foxnews.com/live-news/maduro-captured-venezuela-attack-january-4-2026",
+      "published_at": "2026-01-05 12:13:01 AM",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://livenews.foxnews.com/images/2026/01/ec2e2c569b466ab5a33eeafba4b25ac7.jpg"
+    },
+    {
+      "headline": "Venezuelan Political Crisis",
+      "url": "https://www.foxnews.com/category/topic/venezuelan-political-crisis",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Maduro narco case echoes US history of targeting alleged foreign drug kingpins",
+      "url": "https://www.foxnews.com/us/us-military-details-timeline-operation-capture-maduro-revealing-more-than-150-aircraft-involved",
+      "published_at": "2026-01-03T15:27:04-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/dan-caine-venezuela-mission-2.jpg"
+    },
+    {
+      "headline": "Maduro and 'Lady Macbeth’ Cilia Flores marriage spells 'worst case' custody scenario",
+      "url": "https://www.foxnews.com/us/maduro-wife-face-manhattan-arraignment-expert-calls-us-custody-worst-case-scenario",
+      "published_at": "2026-01-04T20:02:03-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/cilia-flores-maduro-venezuela.jpg"
+    },
+    {
+      "headline": "Pilot dies alongside 3 nieces on wedding day in tragic Arizona helicopter crash",
+      "url": "https://www.foxnews.com/us/pilot-dies-alongside-3-nieces-wedding-day-tragic-arizona-helicopter-crash",
+      "published_at": "2026-01-04T18:30:46-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/arizona-helicopter-crash-groom-nieces-slackline-002.jpg"
+    },
+    {
+      "headline": "American jailed for billionaire’s Monaco death, plot to kill wife exposed in long con, expert says",
+      "url": "https://www.foxnews.com/us/american-jailed-billionaires-monaco-death-plot-kill-wife-exposed-long-con-expert-says",
+      "published_at": "2026-01-04T14:00:32-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ted-maher-in-court.png"
+    },
+    {
+      "headline": "Sister warned Bryan Kohberger about 'psycho killer' on the loose before his arrest: 'Be careful'",
+      "url": "https://www.foxnews.com/us/sister-warned-bryan-kohberger-about-psycho-killer-loose-before-idaho-arrest-careful",
+      "published_at": "2026-01-03T19:22:32-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/bryan-kohberger-idaho-four-sentencing_01.jpg"
+    },
+    {
+      "headline": "‘Mind chess,’ not threats, convinced real-life Sopranos mobster to cooperate: retired FBI agent",
+      "url": "https://www.foxnews.com/us/mind-chess-not-threats-convinced-real-life-sopranos-mobster-cooperate-retired-fbi-agent",
+      "published_at": "2026-01-03T10:00:02-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/real-life-inspo-for-sopranos.png"
+    },
+    {
+      "headline": "Mangione, Robinson, Reiner and more: Major court cases set to dominate 2026",
+      "url": "https://www.foxnews.com/us/mangione-robinson-reiner-more-major-court-cases-dominate-2026",
+      "published_at": "2026-01-01T06:00:37-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/accused-assassins-luigi-mangione-tyler-robinson-split.png"
+    },
+    {
+      "headline": "Off-duty deputy shot and killed while working security job in Texas, suspect apprehended",
+      "url": "https://www.foxnews.com/us/off-duty-deputy-shot-killed-while-working-security-job-texas-suspect-apprehended",
+      "published_at": "2026-01-04T17:47:45-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/club-rodeo-3.jpg"
+    },
+    {
+      "headline": "Venezuelan President Nicolas Maduro’s narco case echoes US history of targeting alleged foreign drug kingpins",
+      "url": "https://www.foxnews.com/us/venezuelan-president-nicolas-maduro-narco-case-echoes-us-history-targeting-alleged-foreign-drug-kingpins",
+      "published_at": "2026-01-04T15:37:52-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/guzman-maduro-noriega_01.jpg"
+    },
+    {
+      "headline": "Tech-savvy thieves exploit obits, online posts to strike homes while families grieve, expert warns",
+      "url": "https://www.foxnews.com/us/tech-savvy-thieves-exploit-obits-online-posts-strike-homes-while-families-grieve-expert-warns",
+      "published_at": "2026-01-04T10:00:25-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/obit-robberies.png"
+    },
+    {
+      "headline": "Coast Guard suspends search for survivors days after narco-terrorist strikes in Eastern Pacific",
+      "url": "https://www.foxnews.com/us/coast-guard-searches-survivors-us-strikes-suspected-narco-terrorist-vessels-eastern-pacific",
+      "published_at": "2026-01-02T17:08:30-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/hc130j-coast-guard-plane.png"
+    },
+    {
+      "headline": "WATCH: Ohio police smash sunroof, drag injured driver from burning car after rollover crash",
+      "url": "https://www.foxnews.com/us/watch-ohio-police-smash-sunroof-drag-injured-driver-from-burning-car-after-rollover-crash",
+      "published_at": "2026-01-03T16:00:53-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/gif-ohio-2.gif"
+    },
+    {
+      "headline": "US capture of Maduro throws spotlight on Venezuela’s massive oil reserves",
+      "url": "https://www.foxnews.com/politics/us-capture-maduro-throws-spotlight-venezuelas-massive-oil-reserves",
+      "published_at": "2026-01-03T15:22:02-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/oil-venezuela-refinery-stacks.png"
+    },
+    {
+      "headline": "The Bail Project spent $91M freeing criminal suspects, including some who later committed murder",
+      "url": "https://www.foxnews.com/us/bail-project-spent-91m-freeing-criminal-suspects-including-some-who-later-committed-murder",
+      "published_at": "2026-01-03T08:00:43-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/allen-lang-scott-garvin.jpg"
+    },
+    {
+      "headline": "Hochul orders NY landmarks, including One World Trade Center, lit green for Muslim American Heritage Month",
+      "url": "https://www.foxnews.com/politics/hochul-orders-ny-landmarks-one-world-trade-center-lit-green-muslim-american-heritage-month",
+      "published_at": "2026-01-02T20:31:17-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/one-world-trade-center-nyc.png"
+    },
+    {
+      "headline": "Police seek suspect after dentist and wife found shot dead at home while 2 young children are unharmed",
+      "url": "https://www.foxnews.com/us/dentist-wife-found-shot-dead-home-2-young-children-unharmed",
+      "published_at": "2026-01-02T18:43:50-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/spencer-monique-tepe-ohio-dentist-murder_01.jpg"
+    },
+    {
+      "headline": "Teens' viral prank targeting homeowners could have deadly consequences, police warn",
+      "url": "https://www.foxnews.com/us/teens-viral-prank-targeting-homeowners-could-have-deadly-consequences-police-warn",
+      "published_at": "2026-01-02T14:00:28-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/door-kick-gif_03.gif"
+    },
+    {
+      "headline": "Coast Guard suspends search for 77-year-old woman who went overboard from Holland America Line cruise ship",
+      "url": "https://www.foxnews.com/us/coast-guard-suspends-search-77-year-old-woman-who-went-overboard-holland-america-line-cruise-ship",
+      "published_at": "2026-01-02T09:58:21-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/nieuw-statendam-4.jpg"
+    },
+    {
+      "headline": "Political violence has 'just started,’ former FBI agent warns in 2026 outlook",
+      "url": "https://www.foxnews.com/us/political-violence-has-just-started-former-fbi-agent-warns-2026-outlook",
+      "published_at": "2026-01-02T08:00:25-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/thomas-matthew-crooks.jpg"
+    },
+    {
+      "headline": "Vatican News & Updates",
+      "url": "https://www.foxnews.com/category/world/religion/vatican",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Pope Leo XIV opens 2026 urging world to reject violence in powerful New Year's Day message",
+      "url": "https://www.foxnews.com/world/pope-leo-xiv-opens-2026-urging-world-reject-violence-powerful-new-years-day-message",
+      "published_at": "2026-01-01T21:24:09-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/pope-leo-vatican-rome-address.jpg"
+    },
+    {
+      "headline": "Trump issues direct warning to Venezuela's new leader Delcy Rodríguez following Maduro capture",
+      "url": "https://www.foxnews.com/politics/trump-issues-direct-warning-venezuelas-new-leader-delcy-rodriguez-following-maduro-capture",
+      "published_at": "2026-01-04T15:17:00-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-delcy-rodriguez.png"
+    },
+    {
+      "headline": "How a socialist cell in the US mobilized pro-Maduro foot soldiers within 12 hours",
+      "url": "https://www.foxnews.com/politics/second-front-how-socialist-cell-us-mobilized-pro-maduro-foot-soldiers-within-12-hours",
+      "published_at": "2026-01-03T20:28:49-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/venezuela-maduro-captured-008.jpg"
+    },
+    {
+      "headline": "Venezuela still owes US energy companies billions as Trump calls for new investment",
+      "url": "https://www.foxnews.com/politics/venezuela-still-owes-us-energy-companies-billions-trump-calls-new-investment",
+      "published_at": "2026-01-04T13:04:30-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/oil-refinery-venezuela.png"
+    },
+    {
+      "headline": "Kamala Harris blasts Trump administration’s capture of Venezuela’s Maduro",
+      "url": "https://www.foxnews.com/politics/kamala-harris-blasts-trump-administrations-capture-venezuelas-maduro-unlawful-unwise",
+      "published_at": "2026-01-03T22:29:09-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/kamala-harris-trump-maduro.jpg"
+    },
+    {
+      "headline": "Trump says Cuba is ‘ready to fall’ after capture of Venezuela’s Maduro",
+      "url": "https://www.foxnews.com/world/trump-says-cuba-ready-fall-after-capture-venezuelas-maduro",
+      "published_at": "2026-01-04T23:51:14-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-press-gaggle-af1-joint-base-andrews.jpg"
+    },
+    {
+      "headline": "Trump’s actions are not reckless, they’re resolute — ‘not political, but necessary’: Brian Kilmeade",
+      "url": "https://www.foxnews.com/video/6387235655112",
+      "published_at": "2026-01-04T22:22:18-05:00",
+      "summary": "Log in to comment on videos and join in on the fun.",
+      "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/545a40bd-d4e9-4a7d-8bc5-b35783083488/db9d7c46-0714-44a2-bf6f-87f0e7bee725/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+    },
+    {
+      "headline": "Trump vows US 'in charge' of Venezuela as he reveals if he's spoken to Delcy Rodríguez",
+      "url": "https://www.foxnews.com/politics/trump-vows-us-in-charge-venezuela-he-reveals-hes-spoken-delcy-rodriguez",
+      "published_at": "2026-01-04T22:08:04-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-delcy-rodriguez.png"
+    },
+    {
+      "headline": "UK confirms joint airstrike targeting suspected ISIS weapons facility in Syria",
+      "url": "https://www.foxnews.com/world/uk-confirms-joint-airstrike-targeting-suspected-isis-weapons-facility-syria",
+      "published_at": "2026-01-04T20:52:44-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/isis-strike.gif"
+    },
+    {
+      "headline": "House Of Representatives",
+      "url": "https://www.foxnews.com/category/politics/house-of-representatives",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "House GOP critics break with Trump over Venezuela operation that captured Maduro",
+      "url": "https://www.foxnews.com/politics/house-gop-critics-break-trump-over-venezuela-operation-captured-maduro",
+      "published_at": "2026-01-03T11:59:25-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/rep-thomas-massie-june-2025.jpg"
+    },
+    {
+      "headline": "Healthcare, economy and the 'One Big, Beautiful Bill': Welcome to the midterms",
+      "url": "https://www.foxnews.com/politics/healthcare-economy-one-big-beautiful-bill-welcome-midterms",
+      "published_at": "2026-01-02T15:39:22-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/capitol-building-and-voters-midterm-election.jpg"
+    },
+    {
+      "headline": "These House mavericks defied their own parties more than anyone else in 2025",
+      "url": "https://www.foxnews.com/politics/house-mavericks-defied-own-parties-more-than-anyone-else-2025",
+      "published_at": "2026-01-02T13:09:52-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/cuellar-massie-roy.jpg"
+    },
+    {
+      "headline": "Black Republican calls for total, permanent abolition of DEI: 'I want to earn every opportunity on merit'",
+      "url": "https://www.foxnews.com/politics/black-republican-calls-total-permanent-abolition-dei-i-want-earn-every-opportunity-merit",
+      "published_at": "2026-01-01T10:10:42-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/wesley-hunt-july-2024.jpg"
+    },
+    {
+      "headline": "Former hostage negotiator says he doesn't see Maduro as 'a bloodthirsty drug dealer'",
+      "url": "https://www.foxnews.com/media/former-hostage-negotiator-says-he-doesnt-see-maduro-a-bloodthirsty-drug-dealer",
+      "published_at": "2026-01-04T21:46:26-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/nicolas-maduro.jpg"
+    },
+    {
+      "headline": "GREGG JARRETT: No, Trump's order to snatch Maduro was not illegal or unconstitutional",
+      "url": "https://www.foxnews.com/opinion/gregg-jarrett-no-trumps-order-snatch-maduro-not-illegal-unconstitutional",
+      "published_at": "2026-01-04T19:21:47-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/maduro-mdc-02.jpg"
+    },
+    {
+      "headline": "Trump and Musk share 'lovely dinner' at Mar-a-Lago after public feuding",
+      "url": "https://www.foxnews.com/politics/trump-musk-share-lovely-dinner-mar-a-lago-after-public-feuding",
+      "published_at": "2026-01-04T16:48:24-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/trump-musk-dinner-bromance.jpg"
+    },
+    {
+      "headline": "Dan Bongino officially leaves FBI deputy director role after less than a year, returns to 'civilian life'",
+      "url": "https://www.foxnews.com/politics/dan-bongino-leaves-fbi-deputy-director-role-after-less-than-year-returns-civilian-life",
+      "published_at": "2026-01-04T10:22:40-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/dan-bongino-fbi.jpg"
+    },
+    {
+      "headline": "Nikole Hannah-Jones praises a cop-killer and rewrites history in the New York Times",
+      "url": "https://www.foxnews.com/opinion/nikole-hannah-jones-praises-cop-killer-rewrites-history-new-york-times",
+      "published_at": "2026-01-04T10:00:50-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/NIKOLE-HANNAH-JONES-1619-PROJECT-CALIFORNIA.jpg"
+    },
+    {
+      "headline": "Venezuelan dissident outlines risks and opportunities as Venezuela enters post-Maduro era",
+      "url": "https://www.foxnews.com/world/venezuelan-dissident-outlines-risks-opportunities-venezuela-enters-post-maduro-era",
+      "published_at": "2026-01-04T08:04:46-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/miami-venezuela-celebrations.jpg"
+    },
+    {
+      "headline": "JONATHAN TURLEY: Why Trump went off script on Venezuela and why it won't matter",
+      "url": "https://www.foxnews.com/opinion/jonathan-turley-maduro-operation-legal-trump-makes-complicated",
+      "published_at": "2026-01-04T07:51:43-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/nicolas-maduro-manuel-noriega.jpg"
+    },
+    {
+      "headline": "Trump tears up Obama-era Latin American policy with renewal of Monroe Doctrine, rebrands as 'Don-roe Doctrine'",
+      "url": "https://www.foxnews.com/politics/trump-tears-up-obama-era-latin-american-policy-renewal-monroe-doctrine",
+      "published_at": "2025-12-29T14:29:57-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/trump-drug-boat-venezuela-1.jpg"
+    },
+    {
+      "headline": "Rubio vows to eliminate Hezbollah, Iran operations from Venezuela after Maduro capture",
+      "url": "https://www.foxnews.com/world/rubio-vows-eliminate-hezbollah-iran-operations-from-venezuela-after-maduro-capture",
+      "published_at": "2026-01-04T12:39:23-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/hezbollah-soldier-and-margarita-island.jpg"
+    },
+    {
+      "headline": "Zelenskyy reacts to Maduro arrest: US 'knows what to do next'",
+      "url": "https://www.foxnews.com/world/zelenskyy-reacts-maduro-arrest-us-knows-what-do-next",
+      "published_at": "2026-01-04T08:13:53-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/zelenskyy-maduro-venezuela.jpg"
+    },
+    {
+      "headline": "DR MARC SIEGEL: 5 incredible miracles from 2025 that give me hope for 2026",
+      "url": "https://www.foxnews.com/opinion/dr-marc-siegel-5-incredible-miracles-from-2025-that-give-me-hope-2026",
+      "published_at": "2026-01-01T07:00:59-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/marc-siegel-headshot-miracles.jpg"
+    },
+    {
+      "headline": "Western leaders must confront Islamist-inspired antisemitic violence before it targets everyone",
+      "url": "https://www.foxnews.com/opinion/western-leaders-must-confront-islamist-inspired-antisemitic-violence-before-targets-everyone",
+      "published_at": "2025-12-31T07:00:19-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/australian-police-bondi-beach-shooting.jpg"
+    },
+    {
+      "headline": "Fetterman endorses prospect of potential future strikes to derail any Iranian nuclear ambitions",
+      "url": "https://www.foxnews.com/politics/fetterman-endorses-prospect-potential-future-strikes-derail-any-iranian-nuclear-ambitions",
+      "published_at": "2025-12-30T08:43:22-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/sen-john-fetterman-october-2025.jpg"
+    },
+    {
+      "headline": "Gold treasure survives 1,400 years at ancient Christian monastery in biblical Judean Desert",
+      "url": "https://www.foxnews.com/travel/gold-treasure-survives-1400-years-ancient-christian-monastery-biblical-judean-desert",
+      "published_at": "2025-12-29T21:27:29-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/israel-judaean-desert-ancient-byzantine-gold-biblical-archaeology-history-discovery-1.jpg"
+    },
+    {
+      "headline": "DAVID MARCUS: Trump restores America as the world's sole superpower",
+      "url": "https://www.foxnews.com/opinion/david-marcus-trump-restores-america-worlds-sole-superpower",
+      "published_at": "2026-01-04T11:56:03-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/venezuela-maduro-captured-022.jpg"
+    },
+    {
+      "headline": "Iran launches satellites on Russian rockets as Moscow-Tehran ties deepen",
+      "url": "https://www.foxnews.com/world/iran-launches-satellites-russian-rockets-moscow-tehran-ties-deepen",
+      "published_at": "2025-12-31T11:26:00-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/russia-iranian-satellites.gif"
+    },
+    {
+      "headline": "We need to face the truth about Putin if we want lasting peace in Ukraine",
+      "url": "https://www.foxnews.com/opinion/we-need-face-truth-about-putin-want-lasting-peace",
+      "published_at": "2025-12-30T07:00:45-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/us-president-trump-ukrainian-president-zelenskyy.jpg"
+    },
+    {
+      "headline": "Massacre at Nigerian market leaves more than 30 dead as gunmen torch stalls, kidnap others",
+      "url": "https://www.foxnews.com/world/massacre-nigerian-market-leaves-dead-gunmen-torch-stalls-kidnap-others",
+      "published_at": "2026-01-04T12:59:57-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/market-nigeria-niger-state.jpg"
+    },
+    {
+      "headline": "History's most famous tapestry may have been viewed in unusual setting, new research suggests",
+      "url": "https://www.foxnews.com/travel/historys-most-famous-tapestry-may-have-been-viewed-unusual-setting-research-suggests",
+      "published_at": "2026-01-04T08:00:01-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/bayeux-tapestry-used-by-medieval-monks-research-ancient-history-archaeology-discovery-1.jpg"
+    },
+    {
+      "headline": "Iran’s Khamenei lashes out at protesters as nationwide anti-regime unrest grows",
+      "url": "https://www.foxnews.com/world/irans-khamenei-lashes-out-protesters-nationwide-anti-regime-unrest-grows",
+      "published_at": "2026-01-03T17:04:55-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/iran-protests-khamenei.jpg"
+    },
+    {
+      "headline": "SEE PICS: Venezuelans worldwide celebrate as exiles react to Maduro’s capture",
+      "url": "https://www.foxnews.com/world/see-pics-venezuelans-worldwide-celebrate-as-exiles-react-to-maduros-capture",
+      "published_at": "2026-01-03T15:07:24-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/peru-venezuelans-celebrate-maduro-capture.jpg"
+    },
+    {
+      "headline": "Iran and Maduro ties suffer major blow following US operation and capture of Venezuelan dictator",
+      "url": "https://www.foxnews.com/world/iran-maduro-ties-suffer-major-blow-following-us-operation-capture-venezuelan-dictator",
+      "published_at": "2026-01-03T14:56:57-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/maduro-khamenei.jpg"
+    },
+    {
+      "headline": "Fox News Entertainment Newsletter: Jelly Roll's scary health reveal, Brigitte Bardot dead at 91",
+      "url": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-jelly-rolls-scary-health-reveal-brigitte-bardot-dead-91",
+      "published_at": "2026-01-03T13:11:01-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/jelly-roll-brigitte-bardot.jpg"
+    },
+    {
+      "headline": "Maduro met Chinese envoy hours before US capture from Caracas as Beijing slams operation",
+      "url": "https://www.foxnews.com/world/maduro-met-chinese-envoy-hours-before-us-capture-from-caracas-beijing-slams-operation",
+      "published_at": "2026-01-03T11:00:52-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/maduro-venezuela-qiu-xiaoqi.jpg"
+    },
+    {
+      "headline": "María Corina Machado emerges as top potential successor after Máduro’s fall",
+      "url": "https://www.foxnews.com/world/maria-corina-machado-emerges-top-potential-successor-after-maduros-fall",
+      "published_at": "2026-01-03T07:37:31-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/maria-corina-machado.jpg"
+    },
+    {
+      "headline": "Trump confirms US strike in Venezuela, says President Nicolás Maduro has been 'captured'",
+      "url": "https://www.foxnews.com/world/explosions-venezuelan-capital-caracas-reports",
+      "published_at": "2026-01-03T02:22:13-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/maduro_carcas_meeting.jpg"
+    },
+    {
+      "headline": "Last chance to get GlassesUSA year-end deals: Up to 50% off Versace, Tory Burch and more designer frames",
+      "url": "https://www.foxnews.com/deals/glassesusa-end-of-year-sale",
+      "published_at": "2026-01-03T00:01:25-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/glasses-store.jpg"
+    },
+    {
+      "headline": "Critics Choice Awards 2026: Ali Larter, Elle Fanning, Alicia Silverstone stun on rainy red carpet",
+      "url": "https://www.foxnews.com/entertainment/critics-choice-awards-2026-red-carpet",
+      "published_at": "2026-01-04T18:42:32-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/critics-choice-awards.jpg"
+    },
+    {
+      "headline": "Billy Joel makes surprise comeback performance after brain condition forced show cancellations",
+      "url": "https://www.foxnews.com/entertainment/billy-joel-makes-surprise-comeback-performance-after-brain-condition-forced-show-cancellations",
+      "published_at": "2026-01-04T12:59:01-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/billy-joel-1.jpg"
+    },
+    {
+      "headline": "Elizabeth Hurley welcomes 2026 in sultry white bikini at 007-themed New Year's party",
+      "url": "https://www.foxnews.com/entertainment/elizabeth-hurley-welcomes-2026-sultry-white-bikini-007-themed-new-years-party",
+      "published_at": "2026-01-04T11:48:52-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/elizabeth-hurley-plunging-purple.jpg"
+    },
+    {
+      "headline": "Evangeline Lilly confirms she sustained brain damage from traumatic injury last year",
+      "url": "https://www.foxnews.com/entertainment/evangeline-lilly-confirms-she-sustained-brain-damage-from-traumatic-injury-last-year",
+      "published_at": "2026-01-04T12:04:19-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/evangeline-lilly-green-jacket.jpg"
+    },
+    {
+      "headline": "Eddie Murphy explains why he left the Oscars after ‘Dreamgirls’ loss",
+      "url": "https://www.foxnews.com/entertainment/eddie-murphy-admits-why-he-left-oscars-after-dreamgirls-loss-not-gonna-sympathy-guy-all-night",
+      "published_at": "2026-01-04T18:31:19-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/eddie-murphy-oscars-2007.jpg"
+    },
+    {
+      "headline": "Jessie James Decker shows off toned abs in sparkling bikini from family New Year's celebration",
+      "url": "https://www.foxnews.com/entertainment/jessie-james-decker-shows-off-toned-abs-sparkling-bikini-during-family-new-year-celebration",
+      "published_at": "2026-01-02T19:12:41-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/jessie-james-decker-beach-bikini-1.jpg"
+    },
+    {
+      "headline": "Jelly Roll left wondering 'how are you alive?' after seeing his alarming health tests before weight-loss",
+      "url": "https://www.foxnews.com/entertainment/jelly-rolls-doctor-asked-how-you-alive-after-seeing-his-alarming-health-tests-before-weight-loss",
+      "published_at": "2026-01-02T17:16:22-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/jelly-roll-on-stage-september-black.jpg"
+    },
+    {
+      "headline": "Kelsea Ballerini, Chase Stokes commit to 'breaking patterns' in rekindled romance after 'messy' year",
+      "url": "https://www.foxnews.com/entertainment/kelsea-ballerini-chase-stokes-commit-breaking-patterns-rekindled-romance-messy-year",
+      "published_at": "2026-01-01T16:10:51-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/kelsea-ballerini-chase-stokes.jpg"
+    },
+    {
+      "headline": "Dolly Parton unveils favorite Nashville destinations amid new travel stop partnership",
+      "url": "https://www.foxnews.com/travel/dolly-parton-unveils-her-favorite-nashville-destinations-amid-new-travel-stop-partnership",
+      "published_at": "2026-01-01T06:00:30-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/dolly-parton.jpg"
+    },
+    {
+      "headline": "‘Grey’s Anatomy’ actor Steven W. Bailey breaks silence on rare neuromuscular disorder diagnosis",
+      "url": "https://www.foxnews.com/entertainment/greys-anatomy-actor-steven-w-bailey-breaks-silence-rare-neuromuscular-disorder-diagnosis",
+      "published_at": "2026-01-04T22:28:29-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/steven-w-bailey.jpg"
+    },
+    {
+      "headline": "Sara Foster praises Trump's Venezuela liberation despite voting for Harris",
+      "url": "https://www.foxnews.com/entertainment/sara-foster-praises-trumps-venezuela-liberation-despite-voting-harris",
+      "published_at": "2026-01-04T16:31:55-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/sara-foster-liberal-politics.jpg"
+    },
+    {
+      "headline": "Sydney Sweeney and Kate Hudson lead winter’s fur fashion trend among celebrities",
+      "url": "https://www.foxnews.com/entertainment/sydney-sweeney-kate-hudson-lead-winters-fur-fashion-trend-among-celebrities",
+      "published_at": "2026-01-04T15:00:09-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/sydney-sweeney-kate-hudson-split.jpg"
+    },
+    {
+      "headline": "'Wheel of Fortune' contestant makes show history with record-breaking million-dollar win",
+      "url": "https://www.foxnews.com/entertainment/wheel-fortune-contestant-makes-show-history-record-breaking-million-dollar-win",
+      "published_at": "2025-10-01T13:15:58-04:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/wheel-of-fortune-4.jpg"
+    },
+    {
+      "headline": "‘Jeopardy!’ fans slam contestants for failed answer on late Hollywood actor",
+      "url": "https://www.foxnews.com/entertainment/jeopardy-fans-slam-contestants-failed-answer-late-hollywood-actor",
+      "published_at": "2025-09-18T12:26:14-04:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/ken-jennings-james-earl-jones-2.jpg"
+    },
+    {
+      "headline": "Ryan Seacrest spills 'Wheel of Fortune' secret that surprises co-host Vanna White",
+      "url": "https://www.foxnews.com/entertainment/ryan-seacrest-spills-wheel-fortune-secret-surprises-co-host-vanna-white",
+      "published_at": "2025-09-10T11:01:42-04:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/ryan-seacrest.jpg"
+    },
+    {
+      "headline": "'Jeopardy!' under fire after James Bond clue leaves viewers frustrated",
+      "url": "https://www.foxnews.com/entertainment/jeopardy-fire-james-bond-clue-viewers-frustrated",
+      "published_at": "2025-07-09T11:33:28-04:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/jeopardy-final.jpg"
+    },
+    {
+      "headline": "Kathy Ireland says staying young is a ‘state of mind’ as she embraces life at 62",
+      "url": "https://www.foxnews.com/entertainment/kathy-ireland-says-staying-young-state-mind-she-embraces-life-62",
+      "published_at": "2026-01-04T12:00:08-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/kathy-ireland-smiling.jpg"
+    },
+    {
+      "headline": "Rob Schneider exposes Hollywood's 'rot' as he claims conservative actors face industry blacklist",
+      "url": "https://www.foxnews.com/entertainment/rob-schneider-exposes-hollywoods-rot-he-claims-conservative-actors-face-industry-blacklist",
+      "published_at": "2026-01-04T11:34:31-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/rob-schneider-los-angeles-2024.jpg"
+    },
+    {
+      "headline": "HGTV stars Ben and Erin Napier knew they'd marry after just six days of dating",
+      "url": "https://www.foxnews.com/entertainment/hgtv-stars-ben-erin-napier-knew-theyd-marry-after-just-six-days-dating",
+      "published_at": "2026-01-04T09:00:53-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/erin-ben-napier-hgtv-stars.jpg"
+    },
+    {
+      "headline": "‘Real Housewives’ star accused of running cult-like church operation, ex-members allege financial exploitation",
+      "url": "https://www.foxnews.com/entertainment/real-housewives-star-running-cult-like-church-operation-financial-exploitation",
+      "published_at": "2026-01-02T09:00:44-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/mary-cosby-real-housewives.jpg"
+    },
+    {
+      "headline": "Kate Middleton hailed as an 'eternal influencer,' echoing Queen Elizabeth’s mystique: experts",
+      "url": "https://www.foxnews.com/entertainment/kate-middleton-hailed-eternal-influencer-echoing-queen-elizabeths-mystique-experts",
+      "published_at": "2026-01-01T06:00:45-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/kate-middleton-christmas.gif"
+    },
+    {
+      "headline": "Dr Drew says addicts must 'surrender' as trendy resets mask bigger addiction problems",
+      "url": "https://www.foxnews.com/entertainment/dr-drew-addicts-surrender-trendy-resets-mask-bigger-addiction-problems",
+      "published_at": "2025-12-30T09:00:44-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/dr.drew-pinsky.jpg"
+    },
+    {
+      "headline": "Entertainment Newsletter",
+      "url": "https://www.foxnews.com/category/columns/entertainment-newsletter",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Falcons fire Raheem Morris after choosing him over multiple successful coaches",
+      "url": "https://www.foxnews.com/sports/falcons-fire-raheem-morris-after-choosing-him-over-multiple-successful-coaches",
+      "published_at": "2026-01-04T21:50:59-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/raheem-morris-1426.jpg"
+    },
+    {
+      "headline": "Jets make NFL history with season of unprecedented futility and record-breaking failures",
+      "url": "https://www.foxnews.com/sports/jets-make-nfl-history-season-unprecedented-futility-record-breaking-failures",
+      "published_at": "2026-01-04T20:26:45-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/aaron-glenn-1426.jpg"
+    },
+    {
+      "headline": "Myles Garrett takes down Joe Burrow to break NFL single-season sack record",
+      "url": "https://www.foxnews.com/sports/myles-garrett-takes-down-joe-burrow-break-nfl-single-season-sack-record",
+      "published_at": "2026-01-04T16:42:51-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/myles-garrett-1426.jpg"
+    },
+    {
+      "headline": "Broncos earn top seed in AFC in Bo Nix's second season, finishing with 14-3 record",
+      "url": "https://www.foxnews.com/sports/broncos-earn-top-seed-afc-bo-nixs-second-season-finishing-14-3-record",
+      "published_at": "2026-01-04T20:16:47-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/bo-nix-1426.jpg"
+    },
+    {
+      "headline": "Raiders clinch first overall pick in 2026 NFL Draft after Giants beat Cowboys",
+      "url": "https://www.foxnews.com/sports/raiders-clinch-first-overall-pick-2026-nfl-draft-after-giants-beat-cowboys",
+      "published_at": "2026-01-04T16:48:57-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/raiders-stadium-1426.jpg"
+    },
+    {
+      "headline": "Two Goals by John McGinn Powers Villa Past Forest into Premier League's Top Two",
+      "url": "https://www.foxnews.com/sports/two-goals-john-mcginn-powers-villa-past-forest-premier-leagues-top-two",
+      "published_at": "2026-01-03T12:28:50-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/mcginn2.jpg"
+    },
+    {
+      "headline": "Wolverhampton Sets Premier League Record with First Win After 20 Games",
+      "url": "https://www.foxnews.com/sports/finally-wolves-claims-its-first-premier-league-win-of-the-season-at-the-20th-attempt",
+      "published_at": "2026-01-03T12:52:00-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/epl1.jpg"
+    },
+    {
+      "headline": "Stefan Vaaks Scores 15 Second-Half Points in Providence Comeback Over St. John's",
+      "url": "https://www.foxnews.com/sports/stefan-vaaks-scores-15-second-half-points-providence-comeback-over-st-johns",
+      "published_at": "2026-01-03T15:35:37-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/friars2.jpg"
+    },
+    {
+      "headline": "2026 FIFA World Cup: Team-by-Team Guides For Each Qualified Squad",
+      "url": "https://www.foxnews.com/sports/2026-fifa-world-cup-team-by-team-guide",
+      "published_at": "2026-01-02T15:59:45-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/fifatrophy1.jpg"
+    },
+    {
+      "headline": "Panthers make playoffs after Falcons win over Saints; Buccaneers eliminated",
+      "url": "https://www.foxnews.com/sports/panthers-make-playoffs-after-falcons-win-over-saints-buccaneers-eliminated",
+      "published_at": "2026-01-04T16:45:25-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/drake-london-1426.jpg"
+    },
+    {
+      "headline": "Teenage MLB prospect Frank Cairone hospitalized after car crash",
+      "url": "https://www.foxnews.com/sports/teenage-mlb-prospect-frank-cairone-hospitalized-after-car-crash",
+      "published_at": "2026-01-04T11:59:30-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/frank-cairone.jpg"
+    },
+    {
+      "headline": "Seahawks secure top seed in NFC with dominant road win over 49ers",
+      "url": "https://www.foxnews.com/sports/seahawks-defeat-49ers-secure-top-seed-nfc",
+      "published_at": "2026-01-04T00:00:57-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/seahawks-49ers.jpg"
+    },
+    {
+      "headline": "Jaguars’ Cam Little, who kicked longest NFL field goal earlier this season, knocks down 67-yarder",
+      "url": "https://www.foxnews.com/sports/jaguars-cam-little-who-kicked-longest-nfl-field-goal-earlier-season-knocks-down-67-yarder",
+      "published_at": "2026-01-04T16:51:59-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/cam-little-1426.jpg"
+    },
+    {
+      "headline": "Martina Navratilova under fire for calling Trump 'insane' and 'serial criminal' after Venezuela strikes",
+      "url": "https://www.foxnews.com/sports/martina-navratilova-under-fire-calling-trump-insane-saying-we-have-do-again-after-venezuela",
+      "published_at": "2026-01-04T14:22:59-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/navratilova-trump-split-photo-2.jpg"
+    },
+    {
+      "headline": "MLB team unaware of status of players in Venezuela after US military strikes",
+      "url": "https://www.foxnews.com/sports/mlb-team-unaware-status-players-currently-venezuela-amid-us-military-strikes",
+      "published_at": "2026-01-03T16:49:44-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/jackson-chourio.jpg"
+    },
+    {
+      "headline": "Dodgers pitcher Alex Vesia’s wife shares first public message since couple’s devastating family loss",
+      "url": "https://www.foxnews.com/sports/dodgers-pitcher-alex-vesias-wife-shares-first-public-message-since-tragic-couples-devastating-family-loss",
+      "published_at": "2026-01-03T22:04:58-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/alex-vesia-los-angeles-dodgers-010326.jpg"
+    },
+    {
+      "headline": "Mississippi State Bulldogs",
+      "url": "https://www.foxnews.com/category/sports/ncaa/mississippi-state-bulldogs",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Mississippi State QB avoids disaster after appearing to suffer gruesome leg injury in Duke's Mayo Bowl",
+      "url": "https://www.foxnews.com/sports/mississippi-state-qb-avoids-disaster-after-appearing-suffer-gruesome-leg-injury-dukes-mayo-bowl",
+      "published_at": "2026-01-03T08:58:41-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/mississippi-kamario-taylor-002.jpg"
+    },
+    {
+      "headline": "Patriots stars facing criminal allegations decline to answer questions from reporters about legal troubles",
+      "url": "https://www.foxnews.com/sports/patriots-stars-facing-criminal-allegations-decline-questions-about-legal-trouble-reporters",
+      "published_at": "2026-01-02T20:58:26-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/christian-barmore-stefon-diggs-split.jpg"
+    },
+    {
+      "headline": "North Carolina Tar Heels",
+      "url": "https://www.foxnews.com/category/sports/ncaa/north-carolina-tar-heels",
+      "published_at": null,
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "headline": "Jordon Hudson shares old post aimed at critics after Bill Belichick's tumultuous first season at UNC",
+      "url": "https://www.foxnews.com/sports/jordon-hudson-shares-old-post-aimed-critics-after-bill-belichicks-tumultuous-first-season-unc",
+      "published_at": "2026-01-02T16:04:27-05:00",
+      "summary": "This material may not be published, broadcast, rewritten, or redistributed. ©2026 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided byFactset. Powered and implemented byFactSet Digital Solutions.Legal Statement. Mutual Fund and ETF data provided byRefinitiv Lipper.",
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/north-carolina-jordon-hudson-110925-1.jpg"
+    },
+    {
+      "headline": "'It's about pride' 💙 Jared Goff on future of Lions 👀 Amon-Ra St. Brown talks win vs Bears",
+      "url": "https://www.foxnews.com/video/6387233323112",
+      "published_at": "2026-01-04T20:15:55-05:00",
+      "summary": "Log in to comment on videos and join in on the fun.",
+      "image_url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72bf4f8c-51f4-4fd2-8229-c7e04031cc3b/aeb6b5e4-9bda-48e2-85de-4dd86e4916ab/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+    },
+    {
+      "headline": "Joe Raedle / Getty Images",
+      "url": "https://www.nbcnews.com/politics/white-house/venezuela-trump-maduro-rcna252177",
+      "published_at": "2026-01-05T03:01:46.420Z",
+      "summary": "WASHINGTON — President Donald Trump laid out a stark warning to Venezuela’s interim leader Delcy Rodríguez, tellingThe Atlanticthat “if she doesn’t do what’s right, she is going to pay a very big price, probably bigger than Maduro.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-trump-conference-ch-1308-9340fe.jpg"
+    },
+    {
+      "headline": "Khaled Abdullah / Reuters",
+      "url": "https://www.nbcnews.com/politics/white-house/new-trump-foreign-policy-doctrine-emphasizes-threats-regime-change-rcna252093",
+      "published_at": "2026-01-04T10:00:40.000Z",
+      "summary": "President Donald Trump built his political appeal over the past decade partly by vowing to extricate America from military quagmires overseas, promising to avoid “nation building” and wars designed to topple regimes.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-donald-trump-venezuela-maduro-cs-3175dd.jpg"
+    },
+    {
+      "headline": "A CIA team, steel doors and a fateful phone call: How the U.S. captured Maduro in Venezuela",
+      "url": "https://www.nbcnews.com/politics/donald-trump/us-venezuela-strike-nicolas-maduro-captured-how-timeline-trump-rcna252041",
+      "published_at": "2026-01-04T19:02:38.783Z",
+      "summary": "PALM BEACH, Fla. — President Donald Trump gave the Venezuelan leader one last chance to step down.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-trump-ch-1200-7835a1.jpg"
+    },
+    {
+      "headline": "Joe Raedle / Getty Images",
+      "url": "https://www.nbcnews.com/politics/national-security/marco-rubio-believes-cuba-trouble-havana-maduro-military-venezuela-rcna252150",
+      "published_at": "2026-01-04T17:53:30.941Z",
+      "summary": "Just one day after the U.S. conducted a military operation that led to the capture of Venezuelan leader Nicolás Maduro and his wife, Secretary of State Marco Rubio reiterated a warning to Cuba, telling NBC News’ “Meet the Press” that he thinks “they’re in a lot of trouble.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-rubio-trump-rs-6e874c.jpg"
+    },
+    {
+      "headline": "Joe Raedle / Getty Images",
+      "url": "https://www.nbcnews.com/politics/trump-administration/secretary-state-marco-rubio-us-capture-maduro-war-venezuela-elections-rcna252111",
+      "published_at": "2026-01-04T16:03:19.620Z",
+      "summary": "Secretary of State Marco Rubio said Sunday that the goal of the U.S. military operation that led to the capture of Venezuelan President Nicolás Maduro on Saturday was primarily to halt drug trafficking into the U.S. and that holding elections in Venezuela would be “premature at this point.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-marco-rubio-cs-c8bd18.jpg"
+    },
+    {
+      "headline": "Why American allies in Europe are divided over Maduro's capture",
+      "url": "https://www.nbcnews.com/video/why-american-allies-in-europe-are-divided-over-maduro-s-capture-255370309867",
+      "published_at": null,
+      "summary": "U.K. Prime Minister Keir Starmer issued a statement supporting Nicolás Maduro's capture by U.S. forces as European leaders react to the operation in Venezuela. NBC News' Raf Sanchez reports on the attempts to differ the U.S. action from that of Russia's invasion of Ukraine.Jan. 4, 2026",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/1767555573280_nbc_spec_raf_european_reax_venezuela_260104_1920x1080-8776w8.jpg"
+    },
+    {
+      "headline": "How Trump is warning Venezuela's new leader to cooperate",
+      "url": "https://www.nbcnews.com/video/trump-issues-threat-against-venezuela-s-new-leader-255370309825",
+      "published_at": null,
+      "summary": "President Donald Trump sent a warning to Venezuela's interim leader Delcy Rodríguez, during an interview with The Atlantic, saying that she would \"pay a very big price\" if she did not cooperate with the U.S. NBC News' Keir Simmons reports on Rodríguez's role in leading Venezuela moving forward.Jan. 4, 2026",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/1767554858848_nbc_spec_keir_rodriguez_trump_260104_1920x1080-yidory.jpg"
+    },
+    {
+      "headline": "Video shows destruction on Venezuelan apartment buildings after U.S. attack",
+      "url": "https://www.nbcnews.com/video/video-shows-destruction-inside-venezuela-after-u-s-attack-255369285597",
+      "published_at": null,
+      "summary": "New video shows the damage and destruction inside Venezuela after the U.S. attack and extraction of leader Nicolás Maduro. Ana Vanessa Herrero, a journalist based in Venezuela, talks about how residents are in a state of confusion and scrambling to recover.Jan. 4, 2026",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/1767553649760_nbc_spec_confus_venez_damage_260104_1920x1080-e4ny3z.jpg"
+    },
+    {
+      "headline": "NBC News; Getty Images",
+      "url": "https://www.nbcnews.com/politics/politics-news/2026-new-laws-states-elections-midterms-ai-obamacare-aca-paid-leave-rcna247602",
+      "published_at": "2025-12-31T11:00:41.000Z",
+      "summary": "As the country prepares to ring in the new year, new state laws will take effect around the country on a host of issues, including the use of artificial intelligence in health care and elections, paid family and medical leave and rising medical insurance costs.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-new-laws-ai-voting-rights-paid-family-leave-cs-864c17.jpg"
+    },
+    {
+      "headline": "Aaron Schwartz / Bloomberg / Getty Images",
+      "url": "https://www.nbcnews.com/politics/congress/four-big-things-congress-2025-impact-rcna249338",
+      "published_at": "2026-01-02T15:32:04.751Z",
+      "summary": "WASHINGTON — The Republican-led Congress had a busy first year of President Donald Trump’s second term in 2025.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-capitol-building-aa-1142-85960c.jpg"
+    },
+    {
+      "headline": "Andrew Caballero-Reynolds / AFP via Getty Images",
+      "url": "https://www.nbcnews.com/politics/elections/learned-state-trump-coalition-conversations-50-voters-year-rcna248275",
+      "published_at": "2025-12-29T10:00:40.000Z",
+      "summary": "The voters who put President Donald Trump back in the White House last year still largely support him. But they are increasingly disagreeing with the president on issues like the economy and immigration, raising questions about the strength of his coalition heading into a midterm election year.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251209-trump-speech-lr-6a0648.jpg"
+    },
+    {
+      "headline": "Live updates: Marco Rubio says the U.S. does not have 'forces on the ground' in Venezuela",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/venezuela-maduro-trump-live-updates-rcna252101",
+      "published_at": "2026-01-05T02:24:14.412Z",
+      "summary": "Trump laid out a warning to Venezuela’s interim leader, Delcy Rodríguez, telling The Atlantic that “if she doesn’t do what’s right, she is going to pay a very big price.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-maduro-rs-e26787.jpg"
+    },
+    {
+      "headline": "Slain lawmaker's children urge Trump to remove post with false claims about her death",
+      "url": "https://www.nbcnews.com/politics/donald-trump/slain-minnesota-lawmakers-children-call-trump-remove-social-media-vide-rcna252231",
+      "published_at": "2026-01-05T02:54:33.852Z",
+      "summary": "The children of slain Minnesota state lawmaker Melissa Hortman are urging President Donald Trump to remove a post on Truth Social that promotes a conspiracy theory alleging the state's governor, Tim Walz, was involved in Hortman’s death.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250915-melissa-hortman-se-316p-e7fb9b.jpg"
+    },
+    {
+      "headline": "Rep. Marjorie Taylor Greene says Maduro's capture 'doesn't serve the American people'",
+      "url": "https://www.nbcnews.com/politics/congress/marjorie-taylor-greene-maduro-capture-america-first-trump-rcna252147",
+      "published_at": "2026-01-04T15:47:29.719Z",
+      "summary": "WASHINGTON — Rep. Marjorie Taylor Greene, R-Ga., slammed the Trump administration’s capture of Venezuelan leader Nicolás Maduro, saying on NBC News’ “Meet the Press” Sunday that the operation was part of “the same Washington playbook that we are so sick and tired of that doesn’t serve the American people.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251118-marjorie-taylor-greene-zz-057ccf.jpg"
+    },
+    {
+      "headline": "Growing Iran protests rattle leaders as Trump threatens to intervene",
+      "url": "https://www.nbcnews.com/world/iran/growing-iran-protests-rattle-leaders-trump-threatens-intervention-rcna252000",
+      "published_at": "2026-01-04T15:10:27.912Z",
+      "summary": "Widespread protests have rocked Iran for nearly a week and led to increasing violent clashes with security forces, prompting President Donald Trump tothreaten interventionif a crackdown continues.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-iran-2-rs-2d6188.jpg"
+    },
+    {
+      "headline": "Trump says the U.S. will govern Venezuela until there's a 'proper transition'",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-venezuela-nicolas-maduro-strikes-run-country-transition-military-rcna252044",
+      "published_at": "2026-01-04T05:01:59.064Z",
+      "summary": "The Trump administration launched a major military attack on Venezuela on Saturday morning, bombing facilities and capturing leader Nicolás Maduro and his wife and flying them to the United States to face charges. President Donald Trump said the U.S. will temporarily “run” Venezuela and work to tap the country’s massive oil reserves.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-trump-conference-ch-1308-9340fe.jpg"
+    },
+    {
+      "headline": "North Korea launches ballistic missiles ahead of South Korean leader's visit to China",
+      "url": "https://www.nbcnews.com/world/north-korea/south-korea-says-north-korea-launched-missiles-sea-rcna252119",
+      "published_at": "2026-01-04T03:16:09.045Z",
+      "summary": "SEOUL, South Korea — North Korea launched multiple ballistic missiles toward the sea Sunday, its neighbors said, just hours before South Korea’s president leaves for China for talks expected to cover North Korea’s nuclear program.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-korea-RM-437502.jpg"
+    },
+    {
+      "headline": "'Wicked' composer Stephen Schwartz backs out of hosting Kennedy Center event",
+      "url": "https://www.nbcnews.com/politics/trump-administration/wicked-composer-stephen-schwartz-kennedy-center-event-rcna252011",
+      "published_at": "2026-01-04T02:01:09.040Z",
+      "summary": "Stephen Schwartz, composer of the hit musical “Wicked,” is no longer hosting a gala at the Kennedy Center this year following the Trump administration’s takeover of the performing arts venue.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-Stephen-Schwartz-aa-755-d82103.jpg"
+    },
+    {
+      "headline": "Some lawmakers criticize Trump's attack in Venezuela, fearing a costly new war",
+      "url": "https://www.nbcnews.com/politics/congress/lawmakers-criticize-trumps-attack-venezuela-questioning-legality-impac-rcna252053",
+      "published_at": "2026-01-03T19:15:24.097Z",
+      "summary": "WASHINGTON — While Republican leaders and allies of President Donald Trump praisedhis strike in Venezuelato capture leader Nicolás Maduro, Democrats and even some Republicans from various ideological corners of the party are pushing back.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251210-us-capitol-gk-4ba6fe.jpg"
+    },
+    {
+      "headline": "The Supreme Court has delayed direct conflict with Trump. Here's why that could soon change.",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-new-term-trump-tariffs-birthright-citizenship-fed-rcna249340",
+      "published_at": "2026-01-03T10:00:41.000Z",
+      "summary": "WASHINGTON — President Donald Trump and the Supreme Court’s smooth relationship could turn sour in the new year.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251215-Trump-aa-1151-0d20c5.jpg"
+    },
+    {
+      "headline": "Minnesota department finds child care centers targeted in viral video operating normally",
+      "url": "https://www.nbcnews.com/news/us-news/minnesota-department-finds-child-care-centers-targeted-viral-video-ope-rcna252013",
+      "published_at": "2026-01-03T04:25:23.441Z",
+      "summary": "Minnesota’s Department of Children, Youth, and Families on Friday said that investigators have found child care facilities at the center of recent fraud allegations were operating as they should.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-Minnesota-Department-of-Human-Services-aa-816-390719.jpg"
+    },
+    {
+      "headline": "California's ban on openly carrying guns is unconstitutional, appeals court rules",
+      "url": "https://www.nbcnews.com/politics/politics-news/california-open-carry-ban-unconstitutional-appeals-court-rules-rcna252007",
+      "published_at": "2026-01-03T03:13:43.622Z",
+      "summary": "A U.S. appeals court on Friday ruled thatCalifornia's banon openlycarrying firearmsin most parts of the state was unconstitutional.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/250102-open-carry-aa-640-182ab3.jpg"
+    },
+    {
+      "headline": "NBC News Subscription Terms of Service",
+      "url": "https://www.nbcnews.com/subscribe/supplemental-terms",
+      "published_at": null,
+      "summary": "These NBCUniversal Supplemental Terms of Service for the NBC News Subscription (“Supplemental Terms”) apply to your use of the website and mobile software application, including all Content made available therein, for such subscription service (collectively, the “Service”). The Supplemental Terms include theNBCUniversal Terms of Service(“NBCU ToS”), and any other documentation, policies or guidelines that we may provide in writing. Capitalized terms not defined below will have the meanings given to such terms in the NBCU ToS.",
+      "image_url": null
+    },
+    {
+      "headline": "Leila Register / NBC News; Getty Images",
+      "url": "https://www.nbcnews.com/tech/internet/influencers-target-day-cares-fraud-claims-somalis-rcna251661",
+      "published_at": "2026-01-04T10:30:40.000Z",
+      "summary": "A social media frenzy that began in Minnesota overallegations of day care fraudhas rippled into at least seven other states over the past week, as conservative journalists and right-wing influencers have embraced the idea that they should investigate state-subsidized child care centers, especially those run by local people of Somali descent.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-fraud-daycares-lr-4cb83d.jpg"
+    },
+    {
+      "headline": "Thomas P. Costello / Asbury Park Press / USA Today Network via Imagn Images file",
+      "url": "https://www.nbcnews.com/news/us-news/brother-went-business-partner-murder-suspect-accused-killing-4-torchin-rcna228698",
+      "published_at": "2026-01-04T10:06:00.000Z",
+      "summary": "Jury selection is scheduled to begin Monday in the long-awaited trial of a New Jersey man accused of killing four relatives in a murder and arson plot after his younger brother uncovered a web of financial deceit.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251231-Paul-Caneiro-vl-214p-0bc738.jpg"
+    },
+    {
+      "headline": "Travel disruptions ease after chaos caused by Venezuela raid",
+      "url": "https://www.nbcnews.com/video/travel-disruptions-ease-after-chaos-caused-by-venezuela-raid-255373381963",
+      "published_at": null,
+      "summary": "Major air travel disruptions caused by the U.S. raid on Venezuela began to ease on Sunday, even as some flight disruptions lingered. NBC News’ Liz Kreutz has the latest.Jan. 5, 2026",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/1767571462241_wnn_lkr_travel_disruptions_ease_after_chaos_caused_by_Venezuela_raid_260104_1920x1080-rizj87.jpg"
+    },
+    {
+      "headline": "Hannibal Hanschke / dpa / picture alliance via Getty Images file",
+      "url": "https://www.nbcnews.com/health/heart-health/mammogram-breast-calcium-deposits-heart-disease-study-rcna250561",
+      "published_at": "2026-01-03T12:00:42.000Z",
+      "summary": "Nancy Preston didn’t have a heart attack. Nor did she have chest discomfort, shortness of breath or heart palpitations — all symptoms of heart disease. Instead, a routine mammogram led to  Preston having quintuple bypass surgery last summer.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240429-breast-cancer-screening-vl-1045a-b75240.jpg"
+    },
+    {
+      "headline": "Michael Chang / Sports Illustrated via Getty Images",
+      "url": "https://www.nbcnews.com/sports/college-football/legendary-coach-saban-retired-influence-still-rules-college-football-rcna251861",
+      "published_at": "2026-01-02T10:00:41.000Z",
+      "summary": "Hours before a College Football Playoff quarterfinal began Thursday, 74-year-old Nick Saban sat on an ESPN stage constructed inside the Rose Bowl, in the corner of an end zone, in Pasadena, California.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-saban-cristobal-cc-1248a-986f3b.jpg"
+    },
+    {
+      "headline": "Leila Register / NBC News; Getty Images",
+      "url": "https://www.nbcnews.com/health/health-news/weight-loss-drug-prices-2026-glp-1-pills-trumprx-what-expect-rcna249520",
+      "published_at": "2026-01-01T15:00:40.000Z",
+      "summary": "Changes are coming in 2026 forGLP-1 drugs.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251231-new-year-weight-loss-lr-f87bf6.jpg"
+    },
+    {
+      "headline": "Leila Register / NBC News; Getty Images",
+      "url": "https://www.nbcnews.com/news/us-news/events-happening-2026-olympics-america-250-world-cup-artemis-midterms-rcna248753",
+      "published_at": "2026-01-01T10:00:40.000Z",
+      "summary": "This new year will be filled with milestones, including America’s 250th birthday, the world’s greatest sports competitions and a mission to the moon.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251231-2026-big-events-lr-1f1d5f.jpg"
+    },
+    {
+      "headline": "Courtesy of Mili Godio; Georgea Hall",
+      "url": "https://www.nbcnews.com/select/shopping/editors-surprising-products-2025-rcna251366",
+      "published_at": "2025-12-30T14:36:25.259Z",
+      "summary": "As shopping editors whotest hundreds of productsevery year, we’ve pretty much seen it all — or so we thought. Every year, there’s a few products that manage toexceed our expectationsand keep us coming back for more. Below, I put together a list of products that took us pleasantly by surprise in 2025, whether that’s because we were naturally skeptical about the hype, they seemed too good to be true or they’re, simply put,odd.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251223-eoy-2025-surprise-hits-mm-main-db7c72.jpg"
+    },
+    {
+      "headline": "Courtesy of Harry Rabinowitz",
+      "url": "https://www.nbcnews.com/select/shopping/sony-wh1000xm6-headphones-deal-of-the-day-2026-rcna251954",
+      "published_at": "2026-01-02T23:38:54.223Z",
+      "summary": "I test headphones all the time:wireless earbuds,open earbuds,over-ear headphones, the list goes on. But my current undisputed favorite are theSony WH-1000XM6s. They have a terrible name, but they are the best over-ear headphones on the market, and are back at their lowest price ever, the same deal I saw duringBlack Fridaylast year. I also found other Sony headphones on sale worth considering.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-DOTD-SONY-WH-1000XM6-mm-main-ab7403.jpg"
+    },
+    {
+      "headline": "Google’s TV Streamer is back at its lowest price ever",
+      "url": "https://www.nbcnews.com/select/shopping/google-tv-streamer-4k-deal-of-the-day-2026-rcna251982",
+      "published_at": "2026-01-02T23:38:12.988Z",
+      "summary": "A dedicatedstreaming devicecan be faster, more responsive and easier to use than the software built-in to yourTV. They are also a great companion toprojectorsandcomputer monitors, which often do not have smart streaming software.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-DOTD-google-tv-streamer-mm-main-345bed.jpg"
+    },
+    {
+      "headline": "Start the year off with a new reusable bottle: Stanley Quenchers are up to 50% off right now",
+      "url": "https://www.nbcnews.com/select/shopping/stanley-quencher-sale-2026-rcna251951",
+      "published_at": "2026-01-02T23:37:37.720Z",
+      "summary": "The start of a new year is one of the best times to do a reset on your fitness routine, and while you don’t have to do it right away, it’s a good idea to start small. Before looking into thebest running shoesorweighted vests, I recommend choosing a reliablereusable water bottle, such as the ever-popularStanley Quencher. The bottle is currently on sale on Amazon for up to 50% off in select styles. They come in five sizes, all with handles, and keep drinks cold for up to 24 hours.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-DOTD-Stanley-mm-main-00fef0.jpg"
+    },
+    {
+      "headline": "Live updates: Maduro to make first court appearance in New York after Venezuela capture",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/maduro-venezuela-trump-court-live-updates-rcna252230",
+      "published_at": "2026-01-05T07:40:21.967Z",
+      "summary": "Delcy Rodríguez, named Venezuela's acting leader, invited the U.S. to collaborate and asserted her country's \"right to peace, development, sovereignty, and a future.\"",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-maduro-vl-440p-144df5.jpg"
+    },
+    {
+      "headline": "Here's the biggest news you missed this weekend",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-january-4-rcna251990",
+      "published_at": "2026-01-04T23:00:40.000Z",
+      "summary": "The Trump administrationlaunched a major military attack on Venezuela, bombing facilities and capturing leader Nicolás Maduro and his wife.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-doral-venezuela-reaction-ch-1321-05b75f.jpg"
+    },
+    {
+      "headline": "Hollywood starts 2026 with 'Avatar: Fire and Ash' No. 1, as James Cameron's sci-fi epic crosses $1B",
+      "url": "https://www.nbcnews.com/news/us-news/avatar-box-office-rcna252214",
+      "published_at": "2026-01-04T21:30:27.564Z",
+      "summary": "Hollywood kicked off 2026 with \"Avatar: Fire and Ash\" atop the box office for the third straight week and with hopes for a blockbuster-filled year after a disappointing 2025.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251229-avatar-fire-and-ash-vl-721a-51e35f.jpg"
+    },
+    {
+      "headline": "Tears, relief and questions about what comes next: Venezuelans in U.S. celebrate Maduro capture",
+      "url": "https://www.nbcnews.com/news/us-news/venezuelans-in-us-react-maduro-ouster-trump-rcna252052",
+      "published_at": "2026-01-03T23:30:36.376Z",
+      "summary": "DORAL, Fla. — They came out in the middle of the night when they heard the news, some still in pajamas as they joined the crowd of revelers waving Venezuelan flags and dancing, singing and crying.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-doral-venezuela-reaction-ch-1325-f1fc54.jpg"
+    },
+    {
+      "headline": "4 dead after helicopter appears to strike recreational slackline in Arizona",
+      "url": "https://www.nbcnews.com/news/us-news/4-dead-helicopter-appears-strike-recreational-slackline-arizona-rcna252031",
+      "published_at": "2026-01-03T06:32:26.325Z",
+      "summary": "Four people died in an Arizona helicopter crash Friday after the aircraft appeared to strike a more than half-mile “recreational slackline” strung across a mountain rage, the Pinal County Sheriff’s Office said.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-az-helicopter-crash-cc-1240a-2bf628.jpg"
+    },
+    {
+      "headline": "Diane Crump, the first female jockey to ride in the Kentucky Derby, dies at 77",
+      "url": "https://www.nbcnews.com/news/obituaries/diane-crump-first-female-jockey-ride-kentucky-derby-dies-77-rcna252026",
+      "published_at": "2026-01-03T04:53:53.413Z",
+      "summary": "WASHINGTON — Diane Crump, who in 1969 became the first woman to ride professionally in a horse race and a year later became the first female jockey in the Kentucky Derby, has died. She was 77.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-Diane-Crump-aa-1137-234d9e.jpg"
+    },
+    {
+      "headline": "Rangers beat Panthers 5-1 in first outdoor hockey game in Miami",
+      "url": "https://www.nbcnews.com/sports/hockey/rangers-beat-panthers-5-1-first-outdoor-hockey-game-miami-rcna252025",
+      "published_at": "2026-01-03T04:47:22.125Z",
+      "summary": "MIAMI — Send the New York Rangers outdoors, and they become unbeatable.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-Mika-Zibanejad-aa-1142-89931e.jpg"
+    },
+    {
+      "headline": "Victoria Jones, daughter of Tommy Lee Jones, found dead in hotel on New Year's Day",
+      "url": "https://www.nbcnews.com/pop-culture/celebrity/victoria-jones-daughter-tommy-lee-jones-found-dead-hotel-new-years-day-rcna251896",
+      "published_at": "2026-01-03T04:21:06.649Z",
+      "summary": "The daughter of Academy Award-winning actor Tommy Lee Jones has died, her family acknowledged in a statement on Friday night.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-Victoria-Jones-RS-5da1a5.jpg"
+    },
+    {
+      "headline": "Michael Nagle / Bloomberg via Getty Images",
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-venezuela-trump-maduro-rcna252232",
+      "published_at": "2026-01-05T03:57:39.635Z",
+      "summary": "Oil prices swung Sunday evening, as investors and traders weighed the market forces that could be unleashed by President Donald Trump’sattack on Venezuelaand his comments about what could be next for the country and its massive oil reserves.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-new-york-stock-exchange-vl-548p-95d429.jpg"
+    },
+    {
+      "headline": "Javier Campos / NurPhoto via Getty Images file",
+      "url": "https://www.nbcnews.com/business/energy/us-will-look-tap-venezuelan-oil-reserves-trump-says-rcna252054",
+      "published_at": "2026-01-03T23:05:51.746Z",
+      "summary": "President Donald Trump said Saturday that the removal of Venezuela President Nicolás Maduro from power will open the door to the country’s vast oil reserves, a move that has the potential to reshape the global energy market.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260103-venezuela-oil-ch-1058-bb8a7d.jpg"
+    },
+    {
+      "headline": "Dozens missing after boat carrying more than 200 migrants capsized off Gambia",
+      "url": "https://www.nbcnews.com/world/africa/dozens-missing-boat-carrying-200-migrants-capsized-coast-gambia-rcna252109",
+      "published_at": "2026-01-04T01:11:40.653Z",
+      "summary": "BANJUL, Gambia — Dozens are missing after a boat carrying more than 200 migrants on their way to Europe capsized off the coast ofGambia, the West African nation’s leader said late Friday, setting off a frantic search and rescue operation.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png"
+    },
+    {
+      "headline": "Joe Raedle / Getty Images",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-divestment-chips-deal-protect-us-security-rcna252016",
+      "published_at": "2026-01-03T02:08:52.653Z",
+      "summary": "WASHINGTON — President Donald Trump on Friday ordered the unraveling of a $2.9 million computer chips deal that he concluded threatened U.S. security interests if the current owner, HieFo Corp., remained in control of the technology.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/250102-Trump-aa-847-edbaca.jpg"
+    },
+    {
+      "headline": "Michael Nagle / Bloomberg via Getty Images",
+      "url": "https://www.nbcnews.com/business/markets/ai-stocks-jump-broadly-positive-outlook-2026-markets-rcna251902",
+      "published_at": "2026-01-02T22:19:19.381Z",
+      "summary": "U.S. stocks are starting 2026 in a similar fashion to 2025.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-new-york-stock-exchange-mn-0920-dbd5ad.jpg"
+    },
+    {
+      "headline": "Artificial intelligence",
+      "url": "https://www.nbcnews.com/artificial-intelligence",
+      "published_at": null,
+      "summary": "The latest news and top stories on artificial intelligence, including ChatGPT, AI Chatbot and Bard.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230329-artificial-intelligence-ai-doomsday-cs-74011b.jpg"
+    },
+    {
+      "headline": "Brandon Bell / Getty Images file",
+      "url": "https://www.nbcnews.com/business/autos/tesla-loses-title-worlds-biggest-ev-maker-sales-fall-rcna251932",
+      "published_at": "2026-01-02T16:33:56.401Z",
+      "summary": "Tesla lost its crown as the world’s bestselling electric vehicle maker on Friday as a customer revolt overElon Musk’s right-wing politics, expiring U.S. tax breaks for buyers and stiff overseas competition pushed sales down for a second year in a row.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250731-tesla-ch-1601-b6e3af.jpg"
+    },
+    {
+      "headline": "Graphic: Track grocery price trends",
+      "url": "https://www.nbcnews.com/data-graphics/grocery-price-tracker-inflation-trends-eggs-bread-trump-administration-rcna239569",
+      "published_at": "2025-12-31T19:26:48.621Z",
+      "summary": "Are President Donald Trump’s policies bringing down grocery bills?",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/grocery-price-tracker-rect-4ba4ed.jpg"
+    },
+    {
+      "headline": "America's affordability crisis is putting Aldi in the spotlight",
+      "url": "https://www.nbcnews.com/business/economy/aldi-supermarket-affordability-crisis-rcna250108",
+      "published_at": "2025-12-27T18:40:49.779Z",
+      "summary": "Newlyweds Brittany Zwier and Frank Martinez are starting their life together looking for ways to save money.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251227-Aldi-ch-1250-6793f2.jpg"
+    },
+    {
+      "headline": "CFOTO via Getty Images",
+      "url": "https://www.nbcnews.com/world/japan/trump-japans-cute-tiny-cars-america-experts-rcna248586",
+      "published_at": "2025-12-25T10:00:41.000Z",
+      "summary": "It's all the truck he needs — one that picks up a new mattress from the furniture store, takes him to work and has ample space for groceries.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251218-japan-kei-car-b-1240-5e1061.jpg"
+    },
+    {
+      "headline": "David Paul Morris / Bloomberg via Getty Images file",
+      "url": "https://www.nbcnews.com/business/economy/jobs-trends-teen-black-factory-workers-rcna249517",
+      "published_at": "2025-12-16T22:52:06.727Z",
+      "summary": "On Tuesday, the Bureau of Labor Statisticsreleased delayed jobs datafrom the last two months, showing the U.S. shed 105,000 jobs in October and added 64,000 jobsin November.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251216-factory-california-mn-1453-ebc994.jpg"
+    },
+    {
+      "headline": "At least 6 reported killed during widening protests in Iran sparked by ailing economy",
+      "url": "https://www.nbcnews.com/world/iran/least-6-reported-killed-widening-protests-iran-sparked-ailing-economy-rcna251824",
+      "published_at": "2026-01-01T19:28:44.374Z",
+      "summary": "Widening demonstrationssparked by Iran’s ailing economyspread Thursday into the Islamic Republic’s rural provinces, with at least six people being killed in thefirst fatalities reportedamong security forces and protesters, authorities said.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260101-iran-protests-mn-1355-23b15d.jpg"
+    },
+    {
+      "headline": "The 'billionaire next door' bows out",
+      "url": "https://www.nbcnews.com/business/corporations/warren-buffett-retires-legacy-rcna251590",
+      "published_at": "2025-12-31T16:37:03.485Z",
+      "summary": "After 55 years, it’s Warren Buffett’s last day as chief executive of investing juggernaut Berkshire Hathaway.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240212-warren-buffett-mn-1615-48c734.jpg"
+    },
+    {
+      "headline": "The Sphere, 'The Wizard of Oz' and the power of nostalgia to lure moviegoers",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/sphere-wizard-oz-power-nostalgia-lure-moviegoers-rcna250975",
+      "published_at": "2025-12-31T12:30:41.000Z",
+      "summary": "Apples dropping from the sky. Leaves blowing through the air. Simulated wind gusts.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251226-wizard-of-oz-sphere-mn-0730-c41975.jpg"
+    },
+    {
+      "headline": "There are glimmers of hope in the housing market",
+      "url": "https://www.nbcnews.com/business/real-estate/housing-market-improves-affordability-concerns-rcna251487",
+      "published_at": "2025-12-31T10:00:00.000Z",
+      "summary": "Homebuyers are starting to see signs of relief, and the momentum could roll into next year.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-home-for-sale-sign-ch-0855-ea1348.jpg"
+    },
+    {
+      "headline": "Gold and silver head for biggest annual price gains in over 40 years",
+      "url": "https://www.nbcnews.com/business/markets/gold-silver-prices-soar-rcna251490",
+      "published_at": "2025-12-30T18:14:43.476Z",
+      "summary": "Gold and silver prices are about to record their biggest annual gains since 1979.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-gold-bars-ch-0915-44803a.jpg"
+    },
+    {
+      "headline": "Millions of Americans closing out 2025 with brutal winter weather",
+      "url": "https://www.nbcnews.com/weather/winter-weather/millions-americans-closing-2025-brutal-winter-weather-rcna251488",
+      "published_at": "2025-12-30T14:42:04.471Z",
+      "summary": "Millions of Americans will be closing out 2025 will brutal winter weather.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-snow-boston-ch-0848-7ac82b.jpg"
+    },
+    {
+      "headline": "Protests erupt in Iran as prices surge and currency hits new low",
+      "url": "https://www.nbcnews.com/world/iran/protests-iran-currency-hits-record-low-economy-tehran-rcna251325",
+      "published_at": "2025-12-30T13:49:07.775Z",
+      "summary": "Iran is facing its largest demonstrations in years as people hit the streets of Tehran and other cities to protest the country'sdismal economic situation.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-tehran-rs-f221f4.jpg"
+    },
+    {
+      "headline": "Eurostar suspends Channel Tunnel services after power supply issue",
+      "url": "https://www.nbcnews.com/world/europe/eurostar-suspends-channel-tunnel-services-power-supply-issue-rcna251481",
+      "published_at": "2025-12-30T13:14:38.231Z",
+      "summary": "Eurostar on Tuesday suspended its cross-Channel train services to and from London following a power supply problem in the tunnel that linksBritainandFrance, a company spokesperson said, disrupting peak winter holiday rail travel.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251230-eurostar-rs-be6651.jpg"
+    },
+    {
+      "headline": "Winter weather and heavy winds put a freeze on post-holiday travel",
+      "url": "https://www.nbcnews.com/news/us-news/winter-weather-heavy-winds-put-freeze-post-holiday-travel-rcna251334",
+      "published_at": "2025-12-30T06:44:35.697Z",
+      "summary": "Drivers in Buffalo, New York, were warned to stay home because of visibility worries Monday, and Ohioans got temperature whiplash from 68 degrees to 11 as a winter storm created misery for millions.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251229-airport-vl-243p-36e7c4.jpg"
+    },
+    {
+      "headline": "Beyoncé is officially a billionaire, Forbes says",
+      "url": "https://www.nbcnews.com/pop-culture/celebrity/beyonce-officially-billionaire-forbes-says-rcna251396",
+      "published_at": "2025-12-29T20:04:36.999Z",
+      "summary": "Beyoncé has officially reached billionaire status,Forbes reports.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241217-Beyonc-ew-439p-c916ab.jpg"
+    },
+    {
+      "headline": "Travel disruptions mount as strong storm system sweeps across the country",
+      "url": "https://www.nbcnews.com/weather/winter-weather/travel-disruptions-mount-strong-storm-system-sweeps-country-rcna251204",
+      "published_at": "2025-12-29T04:43:14.928Z",
+      "summary": "A powerful storm system continues to disrupt travel, placing 64 million people under winter weather alerts that span the eastern two-thirds of the country.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251228-snow-vl-938a-9d05f7.jpg"
+    },
+    {
+      "headline": "North Korea says latest missile tests involve hypersonic weapons system",
+      "url": "https://www.nbcnews.com/world/asia/north-korea-says-missile-tests-involve-hypersonic-weapons-system-rcna252281",
+      "published_at": "2026-01-05T05:05:31.374Z",
+      "summary": "SEOUL, South Korea —North Koreasaid Monday that leaderKim Jong Unobservedtest-flights of hypersonic missilesand underscored the need to bolster the country’s nuclear war deterrent, as the country dials up weapons displays ahead of its major political conference.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/20260105-north-korea-jj-1204a-e578fb.jpg"
+    },
+    {
+      "headline": "Novak Djokovic cuts ties with Professional Tennis Players Association he co-founded",
+      "url": "https://www.nbcnews.com/sports/tennis/novak-djokovic-cuts-ties-professional-tennis-players-association-group-rcna252229",
+      "published_at": "2026-01-05T01:29:14.031Z",
+      "summary": "Novak Djokovic is cutting ties withthe Professional Tennis Players Association, a group he co-founded that sued the sport’s governing bodies last year, writing on social media Sunday that “my values and approach are no longer aligned with the current direction of the organization.”",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-novak-djokovic-cc-0714p-3397dd.jpg"
+    },
+    {
+      "headline": "Myles Garrett breaks NFL single-season sacks record",
+      "url": "https://www.nbcnews.com/sports/nfl/myles-garrett-nfl-sacks-record-cleveland-browns-rcna251221",
+      "published_at": "2026-01-04T21:19:56.146Z",
+      "summary": "Cleveland Browns defensive end Myles Garrett broke the NFL’s single-season sacks record on Sunday against the Cincinnati Bengals with his 23rd on the season.",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260104-myles-garrett-vl-354p-6c7ef1.jpg"
+    },
+    {
+      "headline": "A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera",
+      "url": "https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26",
+      "published_at": null,
+      "summary": "Copyright 2026 The Associated Press. All Rights Reserved.",
+      "image_url": "https://dims.apnews.com/dims4/default/a4ca28e/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2Fcf%2Ff8600a3d4a0b94fe5e105492ca4f%2Fyoutube-thumbnails-2025-02-13t172233-215.png"
+    },
+    {
+      "headline": "Why every A-lister also has a side hustle (Encore)",
+      "url": "https://www.npr.org/2025/12/24/nx-s1-5652152/why-every-a-lister-also-has-a-side-hustle-encore",
+      "published_at": "2025-12-24T03:00:04-05:00",
+      "summary": "Happy Holidays from The Indicator! For the next week, we're running some of our favorite shows from this year. On today's show, why celebrities are increasingly investing in their own brands.This piece originally aired August 14, 2025.Related episodes:The celebrity crypto nexusThe Olympian to influencer pipeline (Apple/Spotify)For sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or atplus.npr.org.Fact-checking bySierra Juarez. Music byDrop Electric. Find us:TikTok,Instagram,Facebook,Newsletter.",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F7c%2Fabd9322f47cb8497dbfd634a6361%2F309fe79a-a558-4cda-992c-21bd0e55dd80.jpg"
+    },
+    {
+      "headline": "From 'First Buddy' bromance to a feud to a thaw, here's how Elon Musk and Donald Trump's relationship has evolved",
+      "url": "https://news.yahoo.com/news/articles/elon-musk-donald-trump-now-205703611.html",
+      "published_at": "2026-01-04T20:05:57.000Z",
+      "summary": "Elon Musk andDonald Trumphave had a tumultuous relationship over the years.",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/Xfn3HiIMhUzFlorcsbD8mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/business_insider_articles_888/877e0d15a68ae95a0ee1573ef9dcf656"
     }
   ]
 }
