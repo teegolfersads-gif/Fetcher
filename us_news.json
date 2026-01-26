@@ -1,50 +1,60 @@
 {
-  "fetched_at": "2026-01-25T23:36:01.075932+00:00",
+  "fetched_at": "2026-01-26T04:35:05.948252+00:00",
   "stories": [
     {
-      "headline": "Minneapolis live: Protesters gather in Minneapolis as governor calls on Trump to remove agents after shooting - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IVXAyMGtHZFo1LUM4b3MwZWtHT2xiU18xWFhoU0Z0V1lxdGV4SXdqTGNIRkloVVhZdm5ETzlVXy1ISEU3Ymh3bE8wbXoxWDVrSGphTTBRaw?oc=5",
-      "published_at": "Sun, 25 Jan 2026 21:25:01 GMT"
+      "headline": "Obamas condemn federal immigration agents\u2019 conduct: \u2018This has to stop\u2019 - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkgxX050X1lqVEdScjJ4dHVvcnZFSFFPdm5ZaWNwZU5LRllDY2NFRDcxcFYtRS1aODJqbkI4SFM3eTloM09pUnY0OThER0RyRHkyN1Ezb2JZaXhyajB1Vk5iOGtmSllXSnRVOWVPSnFTb1BnTnJrdm1DNDVBdldsMU44TjhWcjBPb1lHdWJJeUZ0eFJuZ29qcXNGYkt0OElldWtMQnN0RjRpZjZpbVRmVWJFSjhIdw?oc=5",
+      "published_at": "Mon, 26 Jan 2026 01:49:06 GMT"
     },
     {
-      "headline": "Snow and sleet pour down in Northeast after ice storm knocked out power to more than 1 million - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXlfVVFiWVJPS0g4RXRUQ1NsQlNzN3FHQUthN2Y4b05UenFUSEhURjUtYlgxc0dIZWlHaGNneVZycW5heDEzMzI4cUVQT0RMTzlvLVkwVGF4NV94QjZaRWpiaFVoSUdJZkRVclFBcjNCSEFqcDRmTUFBTmw2X3V1eHBJaWVkcjRGX1NwcTFR?oc=5",
-      "published_at": "Sun, 25 Jan 2026 22:53:00 GMT"
+      "headline": "Power outages and canceled flights as winter storm brings snow, sleet and ice - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkJOaEdIWTFJQ1kzNXpyOFh1MTBkeEpaWk9Cb0k5OTdSQ2pUQ2lmSjJRNE9KZld4RmozalpBM25teUVGZDZCSDlmWWlTeWFKei13SGdnN3BsZDdmMFJUeGNyR3ZFMlBNTF9IbmdvZ0laRlFHTjNSd3Njb1ZfYndtc1NWMGt6R2RXNkwtMy1iUjAxa0FhQTMwekJEOA?oc=5",
+      "published_at": "Sun, 25 Jan 2026 23:36:08 GMT"
     },
     {
-      "headline": "Democrats vow to oppose homeland security funding bill. That increases the chance of a shutdown - AP News",
+      "headline": "Opinion | The unjust killing of Alex Pretti marks a turning point in Trump\u2019s second term - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUFlbkltaHExd3FYV2xaM1lTVlhaSnAxX1o0UW94OERKMkQzSGFTelQyQjEtWnY0Z09scmJZNDlkWmRLZFZCZl9LWlR5ZWdScnJ4NTE2aEZudUMwdk9CRW1yZDY3X0RfMmVOclZCZk1MSW1WSkZzbFM1S3MwTDNxYUU3aGJvWlVQTE1nd0VFY0stV1NPckVxVDZVUmpkczhDTjRhM1Q5YzlsU1BzaEhtcURMVUQ5Y0Zua2I4?oc=5",
+      "published_at": "Mon, 26 Jan 2026 03:54:00 GMT"
+    },
+    {
+      "headline": "Early snowfall totals: Who is seeing the most snow in and around Central NY? (map) - syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2FVUHlzNDM0UzRRM0RnajNBUXBsRVlXeHdsdVpzTGw4Tk16aVdrZ253bFllOXpId3hDQlZRbkJocGxBWnhhYU1DTHJCb21wX1lqQ2h6TzJKMWVpMGYwU1lFSng3NXFRaDUzeDhpMnlaeGFxTTl6eDZCTGNfRVlBUW15MTkySDh4TGhreHVwRVNVTjdRRkZNdThfVU1mOWRfMlItWDZYVUpCVldhcy13bTF5elphdk9nZDFSTjhoWk1Jdw?oc=5",
+      "published_at": "Sun, 25 Jan 2026 21:33:00 GMT"
+    },
+    {
+      "headline": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - AP News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGhqSlpFMXMwZVVfRk1Ja3lsS3BfSFF3MEhEWkpwOUVtV2dqN2lFNzFWQjltWThVQ0xmZHp1WGt4Mm9QdUdXcjVkUWNtTXZ4ME1Kc3VyQUE1ZTZHOHlGNVdMQkFabVBqQ2llRS1IVTR3bTMtdGhEZE00ams2TUJ0V3h2UWpkWkFMYlRfQzd2TGRwTDAxNmlSdHU2d1VFWnIwQWFRUVVMY29MdUpHZnN3UEZfeVkwakR6Q285R1Nqdw?oc=5",
-      "published_at": "Sun, 25 Jan 2026 17:32:00 GMT"
+      "published_at": "Mon, 26 Jan 2026 01:02:00 GMT"
     },
     {
-      "headline": "Transcript: Rep. Steve Scalise on \"Face the Nation with Margaret Brennan,\" Jan. 25, 2026 - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFZOLVhpdnJFYnlDclQwenJibG9ZSk5vazJxYnpTR3hnWXBIN29YTHhrYnpTRlRlaUlGLUNHSWFycnlocWNpRm5GTmNzektVb19JQkI0RnA1Z2RJZ3V0eW13M2VvaGxmNDVpYXg0TVdwY280VlBQYmpSN19Wa0tKa0xkeHVXSlFN0gGOAUFVX3lxTE5zOWVnN0JSbVRiX0ZLZzh5Nk4ydlI3X1RaZG5DQW5qR09hSVRIWWFoWWozVjZselJ5ZU1wR0c0OUVfOTc0b2FPT25Wa0dRaXhlZWxLN3EyUHlfU1BpeDV5X1AzN09uRURmM0NENUJEcEVjbHFXUHV1SU42c2w5SXJiSEFpYlNjWTFMbWNSOEE?oc=5",
-      "published_at": "Sun, 25 Jan 2026 17:03:00 GMT"
+      "headline": "How much snow has fallen in Pittsburgh? Here's a look at the snow totals so far. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDZ6NFBucmx3Rml3SHp1ZDV0T1hTV1Q3TWgwZ3Q4Qnh1SWx2ZndUVkhlaGJsWllSX3M0eHV1cUR3SnZOQmxFcU91QmFNVzUxck5DYVJveVZHMjhMbXZ5MEEwNTA4SWZCN0ZEOGtaV3VXZTQxRTJoTXNYakE0VXpqUi05N1JMdw?oc=5",
+      "published_at": "Sun, 25 Jan 2026 22:34:00 GMT"
+    },
+    {
+      "headline": "Carney says Canada not pursuing free trade deal with China as Trump threatens tariffs - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEtvT1MyMnIwdVl6SXBTX2tVYnU0dEloZm9vREtFRVJCekkwWWJyX1RQZGVma1hkTXRqM2o2Z2pGNDhFTTNiT2RaOS1pU2Z5blZXaXZqUkhoQWZiYnVuSkU4VFVZQVZhakNINWtaeHhsaF92Tk45T010MktQVFJkbEZoaFk1d1NKRHZDRGk0aUI5U3l2eHpoVEFLc0htdkNUb0VZZHNyaVNZazVIeG52V0tValBYNFlCNjd0UdIBwgFBVV95cUxPSmNJSG43SWNHeWNvSzAtcmp6MTVnQkM5bC1KdDdOZF80dUNCN1Z1RmxhTlNlQmV6Z0F2TkF1VnN3bU8taUpaUDZCWnFXTjVMckUzbzJla19SQTFOczhBNnJwVkVmMVhiRHZVQmFnZ0YwU09ZNTB3bFN1S05PZE9IOWsyR3N0T0xuYXdiakZXV0dyOTk4LVJMd1VhQ3NaUk1oQlJaM3pMalpIMTVnWnB4Q2tEc2lmLTZfdzFtNnpOZnVvUQ?oc=5",
+      "published_at": "Sun, 25 Jan 2026 21:44:23 GMT"
+    },
+    {
+      "headline": "Private jet carrying 8 people crashes at Bangor, Maine, airport, FAA says - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ySFFGbm9iVkpNQnBCckdNNTd1bU5yMHJTWUlrWllZYWpfcUpaRXFpX0wwWWJSVXdyOTgwZms1UFgxMk0xUE5IbTdZbUh6b3hEb2RHRFRXQ3BOVU9xTF9LQmhDbzk3M0FlakE?oc=5",
+      "published_at": "Mon, 26 Jan 2026 01:49:00 GMT"
     },
     {
       "headline": "Columbia Selects University of Wisconsin Chancellor as Its President - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2RkaUVfdlp3ZG9veVJ3S0VZakxvdElIaGt1OW9pSHdBQ0tSQ2VWejlsTFFpWXhtWURKZ0k2MTZxNUtLWUs3Yjd3bDhTNGNLOGdSc2VUTjJqLWc5QUVDRDBIblp0czJtYUZBaW5XVFc0YnhWR3RKV3dvY0xkWlN3aURkd3VTYjZUeTBsUmxB?oc=5",
-      "published_at": "Sun, 25 Jan 2026 22:20:11 GMT"
+      "published_at": "Mon, 26 Jan 2026 02:12:52 GMT"
     },
     {
-      "headline": "Widespread heavy snow developing across CNY - cnycentral.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPek5aMjFiR3hfNHRkT0pjSXZlVF8tclRWdzQwckROcTBabldoVUxSd25iWjNJX09ScjNoSkhmeXFBQjF0ZTlmakNpT3ZXNFRZazFlZUVpLUp4VGRFZTRSLWxBXzJRQk1qUXlHQ3puOFZFU29pbXpkeGstd2pIQzN5cFRIVQ?oc=5",
-      "published_at": "Sun, 25 Jan 2026 13:40:09 GMT"
+      "headline": "It doesn\u2019t matter if Alex Pretti had a gun - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dLdEptZG1vc3ZqbjNIRU8xMVpvOEhPNE5NdUhrVUVGVE9HWGVJSVZZX3JkLUNfdW1vUy00aDI4WWVqRXUyZnRkaGplWmJ0dnh0STF2aUIza1h2cDhnOWtJR0FmM3g1YmVaaEVFeXRudmx1ZjE4d1RXVmR3aVdmWlFZQ0RBRFNZeENocg?oc=5",
+      "published_at": "Sun, 25 Jan 2026 17:01:38 GMT"
     },
     {
-      "headline": "Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2VjaWpBZEpoWXo3MTYwRDhGV3dlMVhuZVpuZkE1UUJqTlc0bEU2SWYwVFJoaXFLM2xUd1g1c29IcUF5bVNXa1NMVnlDbjZIRHNCTXB1MFJZWGZfSHE0bzM5SlBjWnVpT1MtMXFPUjFoSlBLTzVRcEpCNGF3RG9WekstbzVFREZuOGEyTHFHYjV4MFRNblRsQ2Z0azEyS3gyWnF1c2xiZkg?oc=5",
-      "published_at": "Sun, 25 Jan 2026 18:53:00 GMT"
-    },
-    {
-      "headline": "UPDATED: Preliminary snow and sleet totals from around Northern Virginia - insidenova.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObElMSjRuQ0dQcXRwaTNidHdJeEI3OFQ0R3RBY0YtajR5UTlJQV9tYTVnNTg3STg3ZnhuZWtqdUlEb05zY0hGNDJycVRDSUVhNk5xUm1WeGNTdDhfbThzUGxuZ1YwdG5IcVFXUkZIbi04YS1ZalAxdll6SXRvTk9JU3A1UDJlckFqV1hCdlR2aUhlWEVMSUppSlBjay1wcWEzMjZQMWRtMTZBVVUtWG1FbDNJZjhnc2VXM2g0d1oxNEFpODBTejM2Zk5FM2RVeC15WkVOekJOYnhDN0JmcjBUbDlrNFhORVBVTUZfVzRWVQ?oc=5",
-      "published_at": "Sun, 25 Jan 2026 21:30:00 GMT"
-    },
-    {
-      "headline": "Eleanor Holmes Norton won\u2019t seek reelection as DC delegate - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0dHVS1ycFotY1BNS1VWZU16RThiWXJYeVo0d0J4VThWTXpOWmYteHRDczhTaTZqZ0RfeTljNl94OElqekdUcDJpV21pcG54elRJWEkyWkFfSjVWaGE0cVpNWFg2bnFhamU1dm4xSmFpX0JZSFhNdDhDLVNqbWZfVXRSMHdRSTAtcG5EaXVZOG1ZeWE2Vnc?oc=5",
-      "published_at": "Sun, 25 Jan 2026 15:28:16 GMT"
+      "headline": "Winter storm live updates for NYC and Tri-State Area as snow, sleet and dangerous cold take over - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VvXzRXUHBHUnAtYXp3M1AyTHY5Smo3dDRuQVZsS1V5WnhvNThQSmtBNUtoR0xuM0tZRFllOVY1aWZMNjl4M1lHRVgxZE5qLXBvc1dsZHdaTXA3UXVTZG44eUJWNHdkeW1uZkRyX2k5SkdIMlc4S0xjdUFYeVlzZjZMWUNyMDRTMGlfOWpkQXVNbEE2aFYtU2cwV0lfdlVVa0hhbmxieERBTWc?oc=5",
+      "published_at": "Mon, 26 Jan 2026 03:24:00 GMT"
     },
     {
       "headline": "Philadelphia snow updates: Latest forecast, storm timing, travel impact and more - whyy.org",
@@ -52,54 +62,44 @@
       "published_at": "Sun, 25 Jan 2026 21:58:56 GMT"
     },
     {
-      "headline": "'Fundamentally wrong:' Gun groups, Republicans condemn Noem, Patel statements - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVGtDS3RKYzB2eWNPTmloOEM2X0h2SGg5YkJmX1ZvTG9CTi1aaHJVcjZLSmI1aHNUNHphdjZrcHBSSnhYTDRzMWhiSTlQZjhEbmpIV3BwQjM0eFl1Q3BmQlQxdTVSNjFKTGVXeGhKS2RrSVM4NXZj?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:47:44 GMT"
+      "headline": "CNBC Daily Open: Canada is drawing Trump's ire \u2014 and faces a 100% tariff - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeG9YWGdWS1VqVHRjT0xPM0pXRlVmVUt6RF93XzVWWkxyWG9GcWRvOW1UWnZfUXoyRUhhQ1p0d0ZaQVdxTC05WlRxVVcyYmlkYU5XdTIyTkVXU010cXlIa2hiZkFaZlRDNURSWjlHdFBMUGcyQTRqTW9STDRJYzUyWVR5TEk2Mll1SXo4YVlkcHY4S3pPS1VVRzhySGtocVRQNy1ldERnLXRXcFJhWEZlSdIBtgFBVV95cUxQZHZTLWJjbzdGaFhGd0w3SlZBeFJSMVotMVFrd3l1VXZ2OHg3UEhLLWowOGF0Z2NVUmtudVp4NTdlbFYwWGVFNkJfc1djSGYwRjZBaGlVc09wVFU5ckw2dDVveGpfRkhFMW1pMUctWllpNWtKLTFEeEU0a3Z0blF1SEozTms1aHJmQVZZMXdUQXFCVXZrT19NLUx5Nk5yMEp6RldaQjk2TnkxTmludVpCajFBUTJFdw?oc=5",
+      "published_at": "Mon, 26 Jan 2026 01:01:00 GMT"
     },
     {
-      "headline": "Alex Honnold Says Netflix Paid \u201cEmbarrassingly Small Amount\u201d For Taipei 101 Climb: \u201cI Would Do It For Free\u201d - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaE1vZ3lVOVl3enRhQnB0X0ZsUDdMUjFHcWdwU2c0UlVIQ2U0TUsxQjZTcjJQVnVNdmhXdHotTExGaXBHczllYzkwdEZFeXk1cV85SVFVcElHdDBuMVFhdGdPU3RXV3YxMmd3X1FuY1ZRNHhRWmFTaWs0aHB2SW9NZ3JRQXF4UmJVUzE3dUlyS2gzQ0hLUmg4Vl9n?oc=5",
-      "published_at": "Sun, 25 Jan 2026 16:59:00 GMT"
+      "headline": "Winter storm wreaks havoc in north Miss. - mississippitoday.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BR19oVkhrSWpwV3pSbHZoYmI1aGFmcktTT2FyN1AybmtxWXUxRzVpQ1hoSVllNW9xSkNRVDVXaFZDRHZ4ZHdhdzNIbmxrd25teE9JZnBleG03SzZlM0Z3VlNtTmtMMG53NmdGN253SjJOdw?oc=5",
+      "published_at": "Sun, 25 Jan 2026 19:05:08 GMT"
     },
     {
-      "headline": "A man is under arrest for assaulting U.S. Rep. Maxwell Frost at the Sundance Film Festival - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEg3VHhtNF9POXZqMV91Mm9DNmszWVRUUzcwdWhEQUhvSE02dU5FQUJwc3lUX2ZXWmllVjUtSXF1Z2NwOGNaQmJQcFNzRWlBN25xWUQwQ0N5MVRBZXlfdG40SlVJZlRpR1R0S0ZBby1nSE9HWTVDOUFXRGpyaXNsNWVWZElNNzZ4QzZidlJsN1lTeUpQYjc0QlVmRnNibzlCRFZFNw?oc=5",
-      "published_at": "Sun, 25 Jan 2026 20:26:00 GMT"
-    },
-    {
-      "headline": "Winter storm live updates for NYC and Tri-State Area as snow, sleet and dangerous cold take over - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VvXzRXUHBHUnAtYXp3M1AyTHY5Smo3dDRuQVZsS1V5WnhvNThQSmtBNUtoR0xuM0tZRFllOVY1aWZMNjl4M1lHRVgxZE5qLXBvc1dsZHdaTXA3UXVTZG44eUJWNHdkeW1uZkRyX2k5SkdIMlc4S0xjdUFYeVlzZjZMWUNyMDRTMGlfOWpkQXVNbEE2aFYtU2cwV0lfdlVVa0hhbmxieERBTWc?oc=5",
-      "published_at": "Sun, 25 Jan 2026 22:23:00 GMT"
-    },
-    {
-      "headline": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUZWNjBCNGpkeERBMG5zbE9mU2UwX2ZrT0NMYjhOMWg2NlhscVkzdDY5QTh2MmFGOFFkTi1lNG5kd2w0b3dseDlPeGg1RVJ2LTBFczAtR3lWMW9nM01RcXQtOEMtajF3MFNLbDJrQWpCOVhKLTVZUUFheldZRHZoUksyVdIBiAFBVV95cUxOdjNBVm9PRFFTeXpHYXVpUGhLUzRjcTJVT0I1MHQtd19fa1lvZEVCOG4wbmg3SkhrX3BFU2RUX3MwUmI0T1Q4U1U2UGhkaHlLSm1RYXpNcnJST1ZpclNqeWdWUV9yTHhkTV96OUNqZHA0ZFIySFJTc3JoMWUxa2NJM0MxT0ZXTXNf?oc=5",
-      "published_at": "Sun, 25 Jan 2026 14:31:41 GMT"
-    },
-    {
-      "headline": "Exclusive | China\u2019s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT09uT2I0RjJkeVJ1YTRBNWxqOWtVOE1BSllGOUhZV2NINTFVQU1FXzlRM3BpaF8yWTJkWmVPYXBscGNNTENDZk85bmE5a0xJTEFGVVE3RVFHZURkRnRDVmZ4b0tBQ3hqb05mYTRfbXd6LXNITzdlTDY4UmFySnRnYnVUVXp2aWVFaEs3QmNMeGgtZkpTWktVOFh6aFV6QTg0dmc?oc=5",
-      "published_at": "Sun, 25 Jan 2026 17:05:00 GMT"
-    },
-    {
-      "headline": "In Minneapolis, Trump Administration\u2019s ICE Crackdown Shows the U.S. Unraveling - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTliNHhQMEFWeDhrUkFpSV9jQXpaVzBzTFJFMV9Ja3c2RGIzWkh2TTlzLW04Y2xfMVV2V0RiRGJpcjNSd000blc1MmhqUG9GZXJMQW5uOUQybmhOWWx5cEtaTV9nckV2NV8yQVFXWnFGY3lZMzdsUXNlR2xXTjkza2Foa1czQVhIRUFjMlFnUUMzN2c?oc=5",
-      "published_at": "Sun, 25 Jan 2026 10:02:37 GMT"
-    },
-    {
-      "headline": "Ice storm in Georgia causing tens of thousands of power outages in metro Atlanta - wabe.org",
+      "headline": "Georgia ice storm causing thousands of power outages in metro Atlanta - wabe.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHQ3OGJBWk9fNkZpUEdwb3otcjFzM3p5V2lkSTJXbDdEZ1NFOXd1MEVuYjZRY0RrZ0JwaF9nMGhNTEdpbHF1bnJYanlJUDVTamdueGZSdUdYOTZSRWlwbklLVEtFSlliSXh6R2dRa0Z0NnhhOHRULV9Xbl9iVmFobDdjdFFXMXpsSFFTOS1KNGVXSlgzeTRxdmJmdXNGanQxbUlKZXp3?oc=5",
-      "published_at": "Sun, 25 Jan 2026 22:03:34 GMT"
+      "published_at": "Sun, 25 Jan 2026 22:41:15 GMT"
     },
     {
-      "headline": "Appeals court rejects Justice Department\u2019s push to charge more people over Minnesota church demonstration - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUV9aekFDVm54RkZZM2VDMmNBZEpWbXZxXzRFLWlndWxhcTJmV2FjMXZaSmtHcm9LdGlYNkR2UmZPa3ZyWGN2TU9XVkdHeFRtZTJwR3NGNWJ4c3Z6ZWt1ZFhILS1PVDBOdVY4OEl2blNESWxXT3MzTDZnNzJUOVA3YndWRHZuVmdXX1FEbWJVbVV1RE80T2l3d3FSVkd3MVZQWXZWUjhMRjRKcGFhTW5aWVZHTkVzNWlYSGRpWUR2MDhZaFU?oc=5",
-      "published_at": "Sat, 24 Jan 2026 22:48:10 GMT"
+      "headline": "Taiwan monitoring 'abnormal' China military leadership changes after top general put under investigation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3JDdlVSQzZPWTJFZlU5OG0tdGgzV3FTX01YWUlrVExjcVJtb0l4TlJVQ3Nzdm5IRGVFOHJlc0o4Z3JUQ0xwMnlZMnl6VUVPdjRKMTlSV3lkblktRDcyVGJ3b2xZV0d3VnhjQ2tiZHZ1SVJubktpY2MycmJFeW1ERUtsdFgzb3F3Xzd4S1FJd1JFOGFwVHBZdEtwX3dkQ0dadmVzS29ZdVVfWGxudjdnMTJteFBRdlUySVpYdWEzWDQ0bUhO?oc=5",
+      "published_at": "Mon, 26 Jan 2026 01:59:00 GMT"
     },
     {
-      "headline": "Whiteout conditions in CT Sunday as heavy snow band drops 2-3 inches per hour: Live updates - ctinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2hWRWNCTFdjMGlrVUE3YjZqZkhzdzZqb2JNaWNyUjRydlJ6cklMZ3dBWTA1ODd5ZDhqbk5pUzNJaWtMVTJZMEoyUWFSVms0VmdfaTB3ZFMtVVp4VUtGTnAySTJZbGFaQzVYTWVkSG8zQ3l1MXVyaU1HMlBjLTNlSDRxR0M1Z2llWGRXZU8xdlVuWFRPS2FUU2tXWFg?oc=5",
-      "published_at": "Sun, 25 Jan 2026 23:01:32 GMT"
+      "headline": "Zelenskyy says U.S. security agreement for Ukraine is '100% ready' to be signed - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTBMVW44OFN5Umx3dmk5S3pzWlctUEhhRXhqMFZxSE1YU3lhclNTYWV5TncycWl1bU1IdUNWNWx3ckUwdVhEYm9rM1ItR1M2TXZCZzZXWUxwQXNDUnpvaU5wWkNKRWR4Vzd6RWFFNkxkaWpJaFZqMzJEekQyMHYxdklhMFNZd1dmRTZLYVV0TnFPTkc0YlVOWmo3MUl6d1Fia2FBdkVDUjMwekMyNkhZ0gG0AUFVX3lxTE5yTUNLNTQ5akFFdWhWQVhLWnFZWkphT243ZFc3TjBZWXFQcktOWjZXT2M1RWVMVEFIMHNHbGh6elBEM0ltS2F5REo0eU9qNFRVcHBsdnl1dUhNR0RqZ092QXZCZ3ZKeGE0T3Mwcms1dEpBd2xsSDllTmg1bGpRdGlkWUlPVW40WHhuUk42WTBJNlRndm1pTHMxd0tnaDl6T2Vrb2JPTUFLTWhJZnpRRnBVU2FkeQ?oc=5",
+      "published_at": "Sun, 25 Jan 2026 23:34:08 GMT"
+    },
+    {
+      "headline": "How much snow fell in Maryland? Snowfall totals for Sunday's winter storm. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHNTZVpUWG5KZFQzQVk2UmtoSDBPTTdlT2U2RUtpRkNiaGdhVjJ0ZFJublpCb2I4TVpDLUZJX1NTbjVLcm5uSk1aSTNNWTVBNG1NNEpUOS1lZHFxRV9qMVFXNEs5enNTcF84c0kxZll3Uk5nYm1RblZkUmNId0g3aTEtSjdvLXNDekpNdg?oc=5",
+      "published_at": "Sun, 25 Jan 2026 13:57:00 GMT"
+    },
+    {
+      "headline": "Florida congressman assaulted at CAA party during Sundance Film Festival - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYU9Uc3F4dmgyUUhhYWI3U1JWaF9keHJacjh3dUNORWZGQnJ2bnpSTmoxd0RCalFNc1kzQ1Fnakw1TFEzekpNRmFUb2xjbGJieG1aakZfZ2R0eUd1aHU4MlJtczdRa1JOQlFJd1dDM0Q5NkJkaXdGaURvTmJJVXlSUWU3SzFfRWx6NnhmWGdkcldEZU1rZGxSZUN1ZXBvLUdULXpySmJvR1d3dC1pc0lsM3FUQWU2b1dscXY3MTdBNDM4NVR0NDhwUW9LbXdsWHNZd1R3?oc=5",
+      "published_at": "Sun, 25 Jan 2026 20:42:42 GMT"
+    },
+    {
+      "headline": "Philly\u2019s biggest snow in 10 years has an icy finish, and it isn\u2019t going anywhere soon - inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PS0lIc2NnQlo2ak84QWFuMHo4bHVtQzhyVVpuR01USWhwSE9GOXZIbndISkxyS1ZnV2dEd0VZX0hWT2tMRFpEQ3JVaHNPNmdfY1QzdXZfcVRmNTJHa2FOWUszajVtZTZqNjFUaG55S01jLS1xWnNSUEdXYTFoY0k?oc=5",
+      "published_at": "Sun, 25 Jan 2026 21:08:20 GMT"
     },
     {
       "headline": "Bessent: Greenland deal is \u2018much more fulsome\u2019 for the US - ABC News",
@@ -107,99 +107,54 @@
       "published_at": "Sun, 25 Jan 2026 18:58:28 GMT"
     },
     {
-      "headline": "Chicago weather forecast: Lake-effect snow expected as Winter Storm Warning impacts several states Saturday night | LIVE RADAR - abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS0EzVFl1WFhXYTZFOG84OGNTQ203T3JfRjl5RHNlWjVhUFdZU3BLdWpzM2RraTB0MU4zZ21XSkZheVUzRElxZG5GcE05XzdsT1cyWXNULUx6OG4zbVlzQ09TSU9GTHFCYzA5RTdTcmI4WlZvNXh5SkRoTHZlYVFvNmlzWEtjbmxpMlB2VE5neGh0MV9jNmtNaHBtVDlyNXBCYmlsNkoxVWVuV3IzZzgxbElGeXlGdmVtdEhpNTRNWkp4b2tpSlM4cEdYZDRDUVF3UHlEaERfOHAwekJpRElHYTFHT2JRSDVCcVNJ0gHwAUFVX3lxTE1wR2dsT1h5bV9KMDNHRDRUVHk4OHNmaEVOeUU2Nms1Ym5OMjZia09fNTZ1NzRwMWRnMkRBR1ZkLVBzX2dIM1Z4Vm0zMzRqeVRvaUtsNG9Eb3pFVlhwZm43YlZpQXlZNDlWdHo5UE9DOVBQY3FpdFQ2QWRCY1VPa2o5WHNnaDVhMlpZLW5rZjh6TENiNklkX0ctdXFOM1Zta3BDakZpazFseW9qZ0F6Z25CeXN3ak5HcTlKaHFWSUhza202NnR4MlBIczJOSGNLMDFPRUhUODBDanFiY0tKaFpJaVB3SVIxaXdvenZZREhMeA?oc=5",
-      "published_at": "Sat, 24 Jan 2026 15:14:20 GMT"
+      "headline": "WVU Alert: WVU cancels in-person classes Monday (Jan. 26), shifts to remote work for most employees - WVU Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjN0U1NtVGxCemJCRnhES29RcEhNVEJUcnBuX3lRMFUzX2lVeWp3WXlESW1RM0ctay1uV3U2ckpNalR3LU5hSWRLRFVRODl6YWJtUU4zNkhSSEhyUDBvMlRlcmxKaENCSDdkMnRKV2lrSTQzYkFXd2lkZ0pyV3g3VVA1Y1docXM4YV9UZGs0ZE1QY0pYcERoZF9ucFRzcmlTeGtoYTJ3MlUxdXhtY3FmaENVc0w0MlFiWWZxS21ORTJEUndraVQyNXo4LW5fYVp4NGYteQ?oc=5",
+      "published_at": "Sun, 25 Jan 2026 22:58:00 GMT"
+    },
+    {
+      "headline": "U.S. rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes - NPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHhsUWJRZU9hUDVSMEE4bUJXTGItemd1NmhIOWpMTlA2TG84NURlc3ZoU19lMUVFa1UtTmllNWJCaFZ6bFlqUjBfYjkwblduM1pDSG9VTUl4ZWxqdG40T2Y3VWJ0VWVUWUZmTmVyTmQ1X3NSUDB0eC15YnFMUDIxbFctQUVjYWRxZXR2M2dQYUlraWV4NzFoekFOZEVtNDVDeVRRR3E1MVZCT1VaM0std2Rn?oc=5",
+      "published_at": "Sun, 25 Jan 2026 12:33:57 GMT"
+    },
+    {
+      "headline": "How the Trump Administration Rushed to Judgment in Minneapolis Shooting - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSk44d1loUFd4aVB2ZTRQeC1hT3d4RFQxRWc3dUZVZUtTazFFSENLbXhGZ2l5c2hoVUFXRWlkd0hCOFJqX1BubEVGNG9EeUlQdUtmTS13TzZCaEVPRVhwdEYzQXk5OW50UmNCYTJnbHdFVmFxNjEzcnlNUk1MZlFUZTRFWXBpaGZLMmpqM3RwdENhX0s0UmhieA?oc=5",
+      "published_at": "Mon, 26 Jan 2026 01:53:53 GMT"
+    },
+    {
+      "headline": "MN SOS Simon on DOJ's request for voter information: 'No' - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ1RrNER3bEZMY2ZDWDNPMVFGS1NYQTZPQXBEZ1hFWU1IR0YyclVZZXN2Z0c4UVVRazZpa2Vxajlrakw3Q1VwdmhLWlgzcEtrMjkxby1CVENUN21Jc3AwaFBsYUwwdG1GbDlySGlLTzVQLWVCRkd2OHZXY2ExR2JFOEM2SnhXVU9nc1kwSTMwWkg1aW1pUUFIZF9fczN4V0p6dkJtYVNtelhBZ2d4b1VyUHdzbksxb05mMjBCbXNTMnZUb21CRHpwbEJ5dE5wdFBtRkFlbWRFNkxKMVdwLXc?oc=5",
+      "published_at": "Sun, 25 Jan 2026 20:58:34 GMT"
+    },
+    {
+      "headline": "Snow piles higher through the night in Connecticut as winter storm rages on - ctinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2hWRWNCTFdjMGlrVUE3YjZqZkhzdzZqb2JNaWNyUjRydlJ6cklMZ3dBWTA1ODd5ZDhqbk5pUzNJaWtMVTJZMEoyUWFSVms0VmdfaTB3ZFMtVVp4VUtGTnAySTJZbGFaQzVYTWVkSG8zQ3l1MXVyaU1HMlBjLTNlSDRxR0M1Z2llWGRXZU8xdlVuWFRPS2FUU2tXWFg?oc=5",
+      "published_at": "Mon, 26 Jan 2026 03:45:00 GMT"
+    },
+    {
+      "headline": "UT, Austin ISD cancel classes Monday as icy roads remain treacherous - kut.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVJTTlhvMFRwZFpDVzNWU0gwT1JkU001TVJuWkZrcTFucXAxeDJNVDZ0d1NsM3lZUV9jdmpyaS13d29xWVRaOVpDTThxdWk5SlZZZHFzYmhtajFUd1BzcmpKeUg3TURBZ2VaNzVLaGtQaHd5RUNMa3QtX0ttSEROVHhNbVkyZGpMNEFPRG5vang1N1J5a3d3ZHRXYXptLXZ0V2RlUEN2S2lfb2xsQVJ1bTBGRDM?oc=5",
+      "published_at": "Sun, 25 Jan 2026 19:32:58 GMT"
+    },
+    {
+      "headline": "Snow accumulations across central Ohio: What totals are so far - 10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTzF6Vl9haEpuY0JZX3RMS1dTbGFCWHJMUTctdm5mSlFsVUJCUzNTaDRlRjg3eERuZF9OWVlSdHZMWEQ0d0V6UnVwUEMtUTRfSkJsd01waUJUMUFuWE5jc0xTRGFWZDE2UmIyTDlxZ01rWnhTWjFBSXN3MVRTR1NlTExycTFxeW9zOGxJNlJoX3otb094Q3M0UGJBazZBMlV1Sm5vM2x4N0VkQi1hN0lManlyQ3RhZmxGSmFuUzdR?oc=5",
+      "published_at": "Sun, 25 Jan 2026 11:55:00 GMT"
     },
     {
       "headline": "Level 2 Driving Restriction For New Castle & Kent Counties Effective 10 Am \u2013 Level 1 Remains In Sussex - news.delaware.gov",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWFDYWtsNUJld3J5aEVMYkJqQ3pmNWZOY3dLVjRKZVhOZ2NqbXJoUW56N0QyVVZ2Q1NrdXAtelFMQlRpdHh2MzNCblpOOEJpb3pwcGd6ODBOSUpTNGpoQ1YyUU9pcXhCQkRCZ3pHRXViYzE4UWZnSHhkS1Y5ZTY2N1RrRVN1MWpPSFYxeEFka2NZTEJYS0R2anJERWZRQ0lCMDBDXzB1bmtfb3dLVW1R?oc=5",
-      "published_at": "Sun, 25 Jan 2026 14:44:28 GMT"
+      "published_at": "Sun, 25 Jan 2026 14:44:58 GMT"
     },
     {
-      "headline": "School Closures | Here's which Central Texas school districts have announced they will close or delay on Monday - kvue.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYl84b21tUU90NEhfNFFPX2tvLUFHT05DS3QtUDYzUGVVczFRYjBpQ1lGUzRxUXRDZXRsNjRyTm9xU242aHRaWUZ2d3BBY1JaMm1yOHJHelBXS3BzS0ozZ0NMWGV4SU5ucExac0VBNEJDSEF5eElZMlFKYUxPWGFodWtQT255OThUbnJtSWMyQlhJZS1qalFEbmtaS0hDSUhyUm5RSGJBaU02Q1lYV0R5MFd5T1d6ZnByU2hNOHUwc0hVX1FYRWpTTG45WGpmdFB5R0dyVmVYYTFEYTVGZU9r?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:07:30 GMT"
+      "headline": "How Drake Maye improvised on the Patriots' final play to send them to Super Bowl - bostonherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1RzNFk1NU1IUUNxSHBWNzdOTVo1ZGE5clNuX2tnOHp0VXFoSGFRSVdROUloTDNpRHNJeTVSbkpMdlVVMzB6aEtLdGlUTnkxOVktdlRSVTlDMmdrRkhvWjJmOUVYZ1I4M3B3QlZYVXFNak1xbnlfYVd5LWk5ZmlMWlRBd0VrdWd6VzZsbGxKcS1FX1RvMkUtc24yYXE0NWJYSFpXZ3RqeldzTmQ2eEp3RU9OU2lFUTZ1?oc=5",
+      "published_at": "Mon, 26 Jan 2026 00:57:38 GMT"
     },
     {
-      "headline": "When should you shovel snow from your driveway? A meteorologist weighs the pros and cons - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbXlrQ0x2RnhyYlhZcHdnQjJuV0lSSkJKZmp2RFg4WFpENndxQ3pnaThTQ1pSRlZSSjlwSmlhNVZCNkltWVF0S0lXMHVnc0ZNR1RhSUR2WlotNnhESlplUW1UaHg1ZXRTTC1KUDlBQ1JobHR6WHJhN01VZk02ZTUxZ3ExMFQtcV9IMHY1UW1wcGxVNm9wMTFQYzJ0QXFvUzZpcnpEa1lQRloyTDJTY0tCcDRYRHpPNjFpMW04SzBwQUxfTkpEbk1zTWZR?oc=5",
-      "published_at": "Sun, 25 Jan 2026 17:33:27 GMT"
-    },
-    {
-      "headline": "How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUkzQ1BhMjBrcklqV0tLVFZpWGhYd3BWMVN2Z3dLcGNoMTdqS3JPOVhKVG1UcVlSVndsd2tieFNEYWRRbXlhQVVwdkdtbGFhRlRoZmlNb1hQNk1kRUVfbmpma0NuVzRaclA5S2xCYjBQQWEwOUZaS05kY0NKMXJ3VTZ2aUQzeEFYbk5BWkpmcnZ0UmhhNmVv?oc=5",
-      "published_at": "Sat, 24 Jan 2026 21:45:00 GMT"
-    },
-    {
-      "headline": "County Executive Adam Bello Declares State Of Emergency Due To Winter Storm Conditions - monroecounty.gov",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWHdlOWpXVkFYNDd3M2tIdUtlUXk1cGUxWmlvY2IzanFBdUlsMy1NWDZHZUROMG5zdGFfMFBBXy1FeFhteVFIbjg1RGp4WDUyN2ZrM3Y1S3NnOHU3?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:29:21 GMT"
-    },
-    {
-      "headline": "Bondi seeks Minnesota voter rolls, welfare data to \"help bring back law and order\" in wake of shootings - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUQtVVpFb0QxS2VWbWRwVV92dG54U1Y1aXRJUGdKV0xRLXpEYUh2cmFTWlNPVVdVMDlPUlpwV0FlcndSRjB6UjBhMUExWVlfQ1VIc3Zkd2NLMDIwSXZOX0RfVmRSNXhUZmdOcjlIcWZqN3ltYVd5TW91VkZJUjlObTE5c1pWNFozUjFKQXN6aVc0b055SVlOWFNyYUc4QdIBowFBVV95cUxPYXJSWWlsb05pY1RuSUpSNGllSFdqLW9SYnRPQlY5QXVLTkVYLVh6WGltRXQxWDE4OFF6R2RWcjl3d1lUQVdrOFVNdzV2a0h1MTJxNHNkMlRGQ0dSR05aZllzT2tRa1YxSmFLcV9CaDhoYXA5TkpYRzByZndYdzBMeXdLV2drS05aVDEwMTNhaFBYcHJPY3RZZlpWZE50ZzJSdkpZ?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:24:00 GMT"
-    },
-    {
-      "headline": "Eleanor Holmes Norton Files to End Re-election Campaign - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM20tdGlhMTBqMnVNc3FFbjA4YzBTS2Fhd1ViOGdOWU5STEFOTGtJc0E0UXZMUThjYmlOa3QwRlpQSTc5dU80TjZrNk1NTmQxVGhselhPMDNTV1J2LTFmRkI3aTBjSkRuOW5uRlItQ0VSSHZhejBrMTJOM0VrTnptd2M1MEdRSkVMdFROTVBGWG5HZXRQT2ZFZmxn?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:58:12 GMT"
-    },
-    {
-      "headline": "News Analysis: A playbook emerges to counter Trump as \u2018middle powers\u2019 unite - latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEViMjQ4SC1NcWlENmVZMHdQamZDNWpQekxlV3RXSTNhUi1oZHNxaVhIUTRYSkF0a0N2VVRQWmxXemJpRy1rTEpyX0l2dHVLaVp3S1liV2ZwUGtlWWJLYXJIMkNMWHdzVnNYWEEtbmlVa0VtVzhoY0ZhZWhsZjYxb28tVURXWF9GODVUd0szT2pWZFhUSzVn?oc=5",
-      "published_at": "Sun, 25 Jan 2026 11:00:00 GMT"
-    },
-    {
-      "headline": "Ukrainian officials call talks with U.S. and Russia \"positive\" and \"constructive\" - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBucE1FYXFVMktsRXFrYmlLV0pWUE0xdWotaXhDNXJJZUt6OVA5aDRsbkdCSVFQeVAwaW5ReEdrMEFvZFVYWGFGT0pndHR6Ym03X0JvZl9vVTRZVnE2YjFBTFpXU1puWUV3dEE5TjU4RkdGYjRi?oc=5",
-      "published_at": "Sat, 24 Jan 2026 18:56:15 GMT"
-    },
-    {
-      "headline": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNExoQWNOTGJ3ejN5MzlCM3BPbmhVWHhDblJ4V1FjMFBucW5qZ1BMMXhzWWNNcDMxZks4czRlbVNMa0lyVEFkRzRPUDdCMGxxcGM4OEJXX1ZTRUZNZVFoTEk2cEFiaWR5RUNrcFc2TGpYRUd0UzRiYVAzVk43bEHSAYQBQVVfeXFMTnNvYlYwdEg3VXdocEN1WUZXNElpWjM1Qzdtc3gwRHR5TDdBX3pDNW5zcWtvaWxKaFpQMTdQSVlmbGJzeGJyLTZnTi03RTZmVERRdDNqVXMyeHJFYy0wTW1MNXFlVDV3LXBkUXN3TXRhLVFKVjVBRmxvbzNPcGhRN3VWZDRy?oc=5",
-      "published_at": "Sun, 25 Jan 2026 19:21:53 GMT"
-    },
-    {
-      "headline": "Alabama Weather Update: Freezing Rain and Storms Forecast - ema.alabama.gov",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTB5NHZUT3NzZ1lPYWx0VDVxWmo1Q2RzTzg1VzJJRUpzWXc4VmtMYWxXcFBxejlxdUlNeG5kc19jLXJ1U3JyU01RbWRqd19CMi1uWkpTTDNDdEVLYzNwdXdzdjZHQ3lqTmREQ0NXR2UwTHNETmoyVVJSYV9oT1JCbE9NS1JfVkh5cENhRFFTRU92VkRmazUwdDRzMmUxeEh2UGRBNnc3M3hsbHl0R1NvOU9pTXg0b0FyN3pv?oc=5",
-      "published_at": "Sat, 24 Jan 2026 20:42:39 GMT"
-    },
-    {
-      "headline": "Broncos vs. Patriots halftime score: Live AFC Championship updates, highlights - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU8weWdwVWlrbUxFLXM2T0xVc1BVUVlSZnM2OC1VWUVyeEJBTEtsSmN5bGgyVElBcXYwNjBORzkyOFdOeGJHZGhyOF9Sckd6OUtWQ0ZxZ2d6aXVwX1preVhVdjF4Qk1acEl4RnlrcEx0VDJwdEF6eHAwU3FhLUI4UDllTmVpZ1BTc2xJNG5ET1p5T1YydTVqXzVXaUM1Z3lmOHBWamNzeml1dTA?oc=5",
-      "published_at": "Sun, 25 Jan 2026 21:22:30 GMT"
-    },
-    {
-      "headline": "Chris Mason: Burnham saga unlikely to be last act in drama of Starmer's leadership - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbjVYNVlBamFGNkNhb1VoQ3A3SzFMN01lRG02VmNKNXRlbzMwNFVxd3Y0ZlQwbkpTMFJUMm1WQkUwTkdnNThLZHpPOGJDeHJZMkxwaGhHSGJ1Z9IBX0FVX3lxTFBUNkZDWXF1UE1LdHN2WEhReXRFdVNBc1Z3M2dsQjEtOHo3VEd6eDhGTklCbnFCQjlGWWZXWEdIcUNIOFVoLTc2T3FkcTF5SWZNdU5lVXJ1NGtBeDN3NnFR?oc=5",
-      "published_at": "Sun, 25 Jan 2026 17:41:21 GMT"
-    },
-    {
-      "headline": "Immigrant families protest inside Texas facility housing 5-year-old boy, father detained in Minnesota - texastribune.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzNJRlhzYTRBUTZXVGJGenRENHh5VEVFSkFWVms5STM5ZnRRand5R01jTVdqMktzYTFINElYUWlncEJ3NjR5X3NDVjNsZEp1eDFVYVJSa0ZVeFNCSnpnTUl1dGdBSXJ4MlV2QmVZVU1HeVVKR0xiMWdJWkJ2SXluRW9HbGNWZlJZVEhqZDJZR1dfQzlHdHJFbw?oc=5",
-      "published_at": "Sun, 25 Jan 2026 01:13:33 GMT"
-    },
-    {
-      "headline": "Thousands of new Americans opt for 'ultimate act of inclusion' despite obstacles - NPR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmFZZlZRclFtODk0S2JKc1ZFaGJFekZZLTB4azRxV3ZVSGdyZ2pkSUlTcW90X0tUY2hnMXlhQkNGN2Roc1lnWms2MVBEdldGV0Joc25qOVY5M19ZQ2lSTzljV1dDSENrMFRCZGw5dUNBc2dyaFBWejBLaDZodmFRWk1YalloZGFhUGlBN0V4MVdmb1QxNks3ejJ2YkRmcHVwdkk5SWM3UEhFMXFHaEd2aQ?oc=5",
-      "published_at": "Sun, 25 Jan 2026 11:00:00 GMT"
-    },
-    {
-      "headline": "How Iran Crushed a Citizen Uprising With Lethal Force - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWldqSmhUMHR5RTZGSDIyQ1NUcWVjRUZsbEJLRjBDcFlDdlNoLXFBX3I4U29BTmJlRS0yR3RFS3JGeDQtc1pocmRQdVRQeThhSU9leWlXZWZkUE1HMlRrUXVPbERfM2ZfbnRLSjE1enVQY3V5QlUtWVRiNTFNRG5Vbk03QVN2U0tMLXVScg?oc=5",
-      "published_at": "Sun, 25 Jan 2026 15:30:07 GMT"
-    },
-    {
-      "headline": "Encountering ICE? Here\u2019s what to know about your legal rights - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3VRV3ZUWWRKWl8zcFRiUFJteExVOUlQZmNVRXY5bUFINFdGNFZHcDhyQlFPVG5mS2FucEJ4Z0xKTXRzYW12VjZTbVprSGJhUlhFVjRSXzNvb2dkZXFBS0dMX1oxb2c4Wkx6czJWTVNXb0lLUzMxS2UyWTZRTHk0QVFmeE9qeFIwb1dIUEVBRHkxRnU2dkZidk5EM1ZRZktYdTZXVmN0MjNYeUFrc1HSAbMBQVVfeXFMTVVyOWhZVGtDOG93aTk4UC1JWlhnT05PWkN1bHFkNGRuYWtFM0NPaElrMjB0SlJiSWhqX3lWUWVhQ0dkTDR3ZHZ2LU05eW1yd3ZZNjRIV2JpYWNjNzRRcFNDX3hCeEN5T3FhQ1MwU0NxTTVmMTl3dzd2dFN5Z3lTZEVlWE1aN0JLcEQyeGotaFNlNkdyTy1fZDQzWUwyOW1qd0JkNmNGa0ltQzZnUnpqMnBPenM?oc=5",
-      "published_at": "Sun, 25 Jan 2026 10:30:00 GMT"
-    },
-    {
-      "headline": "As we return to a pre-WW2 order, the middle powers face a challenge - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51WWNJaUNmTWNTRkc0RDZuRmlLcE5WQzVrQ2N0VllWTWExWFpHWmF1ZFJYRG5nYU9nbmozRUlFal9yejZNTHMyTUZuUlhmTlMxQ2ZTbGV3RHZlUdIBX0FVX3lxTE1PWkx6ZDRYUVlXQl9VTDYzSXQwSEFfTDBlVllYbzJJbDdjb19HeXFNX0o3WWpadnEzVDRTU1RYUzFOVFcydnFsb1UxazhnTnpfM2R3NmpGeDdWSTR2MHhV?oc=5",
-      "published_at": "Sun, 25 Jan 2026 00:25:51 GMT"
+      "headline": "Super Bowl 2026 preview, odds: Analysis of Patriots\u2019, Seahawks\u2019 chances to win it all - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXduQnIxb0ZIMFBpRk80N2VMRVNUSlk1SFNHMVlwcGJPLXpZQi01REx4M0lPSkFWWkpHT2VpalpiNVJoc0x3MUFJVUlQamdGall5dUMwSmFhTVFVWlk3REd0S3pLX19fRFBBU2RNSzNXVnV1b2kxY1JHS2pjNHVEemlFZ2k0cjZzMV9OVXlPTjc5eUFqNHozeDdTR0YtNXJWV1pIalEzLUMyUGZZ?oc=5",
+      "published_at": "Mon, 26 Jan 2026 04:03:20 GMT"
     },
     {
       "headline": "Labriola on why it was Mike McCarthy - Steelers.com",
@@ -212,34 +167,29 @@
       "published_at": "Sun, 25 Jan 2026 12:00:41 GMT"
     },
     {
+      "headline": "'Another unbelievable result' - but what's different about Man Utd now? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WLXR0emVpTlVvWEwwRk5WTmJrQTAydVEwUG5qeUdGR3JGLXhmTGJROUwwUTYweERScmJKU3VZOEZXeklQVUltdmd3YkhYaDJiOHFlaFhtOEFmVW52UzdWcVBraTZUajA?oc=5",
+      "published_at": "Sun, 25 Jan 2026 23:26:18 GMT"
+    },
+    {
+      "headline": "Dozens of Minnesota-based CEOs, including a handful of pro sports teams, sign open letter calling for 'real solutions' - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQbk1RY0djRG1ra3l6azZXSjVIcVFPOHBuanoycjNwVFVpeWxPVzk4ektRaXh3LVVmZkpXcGhDc1BQUXRMenVmaXhWZkpDdXpaR3FCNHl2YXBjX3JNQ0ZkMXUxaVJxTnBtMEpJNXRNSjhJOFc3dFVJM3N4dl9xS1RZUU9HYmw5SmdaYU5BN2NUX0FaN0FfakNpNnFXTzJMckV3YXpHU0tsMkY4bVpwbFJDN1ZDOVVDWk83ZENpdlZpQ0hPN21GWi1sWEMxTlE1aEt1azREZllkUmRIWlFWQlVLQkhIWXlCV2lMT2xTNjZUNDVya2EtU0ZpUkluYThoMEZBa1hYNGdUM3BEWFBsQjVRVGNpZHFuNVRLeElVUWZYSjdycUxrdl9CRg?oc=5",
+      "published_at": "Sun, 25 Jan 2026 22:32:08 GMT"
+    },
+    {
+      "headline": "Another day another high: Gold surges past $5,000 as investors seek shelter from global risks - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2hidFJjdUpVanpYWmRVSVotXzhPREx5YlZ3dnZ5Vkp1M0V1MG9jYnJxcnJPaXE1cXRJUUs3R0pCUmhBeGpzZTZZVS16b0dPMVFhdG1XRnVKTHRVOE9iX0RUdnI5YlE3djhNXzJrb2g2RkxIaFhKX3R5SURUZGNRSDN30gGHAUFVX3lxTFB1UFNCMVhWMGt2ck05NzZIQkh1ajVHdFl4YTBaLW1zTFR3dDR1TnhHckU3eW81bjhZNUlIeFpGSk5NcGNsZ2NWdGFQQWI5RGdFZlpwRkhYNVZnMFVYRTZJM2x4THNTLTRGQ2l5cVBFaFMtcGkzQVRqOGxaWkF2Q0ZqbE1DM3I3VQ?oc=5",
+      "published_at": "Mon, 26 Jan 2026 00:24:00 GMT"
+    },
+    {
+      "headline": "Stock futures fall as traders get set for a big week of trading: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTDFCYVBmSlVsLVVnQWlWY3A5amVlTmE1WmhCQ2FVY09qbE9WWE1rUk5paldodmxzQ3A3LVZoOUxxdXI2YzdzaG9aQnhiQ29zTG55T1ZCMHU3YmJKa0FXNk1wdTFFNnNqeDVnRlI4QzZ6TGh4al9Z?oc=5",
+      "published_at": "Mon, 26 Jan 2026 00:00:00 GMT"
+    },
+    {
       "headline": "Packers hiring ex-Cardinals HC Jonathan Gannon as defensive coordinator: Source - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEtfRk0tdUEzSVp5U3hycjlhLUpjSWh3bEtWTzM4LThiZjZlTUg2N25yRkRqWE5IQUNJUVJGcnQyQmVJZGFSUml0Y2pmV2pod0k5LXo1Z1JUbVNzbHFDeElqd3lKdGVEeG02OTc5V3g1Zlp1MlRLMExyYXB6Z3d1ZEVCcC1UcmdFQWg4NTdNZjdIMmF3X1NlVGdIRTRWOGxNQ083SWp6RkhKS2R5bURsVW5JeXpjdw?oc=5",
       "published_at": "Sun, 25 Jan 2026 16:28:18 GMT"
-    },
-    {
-      "headline": "Events canceled due to deadly Minneapolis shooting - kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHZWRnhfRk8tVEdSMDk1blJjZHB5Q2ZqSFZUbHNyU0tSNUpBWk8xenN2NjJCUWNvVlRxWUlVSGR0MzA0akFDaHVzQnJEX01ScFE5UUxTYjVzdnAteGNPWUt1dW5YZU9ZMkpyNEw4YmFFa3pHUkRvWHdnOGNhekNpLTJSaEQtYk10UlowWkNpa0s3YngyY1Y4Mkg2TnpUckFVRm5Ld3A0NENTREx4SHVLbmVPanFLZTlmSV9hbGY1R2xNQzhYbFhrVUhHWnNwT1ByQUJfeDhNXzRGdw?oc=5",
-      "published_at": "Sat, 24 Jan 2026 21:33:45 GMT"
-    },
-    {
-      "headline": "Porsche Up Front as Rolex 24 Resumes Racing for Final Run of Action - IMSA",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUxiOFVmbGtWTWRPT1pabFB1VWtoMmNod2ZQZlRSQkVRazgzU1BNektZSU43ZS1oVjI1V0tkbzVhVTJfYTEzVTZ2X2s5U3N5S2dwcXFvUUNTTTZQZV9UdENnaG9nMGxsOWJZeEVpS0JLM1lzX25rSjlrbl9FZE9IN1RCMnBRUDhUelpSbWYwYUt3Y0FNQTQwdXdoU1VSckwyWDViOVA4OXE?oc=5",
-      "published_at": "Sun, 25 Jan 2026 13:19:07 GMT"
-    },
-    {
-      "headline": "Breanna Stewart protests Minneapolis shooting with sign - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczdKaFZqdjAxU2dBZVpyOVlTWERONlk0YXhLSXg0cWxlalZQT0wtVkltQnYwaDdEcEoyRE1SSlZUN05ZclpNV1NJRDB5Sl9rb1pwQjVVLWlxRFVObVBvTlg2ZDRMUEJ6eGJaUC0zUzAxMk9qTTU3ZU00WGVRWU5ObEQ3bHBoYk1XdTBxRHVkTVFjRVhKOTRIc25peFI?oc=5",
-      "published_at": "Sun, 25 Jan 2026 20:50:00 GMT"
-    },
-    {
-      "headline": "South Carolina-Vanderbilt Game to Play as Scheduled Sunday - University of South Carolina Athletics",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV21Dd19HZ2JDRHBZY3plZ3U2RDZmcUFjdVo1S3FaMzBIM1NSYUtSOGQ3WFBFcEhDc08tRVFoWkV1bGI1NWNGbmZqd3B5LVV0QlJWODBlSjUyTUh3ME1fZmpiNzBVa3FydWdHaTRNR2xjUGtmelk5dk1RcjFQSVZWeHdoUmVnaG1QZ1M3Si13RGNtZ0IyWDJnWElBYjNXdkNMS3Zybkd3?oc=5",
-      "published_at": "Sat, 24 Jan 2026 21:01:00 GMT"
-    },
-    {
-      "headline": "Lucas: UVA Rapid Reactions - University of North Carolina Athletics",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcy1BODZHbkpiYkViN3F1eGVPa0N1ay1Fa2xReVhPTG1mdU5vTkhtb1FjdVRTR0FvUHNfeFhGRk1SS1lVLTZYczhNb1lyVDYweUVXblIwd2tIT0g1STF5Yk9MWk9HemR1Q2tSUnRnejh5ZjgtLTJmWUVQd0djMmNaNmtn?oc=5",
-      "published_at": "Sat, 24 Jan 2026 19:20:00 GMT"
     }
   ]
 }
