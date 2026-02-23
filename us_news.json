@@ -1,10 +1,15 @@
 {
-  "fetched_at": "2026-02-23T11:31:41.429803+00:00",
+  "fetched_at": "2026-02-23T12:35:21.166325+00:00",
   "stories": [
     {
-      "headline": "Northeast Blizzard Dumps More Than 11 Inches Of Snow On New York As It Continues To Intensify - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzVuUXVrdUl3VVJKSmpjeE5PcWoxaklaeE5NTWJBQUsxbW5UdFdTTTJUeXZMYXBZZzBwOUFqTDNycWl4Ujdvd0FQcGoxWk1MdmY1VnFieDFBcl9jWFgtNlBZdUxlMVhzVUl5QnRYVVhsY1RJeGE2MHZnSFI4ODVuOWVEQ0NKMTI0OHFSLTJKeDh6TjBaaWJub2ZTb1R0ZU92UjhMbHVXeTFqb0hUaWN6X25ESGRDQjdPRHBsbnAxZE1QTUx2QkltOWY0MGpNUWJG?oc=5",
-      "published_at": "Mon, 23 Feb 2026 08:20:00 GMT"
+      "headline": "Fifteen inches of snow falls in New York as major snow storm blasts US north-east - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0c0VOeVdDeHpiV184djZHeDRVbkV0Y1NNMTJiUk1lOGF3TWpyMUJRWDd0ZkFYR041djdMdG9SR1lzWXdlV20yTlZPcHAzT2pBbFlGQg?oc=5",
+      "published_at": "Mon, 23 Feb 2026 08:26:57 GMT"
+    },
+    {
+      "headline": "Suspected gunman identified after being shot dead at Mar-a-Lago \u2013 US politics live - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzAtX3BJRTlHN3g5VS04UWtDSU16ZzYxdkVBelk4LU9QblVRdHBuak1GZlRPSDRyUHg0Z0FOT29aX3JLbnpSZUZuNjFYbE9JbmZFUnN5ZDAxTHJ4aGg3M3BrQ1dMVW4yMGMxaTVtRWxlYUJfb1NlTDdkcVk2WVAzZHQwSUh6aU9zTlV1bVBNYlBwVVh6NnNwMzEyNHB5d1RvY1NCaXp3VmpvYlE5YmxzV1oyUVNXZ3RzQjg3VV9vMF9NUQ?oc=5",
+      "published_at": "Mon, 23 Feb 2026 10:03:00 GMT"
     },
     {
       "headline": "Stock futures fall amid uncertainty about Trump's new tariffs: Live updates - CNBC",
@@ -17,14 +22,14 @@
       "published_at": "Sun, 22 Feb 2026 23:42:00 GMT"
     },
     {
-      "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWGZwYmhSSzJuSzdtOHVRM29hY01YTGVCdGhZcFNjcVgzUXRCMHpGazlhaW9RZ2pJQlkyR0pWOE9Na3k1MzRUR083dVBaYi15Wml6ZDBrT0F2QQ?oc=5",
-      "published_at": "Mon, 23 Feb 2026 07:16:16 GMT"
-    },
-    {
       "headline": "Who was \u2018El Mencho,\u2019 the feared cartel leader killed in a military operation? - CNN",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnc3ME5mMmFaRjlPc0xtOGQ5UFBueWtDMEZFamNvQi04X2FLY3E1ZjU3Ry1RUnJOb0pUWmpfT01Eemt2ZkRzNmowNXlqdVo0alBzX0JGQ0tLOUpnVHZ5QzBnTTN2dXMzekRRakJzQjFmTXhhM01aN2ROWmJMeWpqSjFIaGhaOXMzWWtxZlhLUnhzQQ?oc=5",
       "published_at": "Mon, 23 Feb 2026 08:36:23 GMT"
+    },
+    {
+      "headline": "Trump\u2019s law is crushing the next generation of RFK Jr. disciples - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYl9tNWpBakNETDFGakh0Z1RtS2tIc1NRNEpqdjItV19WVklPbk81Y0gyd2NYLU1JaldnMFpaYUNoVW5EekhlcUZpN1FkQVpLRS12YUlmLXgwM0tRZ3NWdFpoUkNSYVdoV05QX0lFTEJGeHgxcG1mbk84cU5zb1VISlE5Y003N2N2NDRjaXE0RmF0aTQ?oc=5",
+      "published_at": "Mon, 23 Feb 2026 09:45:00 GMT"
     },
     {
       "headline": "'A dangerous storm': What to expect from powerful nor'easter - WCVB",
@@ -32,19 +37,9 @@
       "published_at": "Mon, 23 Feb 2026 10:37:00 GMT"
     },
     {
-      "headline": "City of Philadelphia Provides Updates on Activations and Response to Major Winter Storm - City of Philadelphia (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE5DOVI4TjVfak9kN3IybjlHRVBFdjhJblA4eVMwZ3ljTlRzc3FKeFI2TTVBaHRNRHMzUG03bm53RVdmS3hhN01vZHZoelRSZ0wxTHJVZVhKaGZBd2d1Ri1yUG5RS29CeXI5SkZlNS1mTHU2alNrQnFyUzhYdDdaVkRQVWxsLVR5b3RyNFZycWw3bjNhdE5CX0dWVHdWbW95QXJhVEVlVGRsY0Nva0RJcncxZUhaQXhtc2VsdzFB?oc=5",
-      "published_at": "Mon, 23 Feb 2026 02:15:40 GMT"
-    },
-    {
-      "headline": "Iranian foreign minister says \"we have every right to enjoy a peaceful nuclear energy, including enrichment\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNm1UYUxKUEpOaVhwb2lhZ0JGNElXcTljaEVlU3dndDBkTm1HOEVxTW1VX3VrN1FRTGJTVTdiNmNJQl9ZeU1WU3ZWQ1VaWUQ3bFBHV09QTmdreENWSnZFS3VhYjl1RUJ5Tk1DeGg0TVhaNzF3ZTllZXZLdGZOdXBhR0lEaFFQUGZqX1lJSnY1WUU5T29wSTV2OGpLU3R5aTjSAaQBQVVfeXFMTVlQTmRXTVFGZGtBZFZaNG1lU1RCamVqTEFNcFY4a2FGVFRoRTdMV0dER1A5Y1FjajJMNXNSUmhubnhoNmwxVTktR3AxeWd3Um1UMVNtZW5RMmoxUmZmUXBLYjZGb3dLSUx1a0xVNEZ6VEFZWXdhYnpqSWp3bk5TX2lvVUFYX2NLdDJ3dU92NGFqQlVnUGwxTjhFWGpqd2RkOWhCY1Q?oc=5",
-      "published_at": "Sun, 22 Feb 2026 19:20:00 GMT"
-    },
-    {
-      "headline": "Defense attorneys build mapping tool to track Justice Dept. \"weaponization\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVkzNExhYnFlOTFNXzFZX2RONng0dUZOT0Y3R3Q0RDFMX3pOTzVneDRLYVVad1AwUFRidU5DSDJUWUdZQkt5Q0FYWDI5WjZrY2liVFU1dUhVRUJ3WGlwYVdCci11TXU2d0ZxR0NNTS1Hd1ExcVcyRS10SW1fX1UwbldCMDRVb0xMWVZmNl8zanbSAZYBQVVfeXFMTWR6WVFmSmNIcW81TWNXd18tOUVPaEhtTmJSRFhRZTNZVTl1aDg0RnU0eGFsekpZc0Z1NUJkUHdqZGVfeU1ORmhPX3lZejFlc2VHRk5nV3lNVU4tSFh1NFFQaHRybmgtSW1WZFdrVDc4REw0SW1pM05tWENIT0s5aDE4OUVlMkxCSk1kTTJleFFLdVZtOEx3?oc=5",
-      "published_at": "Mon, 23 Feb 2026 01:00:04 GMT"
+      "headline": "Latest snow totals from the winter storm in the Philadelphia area, including Pa., N.J. and Del. - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSm1QTkhOVi1jZFlYQVlUZnA3QnpfUlZxdWJkX1g5alNtMXIxOVdkQUlWSGRmY0VFdExnb3VkSGhUWElaWHdmZVhDWjdLY09penBnSzBveXo2ZEhNSHB0dGl5ZV9qSzlvaGdJcjVLU0ljVEJKeDBMQ0x2RVdPRTdrYXlSZzdrMTNNZHlnbTl3bHk5LUYxUnJn0gGcAUFVX3lxTE95UkpJWW4yaEdOWEY1RU5BT1RNYXl2Nk1qVmE2bkhkWEMxeDlXcWhQWDhJZ0NDdGthbWxYWjZWN01mQmkzSnBIVngzSFBnX3FNd0ZGSFY0NUdQdkFNampWUmctLVZwWVdzT2FIYXhBQ0I4cFgyRVZpX0U0RGU3aHI0M0tnN19ZTUtYU2ViS3gtYWpNdVdvVGwwRElQNQ?oc=5",
+      "published_at": "Mon, 23 Feb 2026 03:14:00 GMT"
     },
     {
       "headline": "Level 3 Driving Ban for Kent and Sussex Counties, Level 2 Driving Restrictions for New Castle County Starting at 10 pm - State of Delaware News (.gov)",
@@ -52,9 +47,9 @@
       "published_at": "Mon, 23 Feb 2026 03:09:06 GMT"
     },
     {
-      "headline": "Following a whiplash transition from record warmth to very heavy mountain snowfall in California, yet another swing back toward anomalous warmth (first damp, then dry) - Weather West",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WEp6OHRhQWltQjVOa0g5VWhwU0xEb1ZiVEcxMGh2aTJXV3A1TE5WWW15UFlSUVVJR1VTaXBSWkx0X3Fub3B4MklaeDhrc3M?oc=5",
-      "published_at": "Sun, 22 Feb 2026 23:21:05 GMT"
+      "headline": "Iranian foreign minister says \"we have every right to enjoy a peaceful nuclear energy, including enrichment\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNm1UYUxKUEpOaVhwb2lhZ0JGNElXcTljaEVlU3dndDBkTm1HOEVxTW1VX3VrN1FRTGJTVTdiNmNJQl9ZeU1WU3ZWQ1VaWUQ3bFBHV09QTmdreENWSnZFS3VhYjl1RUJ5Tk1DeGg0TVhaNzF3ZTllZXZLdGZOdXBhR0lEaFFQUGZqX1lJSnY1WUU5T29wSTV2OGpLU3R5aTjSAaQBQVVfeXFMTVlQTmRXTVFGZGtBZFZaNG1lU1RCamVqTEFNcFY4a2FGVFRoRTdMV0dER1A5Y1FjajJMNXNSUmhubnhoNmwxVTktR3AxeWd3Um1UMVNtZW5RMmoxUmZmUXBLYjZGb3dLSUx1a0xVNEZ6VEFZWXdhYnpqSWp3bk5TX2lvVUFYX2NLdDJ3dU92NGFqQlVnUGwxTjhFWGpqd2RkOWhCY1Q?oc=5",
+      "published_at": "Sun, 22 Feb 2026 19:20:00 GMT"
     },
     {
       "headline": "Governor Lamont Orders Executive Branch State Office Buildings Closed to the Public Monday Due to Winter Storm - CT.GOV-Connecticut's Official State Website (.gov)",
@@ -62,9 +57,9 @@
       "published_at": "Sun, 22 Feb 2026 21:58:05 GMT"
     },
     {
-      "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU05Pbzk2NkVtSXI1LWFzSnNUVXJacmVocUh3b2YtZ0d5VENTLTJfd29EdFFmSl96N1pDY1B5TW5GeHkyZ0dWUVZzc2RtdVpOS0F6bU1xcGNaZnB3b25ua3hnTzR4eUhUMFd5REI3eXJGejlzWG50ajR2Y1NGeWM2Y1hn?oc=5",
-      "published_at": "Sun, 22 Feb 2026 21:50:06 GMT"
+      "headline": "Following a whiplash transition from record warmth to very heavy mountain snowfall in California, yet another swing back toward anomalous warmth (first damp, then dry) - Weather West",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WEp6OHRhQWltQjVOa0g5VWhwU0xEb1ZiVEcxMGh2aTJXV3A1TE5WWW15UFlSUVVJR1VTaXBSWkx0X3Fub3B4MklaeDhrc3M?oc=5",
+      "published_at": "Sun, 22 Feb 2026 23:21:05 GMT"
     },
     {
       "headline": "1 Week into Democrats\u2019 Shutdown, DHS Implements Emergency Measures to Conserve Resources and Manpower Impacting Travelers and FEMA Responses to Non-Disaster Areas - Homeland Security (.gov)",
@@ -72,14 +67,24 @@
       "published_at": "Sun, 22 Feb 2026 10:58:14 GMT"
     },
     {
+      "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU05Pbzk2NkVtSXI1LWFzSnNUVXJacmVocUh3b2YtZ0d5VENTLTJfd29EdFFmSl96N1pDY1B5TW5GeHkyZ0dWUVZzc2RtdVpOS0F6bU1xcGNaZnB3b25ua3hnTzR4eUhUMFd5REI3eXJGejlzWG50ajR2Y1NGeWM2Y1hn?oc=5",
+      "published_at": "Sun, 22 Feb 2026 21:50:06 GMT"
+    },
+    {
       "headline": "Trump trolled Greenland's free healthcare with Navy hospital ships. 'It\u2019s a no thank you from here' - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclFDVXJ4LUpuMTU3elhETlVxNFpKeGw2RExlX0xSYzVSanZhZWVCV1hNWWRQamU5cU9NblBXV0JLOW81MHd2YTRkdkNqT3U2OUQtRG5mb01vNTRLc2lkcnY1c3pENWRRbnE0S1loMHA1bllaeThPcFZVQldYUWN3NnVnc01zSEp1RzNLSFpSVTI3WHFfTXV3YWdrZURCV0phS3RZbm9B?oc=5",
       "published_at": "Sun, 22 Feb 2026 20:35:00 GMT"
     },
     {
-      "headline": "Powerful winter storm shuts schools, disrupts travel across US Northeast - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNE9QaEQ1QTFRREhBdkdCMlNpSDJhaTQ1aFhNUHgtdWRCQ24wV0lIYnlYektmRl9PaUpuQmxRazhxVS0zUGdScmZRRVI3N3RhS1FUa1hCSXd5OWstbUxWLVRWTnRIdU9PRG56c2xGWHFYQXlCc1dHSm9JVndGb2VxX05YRHl4VEsxbmNpeS1SQ0M4aEJZNEJyX08xcExNdjAxWVU4T0VQZ0hOc2FVUENPbmJtcHM3eVU?oc=5",
-      "published_at": "Mon, 23 Feb 2026 05:04:00 GMT"
+      "headline": "N.J. weather: Early snowfall totals hit 8 to 9 inches, with blizzard set to ramp up overnight - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3BMS1hfTHk1X2Z5RDJyX3l2eldzNkxMSWp1LXRiXzFpQ1l5WU5YLWxpZElVVGk5SENQU2RRTkhEcTBwcWdOZVFBQjZPYnc5NldENEhpbElkbG1TcllVOVc0dlRONVM0Z2NKd0tYb2lzb0pLbGpOdnlIUXVNR1pXc3hlbkZRcVB4aXY1bVQwQm9JTGR4aU5ycHd2TGhQN18tTy1WOW1CeGRkNDd1d2NwTXFGVUpTcUlMOTFxdHhSc3ZDOHFIbDJ4cdIB3AFBVV95cUxQTHNMYjh3SVhad0loamUzbW5vOXQxbHFiZ3V5dmhxRTFHeUpMSG5WU0VsNUZHTG9ZTnBzb2xKT1VaakJFbHBCQUhaLThkMU9UVThCX3haUElFelRwZk5YREZyVkQxZ2UwUGlvVlVRUjVndTQxV2FOdC1zYmRlWGhfU3NLSE1tbTd5bXBYSHJ5eHFBaHdCTDAzdXRzbElFNWVDSFVoUHhmcmdfc09OY1J3aW1lYnRkZEJCZnJpZTc4TDJxTTJOU21pdlVlb3d6eDB3cjhuQU5qRnZHb3RY?oc=5",
+      "published_at": "Mon, 23 Feb 2026 03:19:00 GMT"
+    },
+    {
+      "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWGZwYmhSSzJuSzdtOHVRM29hY01YTGVCdGhZcFNjcVgzUXRCMHpGazlhaW9RZ2pJQlkyR0pWOE9Na3k1MzRUR083dVBaYi15Wml6ZDBrT0F2QQ?oc=5",
+      "published_at": "Mon, 23 Feb 2026 07:16:16 GMT"
     },
     {
       "headline": "Live updates as blizzard brings snow to Philadelphia region, prompts travel restrictions - CBS News",
@@ -87,9 +92,9 @@
       "published_at": "Mon, 23 Feb 2026 09:12:00 GMT"
     },
     {
-      "headline": "North Korea: Kim Jong Un re-appointed as general secretary at party congress - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hdXVFajQwcWVLMm1GUXhfY19sZDlsdHk2blc1ZVFjMEZyN3poSWh1amd4TGZuM25YWVZvVXNVQi1vWnItUGxqNzFYdG1DOUlJSG8zZXVZZVRFQQ?oc=5",
-      "published_at": "Mon, 23 Feb 2026 07:15:47 GMT"
+      "headline": "Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnZDT1YzM0EyN2I5X2ljMkRnQlhVX2owQ0cyMHBRb2ZrS1dueEo3VF94OUJwY3FfdmoxU0IwMkRHLVBGMUlWMVdDTDBsRENub0RZUlVLa2dkWFI5aEV0Q0tld1RCMnNYX05feXhzWU9zRlNBRjJwSUdaMTNwOWFwTmZPUVJRS3M?oc=5",
+      "published_at": "Mon, 23 Feb 2026 10:03:28 GMT"
     },
     {
       "headline": "Gov. Healey declares state of emergency in Mass. ahead of blizzard - MassLive.com",
@@ -97,9 +102,9 @@
       "published_at": "Sun, 22 Feb 2026 18:30:00 GMT"
     },
     {
-      "headline": "U.S.-Iran talks expected Thursday to discuss nuclear proposal - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUWxHVFJLY3FYTVh0STU1ZmlnT0gyTzMwLU1KQTYtRHZzc0Y0YU56OGd0S1pnay10bmM3ZTFlaGNvZlBtcWkyM1hLZ291RGFRZU9rdTZncDhETTNpWDN3WnpwUzY3VXY0RXA1Sl9qTU04dHk3?oc=5",
-      "published_at": "Mon, 23 Feb 2026 04:27:14 GMT"
+      "headline": "US says ambassador\u2019s comments on Israel and the Middle East were taken out of context - Politico",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNclpTbElRY3NvLVIwT1NlTU01c0hMdGhXZ19fWWhfX3pWWHlMMjh5S2oyQ1VibEpmYlluU29lS0R3amtQTUZhYjF0TTV1ZzFneGRXbnJpeGdaWU5JbmVteTEzZGFHRm15QmxYdlZOUWhQb1lzNzN0RXRVTTB5WjJ2LTliN2J2dGwwYWxVN2U5Y1NEd3BNSkRtdTREUTBLa3czU3NCVFFUR0tIb21LVU5HbkpjbklLUEFxT0JOQ3ZudlhfZS01VDl2SHVjVUhyZHM?oc=5",
+      "published_at": "Mon, 23 Feb 2026 04:15:00 GMT"
     },
     {
       "headline": "France will summon Ambassador Charles Kushner over US comments on activist\u2019s death - Politico",
@@ -107,29 +112,9 @@
       "published_at": "Mon, 23 Feb 2026 03:00:00 GMT"
     },
     {
-      "headline": "US says ambassador\u2019s comments on Israel and the Middle East were taken out of context - Politico",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNclpTbElRY3NvLVIwT1NlTU01c0hMdGhXZ19fWWhfX3pWWHlMMjh5S2oyQ1VibEpmYlluU29lS0R3amtQTUZhYjF0TTV1ZzFneGRXbnJpeGdaWU5JbmVteTEzZGFHRm15QmxYdlZOUWhQb1lzNzN0RXRVTTB5WjJ2LTliN2J2dGwwYWxVN2U5Y1NEd3BNSkRtdTREUTBLa3czU3NCVFFUR0tIb21LVU5HbkpjbklLUEFxT0JOQ3ZudlhfZS01VDl2SHVjVUhyZHM?oc=5",
-      "published_at": "Mon, 23 Feb 2026 04:15:00 GMT"
-    },
-    {
-      "headline": "Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnZDT1YzM0EyN2I5X2ljMkRnQlhVX2owQ0cyMHBRb2ZrS1dueEo3VF94OUJwY3FfdmoxU0IwMkRHLVBGMUlWMVdDTDBsRENub0RZUlVLa2dkWFI5aEV0Q0tld1RCMnNYX05feXhzWU9zRlNBRjJwSUdaMTNwOWFwTmZPUVJRS3M?oc=5",
-      "published_at": "Mon, 23 Feb 2026 10:03:28 GMT"
-    },
-    {
       "headline": "Department of Homeland Security shuts down Global Entry while partial government shutdown remains in effect - PBS",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXV3YWdkVzlPNkZWdUtJOW1OMjZ0bXF1X2s1Ujh3VWp5bUdBUVh6SHR5S0NET2JhQ1FpeURZT3pfSUtGOEZPMER4TEtQUzhfWllITlJiUHJOYkhSOHFkazJxZUpWVUtxbFdwRXVUd3pCWk5Ca3VaczI0bzNrUndFUWhXalBycC1EbzhQSGtMNVZBbEE0RTZOWGRRQUxsVUNtWFpqZmNqRjdPT1lnTllMZWRraTdwSUpVd29vLWxnbnVibEJvUU54SEN2Ulo5eVZmaUZHckJfaldOMTA?oc=5",
       "published_at": "Sun, 22 Feb 2026 17:01:02 GMT"
-    },
-    {
-      "headline": "How four years of war in Ukraine have changed Russia - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0RXVkpZVnhFaVZtLTNhUUJXbktmQ180QW53YVNkMXZnRDZkZlJmTUVINHFiQmhEY0YtSEdRZmZrU29CWHhVMzN5bmVEZVg4bE5KTmJFMzQ1Z2tzNkU4U0JqNk5RTWcyZ0c0SzZtcHlKYWVpa1FsOC1Sd2UtY2lGTVlsUzJ5Z21kbldvR24xUVpuYkNB0gGaAUFVX3lxTE1zVzVQQTExekV0T0ROUV9TYVZJTGNDLUNnell4bFlNSkpkeG84dllwVWZaX3FaNktYcE9lejhHRVZkNnc2TFNsM21sZ3I1QUdFaFdMMGx3OHpYVHFlQXJMX21hYU9sX2IxbWtCV0U1Z1RWTGFuUzVKNWExNzZGMlE2Rk9BV21yY2FxWXNlaVhrXzNWWTgyV3hVMEE?oc=5",
-      "published_at": "Sun, 22 Feb 2026 12:15:42 GMT"
-    },
-    {
-      "headline": "Greenland says 'no thanks' to Trump's 'great hospital boat' - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQW56UkFUcVhLNXBRX1cwbFdkUy02Z3VSQjBSR205Wmk3Mi0yalU2cXhEdWZkRC03UzFFQXZ6bkNHeUNDYjVFR1otMnZ3bHRyaUJJZW5XdjIyRWlmV3lPQ0lkNkhPMkhHX0RfaEJtYmpUVE5KSWFJM2tLS2Eyc3ZTOS0yZUNJZk55bHh6TW5DVWLSAZABQVVfeXFMTURKUFFvTFUyb1hMOE9MWkRVbDZxaS02dU5DMGkxcklIM2YtTE50OE9sVGJGaW14OUpnNXJGUHQ5aWZPYUdQUFBsdjRtekpzb3dYNWFkV2VfZHNfYTRYWEUyblNXU0Z1Nm1DVnlUdkxVVjI1azBHc3lHc3o3UjJCZ3VRSTItSlZTQi1SZVpHZkJR?oc=5",
-      "published_at": "Sun, 22 Feb 2026 19:45:47 GMT"
     },
     {
       "headline": "Crews recover bodies of all 9 skiers killed in California avalanche - NPR",
@@ -137,19 +122,14 @@
       "published_at": "Sun, 22 Feb 2026 02:32:30 GMT"
     },
     {
+      "headline": "Team USA basks in Olympics record-shattering glory of gold - MS NOW",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vOWVfNkdZMXRLQzNfS0UycFM5TnEwSFhhTzV6WG44U3diWVo5NGlFN1BOR3JZNHdEMm8yOUdrMmY0cEp4UmtsYU8xcGVJWHgwTEp1TzdTVU1zQW9oYVlpdGx4MA?oc=5",
+      "published_at": "Sun, 22 Feb 2026 21:16:00 GMT"
+    },
+    {
       "headline": "NASA to start slow-moving process returning moon rocket to hangar this week - CBS News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV19nWnFudlJFUnZNN0RuaEZPRTNEbDFKWU1mSVcyMGZ0TXQtZWpMZ2JYbW8tbVdUdGVIaVhyZnd2dlk2VGczRDJORGhSSktORy1uUjNOQkJ1UG5SRHA0V3dmZVZyVjd3Mng2YXRqQUtVbG9TSTJzWXFGV2d4YmF6a2E4VdIBiAFBVV95cUxQdHBSbDhSVFF5T2Q0T0t0YW1mVVZNYUdKSy1pMEtnbF9XS01wT0hDS1lHVU9INC1vZWtEb2JDemE3VXpDVHBOM2s2Q0NPUmRYR1hWaDdtMXVLZFNwcGtKOTZ3QmZIaEtTQ3NOZmY3Rzk0TVR4LUVRUEZXaFBxekJXaUpVOGpSUV80?oc=5",
       "published_at": "Sun, 22 Feb 2026 20:31:12 GMT"
-    },
-    {
-      "headline": "Jack Hughes becomes U.S. hockey hero by scoring 'Golden Goal' against Canada - NHL.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnR3TTdnTjhnY1l0TmhJekJKRlNlVlJfSV96SnB6cmdzZlNQeDg3V1dtR0NDbFBJcENoNVdVSU1fMnl4eHJSa0NmSnFkYmwzMVNKcXRVT0pZZGZaRXpOTUdRaFlaYlpvYWlOdXhRb00yTDRXRHNpUEFEUWxUQ0JuQjZmTDRvYnhmR1d0ejQtYW1HR0FtMHo0?oc=5",
-      "published_at": "Sun, 22 Feb 2026 21:04:17 GMT"
-    },
-    {
-      "headline": "Milan-Cortina 2026 closes with ceremony in Verona - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bXVHTmYwMWtjRTF1cnJZVkFyNDJZdzUzS1B0MUs3MzZuck10dmdDNFBIMG9hUXVnY1pndlZZVVJWemZDSFJkWVlNR094OG5pWjcxSmFYN1A3OFE?oc=5",
-      "published_at": "Sun, 22 Feb 2026 22:08:15 GMT"
     },
     {
       "headline": "No. 3 Oklahoma State outscores No. 7 Iowa wrestling 32-11 in electric final home performance of the year - NCAA.com",
@@ -157,7 +137,22 @@
       "published_at": "Mon, 23 Feb 2026 01:42:42 GMT"
     },
     {
-      "headline": "How Team USA honored late Johnny and Matthew Gaudreau with Olympic gold medal win - The New York Times",
+      "headline": "2026 Winter Olympics Closing Ceremony: Milan-Cortina concludes in Verona - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bXVHTmYwMWtjRTF1cnJZVkFyNDJZdzUzS1B0MUs3MzZuck10dmdDNFBIMG9hUXVnY1pndlZZVVJWemZDSFJkWVlNR094OG5pWjcxSmFYN1A3OFE?oc=5",
+      "published_at": "Sun, 22 Feb 2026 22:08:15 GMT"
+    },
+    {
+      "headline": "U.S. men's hockey hadn't won Olympic gold since 1980. Then Jack Hughes changed everything. - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0tTVjF3NDAwT1pDYjYyUjZDLXFNZXdhVjBZVTRvTmtqcnY2U01sdEFfTnZLaDZKOVNVOFFwQ2FpNTJmZWg3SlpCTHdaUUlwVHFpS2ZHS0gtRnJ1VHFGaXJSOG1LbW5BX2pWVENqN1Aweld0M0Y2dUphNWczZTVfR1hVUldZZmQxRzg2SUZIMnFVSWFFMm9YSElSVlFBWlp0QzlZWWZlUEFTelpaZ1dwQmZlZUdYMGFXODM0?oc=5",
+      "published_at": "Sun, 22 Feb 2026 17:23:54 GMT"
+    },
+    {
+      "headline": "F.B.I. Director Celebrates Olympic Hockey Victory on Day of Mar-a-Lago Shooting - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGFMLWhsNDZlYnRwcTVrMEJNaW8wZkFSQ3dtM19RR1dIMG1kNzhFVEE5WnY2dVBNLVdiRWljVE81NzVvWXhFaTgyczdIWUFwWThsd21acnhhNTZWTnhmUEtOODZkNnkwSTNBVXF4WmowQm92WWNQN1FVUFQyVGdpSTBTVjVCZ2JQTk1NbEIzT2FHU2Zw?oc=5",
+      "published_at": "Mon, 23 Feb 2026 02:00:11 GMT"
+    },
+    {
+      "headline": "How Team USA honored late Johnny and Matthew Gaudreau with Olympic gold medal win - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJ6WVdlRFY1b2EwTklqenBEZTRSb0N5Ui0wU18wcWIySDM4OFJiUUNGNWU4Z3liZmZ5bnhEZzBBMzh0b0lrWnNxNnRHT3k5SVBZVzNla1pJeUhlVnZVanhiVzQ5MzY4Tkd6TWZGUlRaTUpERExXa3hXSWt1VUFqcURuRGtubzhhRFA2UXJjYlF0QlFzckVLVWpGallVckxj?oc=5",
       "published_at": "Sun, 22 Feb 2026 23:55:21 GMT"
     },
@@ -165,11 +160,6 @@
       "headline": "Baftas red carpet: Wunmi Mosaku, Paul Mescal and Teyana Taylor among stars at film awards - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMjZwMEtfTjhOWHlYcnR5LXhqbS1weWJlVTZxWXdYa1M4bzFxd3o1Vm5NUXc1TWdVUjV6dFUxQWw4VjJadkN5ajZZemxwb3YzZEk4YUROTDZIZw?oc=5",
       "published_at": "Sun, 22 Feb 2026 21:04:13 GMT"
-    },
-    {
-      "headline": "F.B.I. Director Celebrates Olympic Hockey Victory on Day of Mar-a-Lago Shooting - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGFMLWhsNDZlYnRwcTVrMEJNaW8wZkFSQ3dtM19RR1dIMG1kNzhFVEE5WnY2dVBNLVdiRWljVE81NzVvWXhFaTgyczdIWUFwWThsd21acnhhNTZWTnhmUEtOODZkNnkwSTNBVXF4WmowQm92WWNQN1FVUFQyVGdpSTBTVjVCZ2JQTk1NbEIzT2FHU2Zw?oc=5",
-      "published_at": "Mon, 23 Feb 2026 02:00:11 GMT"
     },
     {
       "headline": "Rondale Moore death: NFL Arizona Cardinals, Minnesota Vikings wide receiver found dead at 25 in New Albany, Indiana - ABC7 Los Angeles",
@@ -180,6 +170,11 @@
       "headline": "These might have been Sidney Crosby\u2019s final Olympics, and he put Canada first to the end - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczVPc243bEJjbDhmeXlYSDR1c0VRR3FJUUVkLUdvOVZsellKVGlwM0ZoVjRadFV5SlRELWhBbEVNTk1scGJNV2JucDV2ZS1KWjF6bW5Cams4Z2JaRVZKdXNVanVLMkdDWHlDN1dfeDVmbEdzdjJlZTNEbTFsZHhwZVFGWk5OZDZkaTlRQm5zalBSZlJJT2dndnVzU3Q3Ylhka243eg?oc=5",
       "published_at": "Sun, 22 Feb 2026 19:40:51 GMT"
+    },
+    {
+      "headline": "Defense attorneys build mapping tool to track Justice Dept. \"weaponization\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVkzNExhYnFlOTFNXzFZX2RONng0dUZOT0Y3R3Q0RDFMX3pOTzVneDRLYVVad1AwUFRidU5DSDJUWUdZQkt5Q0FYWDI5WjZrY2liVFU1dUhVRUJ3WGlwYVdCci11TXU2d0ZxR0NNTS1Hd1ExcVcyRS10SW1fX1UwbldCMDRVb0xMWVZmNl8zanbSAZYBQVVfeXFMTWR6WVFmSmNIcW81TWNXd18tOUVPaEhtTmJSRFhRZTNZVTl1aDg0RnU0eGFsekpZc0Z1NUJkUHdqZGVfeU1ORmhPX3lZejFlc2VHRk5nV3lNVU4tSFh1NFFQaHRybmgtSW1WZFdrVDc4REw0SW1pM05tWENIT0s5aDE4OUVlMkxCSk1kTTJleFFLdVZtOEx3?oc=5",
+      "published_at": "Mon, 23 Feb 2026 01:00:04 GMT"
     }
   ]
 }
