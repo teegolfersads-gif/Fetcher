@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-01T07:06:16.095226+00:00",
+  "fetched_at": "2026-03-01T07:49:32.058784+00:00",
   "stories": [
     {
       "headline": "US strikes on Iran lead to renewed demands for war powers legislation - Al Jazeera",
@@ -12,24 +12,24 @@
       "published_at": "Sun, 01 Mar 2026 04:15:01 GMT"
     },
     {
-      "headline": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlMzT2hZWXJCck9ibGJSMG91ZnU5NmFqdGcyejlXVV9mMDB3eWxpX0swZGd3YjZPYTE2Mm5wVGx5UXdDbjJnM1NNNTdiOEd6NFdHOG5ZaE9BWHQ2SWltVWIyQWYyVkxXajAtUFBwWEdMYVFPY19adklCQUVYeFh6aGtzYUtacmpveTEtSG1GbFFKUXlZOHUxZlZ5V0JjVWoxVGtPQjh2ZjgtU2RoT1dKaDlTQmt5RmlPc0FmNzJQTlVCYkkwQjl6LW5TUmg4ZW5YbTM0ZF93?oc=5",
-      "published_at": "Sat, 28 Feb 2026 23:52:05 GMT"
-    },
-    {
       "headline": "Outside White House, hundreds protest attack on Iran, urge end to conflict - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXBQX2pnVy1IQzNfeXN3Rm8ydzZGMU8wbkRwZnpkelJ6VzJmR2dYRGhmblc0LV91VDdRRXR3WTZHV3BhYi1yNFYxbTRkMF91eWRHSUg2R0k3OXFkMF9GM3NDOHg3RF9McFhFeldGTEVydlRwY0s3OXQ3T2dXOVhRZ2RZSFhxaWNBVGVULQ?oc=5",
       "published_at": "Sun, 01 Mar 2026 07:05:20 GMT"
     },
     {
-      "headline": "Gauging the Impact of Massive U.S.-Israeli Strikes on Iran - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPal9fMkpTelVfYnZERUNPYTNXRkZYOXVqVG1IOVhnRGdtaHRpQ08zODJRZ055Y2E3bXlBaTRQa28zTDhrSUJteTQ1NXdERXc0bmU1RFNuY2tiRzl0d1M3ME9EazdPajhVeFpFUVVJYlFNT1FtS1B0NFJ4TGVpLVc5dmJ2SThqMDBWUkk5UG5sTQ?oc=5",
-      "published_at": "Sat, 28 Feb 2026 22:56:00 GMT"
-    },
-    {
       "headline": "Iran\u2019s parliament speaker calls US, Israeli leaders \u2018filthy criminals\u2019 - AP News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFJlTzNpYnhDMDIyV1ZFWlljT3pXcUpBckhpSlhVdVdfanNPZEVyQXdxSEhfR0xPNWc2bVZaU3FpTGs4NHR0QWNDSTI5VFhndk1MSDVGdnREa09hWFlwSENXVndpTUhYYWFfWGZEY3ZPLTJBcGZmbWpsbHJESXpwMzBJN3MyeDhybVhNYmNR?oc=5",
       "published_at": "Sun, 01 Mar 2026 05:24:00 GMT"
+    },
+    {
+      "headline": "Dozens dead in Iran school blast blamed on US and Israel strikes - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rcm00Ui1BMWtLelBpendZZ1NjMmpvYnROWHlrSzhRRkNUbXAzQXhPWjJUWXlpSlRXWGtDQmRTak1SYTZza1ZRU2k5NGlBUGN4SEFNcC1zUXFRZw?oc=5",
+      "published_at": "Sun, 01 Mar 2026 02:34:04 GMT"
+    },
+    {
+      "headline": "U.S. Strikes in Middle East Use Anthropic, Hours After Trump Ban - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlMzT2hZWXJCck9ibGJSMG91ZnU5NmFqdGcyejlXVV9mMDB3eWxpX0swZGd3YjZPYTE2Mm5wVGx5UXdDbjJnM1NNNTdiOEd6NFdHOG5ZaE9BWHQ2SWltVWIyQWYyVkxXajAtUFBwWEdMYVFPY19adklCQUVYeFh6aGtzYUtacmpveTEtSG1GbFFKUXlZOHUxZlZ5V0JjVWoxVGtPQjh2ZjgtU2RoT1dKaDlTQmt5RmlPc0FmNzJQTlVCYkkwQjl6LW5TUmg4ZW5YbTM0ZF93?oc=5",
+      "published_at": "Sat, 28 Feb 2026 23:52:05 GMT"
     },
     {
       "headline": "Body of notorious cartel boss \"El Mencho\" returned to family by Mexican authorities - CBS News",
@@ -47,19 +47,14 @@
       "published_at": "Sat, 28 Feb 2026 23:42:00 GMT"
     },
     {
+      "headline": "FBI Raises Terrorism Alert Over Fears of Retaliation by Iran - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ28yZUZ3NmNiUlV5MEFLTVJqODhFMkJESlotLWllc0h5cmZhZ2hEaWZVWmhPcXpFLTl4S3loUFBlT2dhVjcySVpvQ0ZqTFpkTmVHMEJpalFkbktZNVhicS05aVpVRHN2S0RWUEpMblRldG9FWjl0QmJWZHJ1bF9aNzRJejNteUpfWkRnS0JjclotN1NTTEtEY2h4dGtPRkFRc0dZVEJtRV9RN19md1Y5RQ?oc=5",
+      "published_at": "Sat, 28 Feb 2026 18:48:44 GMT"
+    },
+    {
       "headline": "Church Statement on the Evolving Situation in Iran - newsroom.churchofjesuschrist.org",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWNxbzFyZ3Yyd0RlMnBSVnBtdzFrTzdFOFF4bk1DUXdjMzNOa3F6R1dJTGU4Xzg2anV6VzRwT2lva0dReHZvdzNmNmpRelBxUHpfcy1heW1ZRUtRS05XaExQV2p6VVJxX2VXNEJqMWlLRnVROXRTeWxKd0FqVF9EemNLRHNnOGYtZEE?oc=5",
       "published_at": "Sat, 28 Feb 2026 22:47:49 GMT"
-    },
-    {
-      "headline": "Trump says he\u2019s \u2018never heard\u2019 of draft national emergency order over elections - Straight Arrow News - SAN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFJvV1pfVUZIZnMxUHZIWldQd2lCT0Y1RVd6R3BtX3lNZGRVUmhNSkNITVpscWxFZ0cxc0dvM3kwY19WYnVvZW1EelJVZE5LQjdtUHBjZ2hSMEQ3QnVOUlZLTy1tdzg3NVRIejlVQUdPYTQwWUF5VXJyUGt5empQNjRMVmdsakRNUVhhQkMxVjJSOE5JQTBoZkNqQQ?oc=5",
-      "published_at": "Sat, 28 Feb 2026 19:00:00 GMT"
-    },
-    {
-      "headline": "Superintendent of Los Angeles schools placed on paid leave amid federal investigation - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUx3dF83dUR2U1JobjZaSXgzNUZqNlJrWDBWVEdOd1V3TEN6YWt3R21jWWZSZ2JJVG9mMkRzeHpwYXk2WEo1ZlJycUhuTEZVaC1ubEdGdGd3emIydnZxX29NZ3lBX2k3emJJZk5LRzJGZjVvMzQxYUkxb3c0Tk9jYm4weGdiLWkwRkp5eVBRZDFsdXpUQ1RacnJWRmxZMFdsQzRyVFBfWkRmYnJjZUl2ejl1NFM0YjJLWHFiVV93?oc=5",
-      "published_at": "Sat, 28 Feb 2026 01:06:24 GMT"
     },
     {
       "headline": "Bill Clinton says he 'did nothing wrong' with Epstein as he faced grilling over their relationship - NPR",
@@ -67,14 +62,24 @@
       "published_at": "Sat, 28 Feb 2026 05:49:58 GMT"
     },
     {
+      "headline": "Superintendent of Los Angeles schools placed on paid leave amid federal investigation - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUx3dF83dUR2U1JobjZaSXgzNUZqNlJrWDBWVEdOd1V3TEN6YWt3R21jWWZSZ2JJVG9mMkRzeHpwYXk2WEo1ZlJycUhuTEZVaC1ubEdGdGd3emIydnZxX29NZ3lBX2k3emJJZk5LRzJGZjVvMzQxYUkxb3c0Tk9jYm4weGdiLWkwRkp5eVBRZDFsdXpUQ1RacnJWRmxZMFdsQzRyVFBfWkRmYnJjZUl2ejl1NFM0YjJLWHFiVV93?oc=5",
+      "published_at": "Sat, 28 Feb 2026 01:06:24 GMT"
+    },
+    {
+      "headline": "Trump says he\u2019s \u2018never heard\u2019 of draft national emergency order over elections - Straight Arrow News - SAN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFJvV1pfVUZIZnMxUHZIWldQd2lCT0Y1RVd6R3BtX3lNZGRVUmhNSkNITVpscWxFZ0cxc0dvM3kwY19WYnVvZW1EelJVZE5LQjdtUHBjZ2hSMEQ3QnVOUlZLTy1tdzg3NVRIejlVQUdPYTQwWUF5VXJyUGt5empQNjRMVmdsakRNUVhhQkMxVjJSOE5JQTBoZkNqQQ?oc=5",
+      "published_at": "Sat, 28 Feb 2026 19:00:00 GMT"
+    },
+    {
       "headline": "What to Know About Americans Leaving the U.S. in Record Numbers - WSJ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMEZSTGY0Z0VFbVBjZWZLbzljR0dGbHNLdnlvSmtVeTdrcGRhRXdBRUlrUzkwNGgydVo0Uk1KRUlYclpXOUpMdXdqdjdhS3BDbVE2cnhOVUJ3TGp5Vlo1UXBOZDJIVG5QaDlTNzEzRFhYZEJMdXNDUTdaOUwzWWc?oc=5",
       "published_at": "Sat, 28 Feb 2026 15:00:00 GMT"
     },
     {
-      "headline": "Jack White Reacts to Trump\u2019s Iran Attack: \u2018Behold the Leader of the \u2018Board of Peace\u201d - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVpla3VUYlpWTG03QldUV0NnN3RUMC1QY2l2YV83bUtTdmp6ZmppRDV3X2NXOW5lcGpIQXBNRkx3RzI2V1g5Z1ZBX3VmVHNnZXFxcHlJdFhpUUtMZ2ZxLUNwa1d0RU1QT3F0Ungzc1p1NHBYNFpEY3NxQ2ZvV0Vfa2RPSUFibldrSEVWby1HaGZ2eFZzUjhfb2VsWEJOZldocWxhLXAyQWtDZXR3?oc=5",
-      "published_at": "Sat, 28 Feb 2026 18:03:08 GMT"
+      "headline": "Oman's Foreign Minister Said US-Iran Deal Was 'Within Our Reach.' Then Trump Started Bombing - Common Dreams",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sQ3Y5bE9ITS0ydWM4cDlvWnVfMnRXUURuNmNtN3ZJR052bzBjMk0tUmgzb3ItSW5XQ0RpV1BsUVkwYW0yYU5fQ1JMdTV2V0pqYUJEX3oyMlVwV2gyb1BpTVhqY3JaRXRNSGZnX0hic0d0c1E?oc=5",
+      "published_at": "Sat, 28 Feb 2026 12:10:14 GMT"
     },
     {
       "headline": "Family of Nurul Shah Alam speaks publicly for first time since death - Investigative Post",
@@ -87,19 +92,9 @@
       "published_at": "Sat, 28 Feb 2026 19:04:05 GMT"
     },
     {
-      "headline": "Oman's Foreign Minister Said US-Iran Deal Was 'Within Our Reach.' Then Trump Started Bombing - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sQ3Y5bE9ITS0ydWM4cDlvWnVfMnRXUURuNmNtN3ZJR052bzBjMk0tUmgzb3ItSW5XQ0RpV1BsUVkwYW0yYU5fQ1JMdTV2V0pqYUJEX3oyMlVwV2gyb1BpTVhqY3JaRXRNSGZnX0hic0d0c1E?oc=5",
-      "published_at": "Sat, 28 Feb 2026 12:10:14 GMT"
-    },
-    {
       "headline": "Texas Democrats prepare to decide party\u2019s future after divisive, epic Senate primary - The Texas Tribune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGRNNTlwaDRGOWttcDlNU2NYR2dLTWtqNjY3RldtWkdpdzZhVVFiR1FWbV9hUUNqUTlfU0xMUV9ycGJVZ1JsVmRVZ2EyVGtCLVdyVVB5bjFjSmlPZnh3UmtpOURVQVNsNm04aERJZ0VqZUlkTGdrM2FQUlgxYlpQemtOc2lYZFRGN1dTUEtZVVFDT3h3b3hPMVZ3UWNNOXpfU2VzenJXMA?oc=5",
       "published_at": "Sat, 28 Feb 2026 19:38:47 GMT"
-    },
-    {
-      "headline": "President Trump launched strikes without Congress's approval. Lawmakers are responding - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjNoMDI5aDYzZGY2Z2NCMjdUamFiVV9odEVReFZPYXFsai1VTW1qakF3WFhTR0dZMTctRm40MjJldGhJYWFhZ0tCRU0zY3hzOGVlaFRBQ0t5WkhBUWlCcDBYWnZBOFNiSG5OcUMzYW5qY01lMHdRWUtjQVdLa2VYd0lwWHppVWJxSTRIdTJ4c0RGQ2lXS0tXWFh4aWlVUVNkM3k5TnVNd19qYk9OYkVjdWJ1Qi1ZbXVVcTlGTXNJLVpOWWR6SWZBRA?oc=5",
-      "published_at": "Sat, 28 Feb 2026 12:56:10 GMT"
     },
     {
       "headline": "Whataburger Just Had A Week For The Ages - OutKick",
@@ -107,24 +102,9 @@
       "published_at": "Sat, 28 Feb 2026 18:50:36 GMT"
     },
     {
-      "headline": "Iran gives Democrats a new opening on energy prices - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTN1Sm5DZlp2OGhSakU1WHQxS2phbVNlSlNIQThzZTRHTU9SdTdZM0VFbVM2akNkT09QUTI3ZWM5UFFyZ1RVSVpJR2J4WUFXVWcydWltV1JQUUIyYWRKbHlpcW9XanZMX0hjR0poQlRRZE04Q3dpOUlkSjBnQ3IxS3dzZ25OWXVDLWNuUk51Q2ZOZw?oc=5",
-      "published_at": "Sat, 28 Feb 2026 23:49:03 GMT"
-    },
-    {
       "headline": "Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWZBZzRacTZERFNHMUN5ZlhoOXhQOGNqS3ZxQUhlSjYwRzNwdmk2RTVrT1ZYcFB2eHF2NmhqZjlLS3JubkM1YktwRnBtb3JNNDZYRWdnYUhzTW9heDB5NW43Yi1obGRBMEppNW0tWWUwellVUHB0bnBRbHAxb0taR28tQzFZeWhQeFE1S2Z0UFdnZzg?oc=5",
       "published_at": "Sat, 28 Feb 2026 03:28:00 GMT"
-    },
-    {
-      "headline": "Iran is on 'death ground' amid existential threat from US attacks and could 'go big' in retaliation - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR29iLUp1TTV2LWJuWHIxY3ZkUEFhckxrOHJ1bnNLU3V6d09ldHFtTXlLODcxd1VIRDRuMDM2NDNnbVZhZ3VTaFVycnAzVEhwTzM2cHZEXzlkc004RlFxVWlWT193Zjg3dmhycGVhZms4TjY0ZjI1YU5mRnRpdzBUVVdBNktnUzY1Y1ExcjZmbVBRNmRyNWVYRlBsN25FOHZHWkUyRjZKRFNlTnVPek5CaXZ4NHNNYXE2cm0ybXNxdTlGc1pFOXV4aE4yZw?oc=5",
-      "published_at": "Sat, 28 Feb 2026 17:17:00 GMT"
-    },
-    {
-      "headline": "Dozens dead in Iran school blast blamed on US and Israel strikes - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rcm00Ui1BMWtLelBpendZZ1NjMmpvYnROWHlrSzhRRkNUbXAzQXhPWjJUWXlpSlRXWGtDQmRTak1SYTZza1ZRU2k5NGlBUGN4SEFNcC1zUXFRZw?oc=5",
-      "published_at": "Sun, 01 Mar 2026 02:34:04 GMT"
     },
     {
       "headline": "Fact-Checking Trump\u2019s Justifications for Attacking Iran - The New York Times",
@@ -132,9 +112,24 @@
       "published_at": "Sat, 28 Feb 2026 19:34:37 GMT"
     },
     {
-      "headline": "CBS News poll on Americans' views on Iran prior to conflict - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjBVUVBlaFIzTkEwYjRiZl90TXlwQkR2RnVYdGxMTUNCcy1udjhzX0UxNmZrcVJBODZ6UHZyRHM4V0hvNjhyRjlZZmprZE01UGV3X0k4eHc5UUpoREp6SmgyZlhhancxeTRIQ1pVT05XTjM5T194bFN3cmhBOGhkeVoxVm9YRUZ2RmxyTlBB0gGTAUFVX3lxTE5xWUxxaHBra2IyX2xYbUVCLW9mMElXcGs5VkJjTGx6XzF5ckt3MENvU2NMdjJLckVGTnpWWXdXcDY1Um9kQTJqZkhEVlAySHVTRFFKV0dpeHhOejBpS254dVNBZ2ZQN0EweGZ3TUFvMVRTZ3VoSl9ZclFfellvc1h0NHYwNHJHdE9YNG4zSUxtVWRybw?oc=5",
-      "published_at": "Sat, 28 Feb 2026 16:44:14 GMT"
+      "headline": "Iran gives Democrats a new opening on energy prices - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTN1Sm5DZlp2OGhSakU1WHQxS2phbVNlSlNIQThzZTRHTU9SdTdZM0VFbVM2akNkT09QUTI3ZWM5UFFyZ1RVSVpJR2J4WUFXVWcydWltV1JQUUIyYWRKbHlpcW9XanZMX0hjR0poQlRRZE04Q3dpOUlkSjBnQ3IxS3dzZ25OWXVDLWNuUk51Q2ZOZw?oc=5",
+      "published_at": "Sat, 28 Feb 2026 23:49:03 GMT"
+    },
+    {
+      "headline": "Jack White Reacts to Trump\u2019s Iran Attack: \u2018Behold the Leader of the \u2018Board of Peace\u201d - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVpla3VUYlpWTG03QldUV0NnN3RUMC1QY2l2YV83bUtTdmp6ZmppRDV3X2NXOW5lcGpIQXBNRkx3RzI2V1g5Z1ZBX3VmVHNnZXFxcHlJdFhpUUtMZ2ZxLUNwa1d0RU1QT3F0Ungzc1p1NHBYNFpEY3NxQ2ZvV0Vfa2RPSUFibldrSEVWby1HaGZ2eFZzUjhfb2VsWEJOZldocWxhLXAyQWtDZXR3?oc=5",
+      "published_at": "Sat, 28 Feb 2026 18:03:08 GMT"
+    },
+    {
+      "headline": "Iran is on 'death ground' amid existential threat from US attacks and could 'go big' in retaliation - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR29iLUp1TTV2LWJuWHIxY3ZkUEFhckxrOHJ1bnNLU3V6d09ldHFtTXlLODcxd1VIRDRuMDM2NDNnbVZhZ3VTaFVycnAzVEhwTzM2cHZEXzlkc004RlFxVWlWT193Zjg3dmhycGVhZms4TjY0ZjI1YU5mRnRpdzBUVVdBNktnUzY1Y1ExcjZmbVBRNmRyNWVYRlBsN25FOHZHWkUyRjZKRFNlTnVPek5CaXZ4NHNNYXE2cm0ybXNxdTlGc1pFOXV4aE4yZw?oc=5",
+      "published_at": "Sat, 28 Feb 2026 17:17:00 GMT"
+    },
+    {
+      "headline": "President Trump launched strikes without Congress's approval. Lawmakers are responding - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjNoMDI5aDYzZGY2Z2NCMjdUamFiVV9odEVReFZPYXFsai1VTW1qakF3WFhTR0dZMTctRm40MjJldGhJYWFhZ0tCRU0zY3hzOGVlaFRBQ0t5WkhBUWlCcDBYWnZBOFNiSG5OcUMzYW5qY01lMHdRWUtjQVdLa2VYd0lwWHppVWJxSTRIdTJ4c0RGQ2lXS0tXWFh4aWlVUVNkM3k5TnVNd19qYk9OYkVjdWJ1Qi1ZbXVVcTlGTXNJLVpOWWR6SWZBRA?oc=5",
+      "published_at": "Sat, 28 Feb 2026 12:56:10 GMT"
     },
     {
       "headline": "Israel and the U.S. launch strikes against Iran - NPR",
@@ -142,14 +137,29 @@
       "published_at": "Sat, 28 Feb 2026 07:16:26 GMT"
     },
     {
-      "headline": "Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israel attack - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRHVheEFBVUpmNUpoZkw3RWJxNVFNRl9rc2FmVWtMd1FRNEJTSFJLNUxuRjVVZkcyTWs0VVZpYnE3d1pqaGpNTDlRTTRldlFQOS00Sg?oc=5",
-      "published_at": "Sun, 01 Mar 2026 06:58:27 GMT"
+      "headline": "Only 21% of Americans Support the United States Initiating an Attack on Iran - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2NFblJPVkhMVUVFeV9YQ0gyRUJ0VjBhVUVyS3Bvd2lmWXkzMjJuTnF5ekhVV1MxU20yZktoaHhaU0lBWmFYT1V0OGdnNlRzdnBXa1ZLUnJQeGp2amFMdlN1bEh4d3J1U01PR0VNNWZtRjhjTEZjdU5pcGRNbDV5VWlfdjYtbTRVZXRBT1d3aw?oc=5",
+      "published_at": "Sat, 28 Feb 2026 20:08:59 GMT"
     },
     {
-      "headline": "Oil Shipments in Persian Gulf Already Disrupted by Iran Attack - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSl9pZ2J3NGRCSnBFZ2RQS0JpX3JKVGJIemhqU0JxaE9GNFlnNjM4QVdnMmQ0d3E4TGNnc2VSdVg3RXlKdTRRX2hrY0xrUS1tQUk2VTZad1lPLTFaQi1YY3hGamZDWnNqS191VThaaklqOWU3ZTdBWjNjV2ZNb0h4WmR1MWJQbXBibFFDWF9EMEc?oc=5",
-      "published_at": "Sat, 28 Feb 2026 23:21:34 GMT"
+      "headline": "Gauging the Impact of Massive U.S.-Israeli Strikes on Iran - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPal9fMkpTelVfYnZERUNPYTNXRkZYOXVqVG1IOVhnRGdtaHRpQ08zODJRZ055Y2E3bXlBaTRQa28zTDhrSUJteTQ1NXdERXc0bmU1RFNuY2tiRzl0d1M3ME9EazdPajhVeFpFUVVJYlFNT1FtS1B0NFJ4TGVpLVc5dmJ2SThqMDBWUkk5UG5sTQ?oc=5",
+      "published_at": "Sat, 28 Feb 2026 22:56:00 GMT"
+    },
+    {
+      "headline": "Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israel attack - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BRHVheEFBVUpmNUpoZkw3RWJxNVFNRl9rc2FmVWtMd1FRNEJTSFJLNUxuRjVVZkcyTWs0VVZpYnE3d1pqaGpNTDlRTTRldlFQOS00Sg?oc=5",
+      "published_at": "Sun, 01 Mar 2026 07:32:28 GMT"
+    },
+    {
+      "headline": "Trump Decision to Strike Iran Opens Fissures in Midterms - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFM0V3ZFWURrR0NmTDVWTlpfb2hvSnEya1ZGTlNNQzhKeWkzWGRYX1VIYy1YY2NRSVNMN1UyeFZOTjV3SEQzN3RFcnJRaGxzUWlKd1pwOVR6LXFBTFRUTVhYQXZrM0FJMU5Bd1pTNTVVTnMzYURDZ3E1T0RzX194ZjhTd3g?oc=5",
+      "published_at": "Sat, 28 Feb 2026 23:45:14 GMT"
+    },
+    {
+      "headline": "Iran war throws oil market into biggest crisis in decades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpqZ2x2Rk14ajFvNVQxZmNGZTc3RDVOSXJfZzNITXdUcFlJVkpjTDZ6N3huWEkxYWN3TFR5NGJKY0EwcC1lb2t1Q2lNcXhtUkdZV19zV3ZkOGZFSnJnQzJVb1dLbWZXWDZ3ZXQwUG9ldDk3cktMMlBTSVpXd19ZOUZIMnVQWE9JMXRPSlhtbEhWd05QNWswUTNWMVpKUWlwb2FuQjUwakRaZ0ZmSGdr?oc=5",
+      "published_at": "Sat, 28 Feb 2026 16:08:46 GMT"
     },
     {
       "headline": "Protesters rally across US after strikes on Iran that killed Khamenei - The Guardian",
@@ -165,21 +175,6 @@
       "headline": "Our agreement with the Department of War - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVGk3d3RxZjEtQlVVUl9FTUVjQThEQWdIMFJwOTFZNDNORHo5b24yRVJXZloxN2VfMnNPODAtVEJDUkhEWW5YQUZwdzlfZ2kza05UMjlQWm5TOEVXX2xST1JzaXVTOTQ1c051UDFWVDg4ZFlZ?oc=5",
       "published_at": "Sat, 28 Feb 2026 20:36:09 GMT"
-    },
-    {
-      "headline": "Flights cancelled as travel warnings issued after strikes on Iran - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVRKS0lsUGpKTTdQeHFIT3d4N1BpbnhXLTZONUY4Nlh2Wm9ib2JLR2NvakJaOVVqeTlRc3NMcGE4eV9RZy1qd0tWc1RTSTJyMndLdWdqT2lfZw?oc=5",
-      "published_at": "Sun, 01 Mar 2026 05:38:38 GMT"
-    },
-    {
-      "headline": "Strike on Iranian primary school kills 148, authorities say - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMzJvcy1mRWlWb2FOX19FNXg3UmNobzhJRTA5d254azBJUDBtdDRuT3pEU012NXU1ck52OTNpZFZDQ0QwZzJoSG5USTNLcndwMUhuSkpyaUdsY0p5OTljenJFVG1JSkNNX28ta2FIang?oc=5",
-      "published_at": "Sat, 28 Feb 2026 18:22:26 GMT"
-    },
-    {
-      "headline": "Only 21% of Americans Support the United States Initiating an Attack on Iran - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2NFblJPVkhMVUVFeV9YQ0gyRUJ0VjBhVUVyS3Bvd2lmWXkzMjJuTnF5ekhVV1MxU20yZktoaHhaU0lBWmFYT1V0OGdnNlRzdnBXa1ZLUnJQeGp2amFMdlN1bEh4d3J1U01PR0VNNWZtRjhjTEZjdU5pcGRNbDV5VWlfdjYtbTRVZXRBT1d3aw?oc=5",
-      "published_at": "Sat, 28 Feb 2026 20:08:59 GMT"
     },
     {
       "headline": "2026 NFL combine stock up/stock down, Day 3: Taylen Green among 10 players on the move - NFL.com",
