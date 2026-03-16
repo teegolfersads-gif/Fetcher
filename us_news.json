@@ -1,35 +1,15 @@
 {
-  "fetched_at": "2026-03-16T12:41:59.927137+00:00",
+  "fetched_at": "2026-03-16T14:12:34.114160+00:00",
   "stories": [
+    {
+      "headline": "\u2018We\u2019re going to have a problem\u2019: Republicans want Trump to move on from 2020 - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVhsQVNlaTdfU3hGaWl3dVVCNG9zX01hdGJJUWpmcWQtMDRTRURHOXJQeGVtSE4wQ05pSWpyVXBEUXJUQUNkYkpIanBlWWJxWlU0NHUtZE8tVnFhQ1ZjR2RvX0MwVF9pSEZjMWhURDJRcEw0OElNUDZvbHpveUxDckpiRnpuWFFCTUMyZ3ItZWMwa2hn?oc=5",
+      "published_at": "Mon, 16 Mar 2026 09:40:00 GMT"
+    },
     {
       "headline": "CWG Live: Severe storm threat today with possible tornadoes, then sharply colder - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUpveFRGRlZGYXo1YU5xMTVxYkxXbjRHZUsyNm91RUNmTG1ZWHBzNlNXR0F5ZTFYc3JGc3MtRC1CSlVkQ3lIT1R0aFFXazNFaThSV09NTHZQY3pnNWt2eWdhWGxOYkhDLXRrSGIzdTlvN0p5YWJfQWxqZkxKVnRFTGtlMDVsemhiWEM5SlZBaGdJcUE4V3k0VW9tSkxmRmM?oc=5",
-      "published_at": "Mon, 16 Mar 2026 12:06:39 GMT"
-    },
-    {
-      "headline": "Trump suggests he may delay China trip, but Bessent says it's not to pressure on Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHZaVUFreTQ0cVg0WFNYUDZNRkZ5Ym9QSU92bWxCTk45QVhSZEZvNERaNEF5LVFSUmM4VnBQRWhqZ2xlRHVuaTNZVndsQ1lGUkRBUWhHVk9jOHpxdkhhZExVNnNvOG81U1dWeDZidFBVcjFYcDNWck1HZkFfbW04Z0hjYkFpS19ob0l1alFUU1U0RFBh?oc=5",
-      "published_at": "Mon, 16 Mar 2026 12:04:00 GMT"
-    },
-    {
-      "headline": "Washington woman among six US service members killed in Iraq aircraft crash - KIRO 7 News Seattle",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkpZMHRXQkVMUTlKQ0ZzMkFtNXk1OEhqWnUxbUJZYjBDajRtTndhV1JLQk96dnJrcFlucERDNlhYZHNZZVNkYm5pcFMyNkZOaFBqSjd4STBJVnJWMWM1ODJnZnM0djF0MHpTY1oydDU5RU9NelBWbExtMC1haHR3T0l1ZEpqTGpBOWY4X0xRZ2F1YlhhbDMyOVhoWnZubElkUWF2M281bVp0eEVQMDVHZi1KSHZ6NFBBQ3ZQa1Q2dzNxTVhw0gHYAUFVX3lxTE5TZjNlQlJpdk1wV3F0cEVHcVAyRzFfSWJ6bC1vLUlQSUh1VlVfakNFalNkNE5vYWVIQS1VUFBnYzQ3S2RaLVhmTERxX3VUandldGQ5YTkycGZDUWEwMjFMd29RNm1YZ2RxM0c2VDJSMXhlTDFndWM3c3dGYm5DdWVuUXdZRmdFQ3pvTGFDd2lxUENzUFBwMHBlYXpNTy1yazFHZldPRE1ydlFQMXh5a1JSMUMyenpoeG5GY3NWa1UwcjNHSWVaU1pGRjJrX2M2a2drOXRzaV9XNA?oc=5",
-      "published_at": "Mon, 16 Mar 2026 11:08:27 GMT"
-    },
-    {
-      "headline": "CEOs of America's biggest airlines say $0 TSA paychecks during the government shutdown are 'simply unacceptable' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVNGZC1FZGdoQ3JQZ2h5Y2pBV0swa0hMVTREM25ET1J1WmFGZkUzX0h6bTFjMkN3RHpVNGJ2NzdVNDVfcEVhS1BQX01pd0ItS1JqdjJNNjBKQ2JjTEdVTGwteHozNG0xYVJudHdkOFNnUjFUaG9tWGN1TDVueWJBOTk1X2ZRTWtGdi00cGo4MEN0WlR5MmRNcTlIY3I?oc=5",
-      "published_at": "Mon, 16 Mar 2026 05:03:00 GMT"
-    },
-    {
-      "headline": "This week at Democracy Docket: MAGA melts down over SAVE \u2014 and DOJ struggles with the email address field - Democracy Docket",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RKR1c4OFZCNUxHa3ktUVItNDBWYUIwVFJGOWdwcnR3blYxTVFFanAtV05BNHhwYjFUTHUyV0x4YnFVZUJtVnhfZk5BR3pZYWs1ZE5kNU9ZRmNwMzdDWm1McHBYS0JGVlh5OWJMdDNRbjB0SFhmaUZ6cUFUSW44NmNsYnMzTmxaZmlTbnVkRjQzMlFIUGg2QTFXY0lQcXNqZktlRU5IQjRld0txU0d5Um5ubG5WMjZxdjZKRWhEbkRnaURaY1BMTmx5YWZVX1dFTU1iU1JMdWtTd01zR3lUXw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 10:02:56 GMT"
-    },
-    {
-      "headline": "Hawaii faces flash flooding, blizzard conditions and landslides with more rain to come - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zZDg5UVRyY3BnbVJnZUpORG15T3RqSTZ3NDlVTnpoQ0sxNllsOHFCcXRIWG9Cc2dmcGxIeDJ1bEs4X0l0RDVsc1pxbFNtNklEd0dGTUxQMm01Yjl5SlZmTTRuRkl4RGxoX2ZTQkxpZEFLOE5WdVhuX2pB?oc=5",
-      "published_at": "Mon, 16 Mar 2026 00:13:00 GMT"
+      "published_at": "Mon, 16 Mar 2026 14:06:02 GMT"
     },
     {
       "headline": "Afghan father, former U.S. military ally, dies in ICE custody in North Texas - CBS News",
@@ -37,9 +17,54 @@
       "published_at": "Mon, 16 Mar 2026 00:35:00 GMT"
     },
     {
-      "headline": "Trump\u2019s Effort to Target Rivals Stall as Judges Cut Short Basic Investigative Steps - The New York Times",
+      "headline": "\u2018Triple-threat megastorm\u2019 to scatter snow, high winds and thunder across US - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZvZnV0bll2bFFNQjJlNnhRUk5fMENEWjlZX1BpVXo3VGNSVGh1Um5pZUhpS2QwbFpDSXQ3T3RyVElKajczdUVaR1VDVUQ1bmhrdUp0VlduMmltSGtSZE9KTkZ6RmVyN2ZXcTdHcW9IVmRCRzJ6TmxVSWVObF9GUzVTX2dYSzBsNkVJLTl1WEtuZw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 23:13:00 GMT"
+    },
+    {
+      "headline": "More airport disruptions expected as TSA agents quit amid first weekend without full pay - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPY2NCd2lZUHhpaEdGSThDU2JMRkhTNm44RFFDX0piSGZhY1lJSEJJbmZWSHR5a3BWMkxqU0VFNG9GVklCVGJXZHFWWXJzazNtUkxvUk9Wb2FLbXVQUXkyM2loUW54UnhfUHJNakNQMjFUZWlkM0hv?oc=5",
+      "published_at": "Mon, 16 Mar 2026 08:00:33 GMT"
+    },
+    {
+      "headline": "This week at Democracy Docket: MAGA melts down over SAVE \u2014 and DOJ struggles with the email address field - Democracy Docket",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RKR1c4OFZCNUxHa3ktUVItNDBWYUIwVFJGOWdwcnR3blYxTVFFanAtV05BNHhwYjFUTHUyV0x4YnFVZUJtVnhfZk5BR3pZYWs1ZE5kNU9ZRmNwMzdDWm1McHBYS0JGVlh5OWJMdDNRbjB0SFhmaUZ6cUFUSW44NmNsYnMzTmxaZmlTbnVkRjQzMlFIUGg2QTFXY0lQcXNqZktlRU5IQjRld0txU0d5Um5ubG5WMjZxdjZKRWhEbkRnaURaY1BMTmx5YWZVX1dFTU1iU1JMdWtTd01zR3lUXw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 10:02:56 GMT"
+    },
+    {
+      "headline": "Severe storms pummel parts of US with snow and high winds and raise tornado threat - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFlDcjlicnh3b3hVMllsemRoLVprWXdpNWFIdmp3aW1hM3NJNjU1VGRXdUdpUnBNNUY4SFR0NWV4ejY0S3lkV1lzN3dxdlUzWks2UEVuY3I1b2ZZTnE3RFhoZjNDY2pLcjNFM2hWWm00VE9ITGdFZkZmSEhuTHE4TGJzWGM2WlNtRE5hOVZNNUFtNXNtUUtUdXg1RmM?oc=5",
+      "published_at": "Mon, 16 Mar 2026 04:05:00 GMT"
+    },
+    {
+      "headline": "Behind the Curtain: Trump's escalation trap - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WlFiU0MyaTB5RHlyWnZ3UE1hZmdva09MaXB3aThqbl90SUNvNGpqdWU4dGtCSWZsZHBmSGdlaXViZFQ0elNRUENmaXhzSkwxaE8yUUxDcmtHYkVNSGpGVWxqWF9lTFo3RHc?oc=5",
+      "published_at": "Mon, 16 Mar 2026 09:36:52 GMT"
+    },
+    {
+      "headline": "U.S.' Bessent: Iran war, not trade, may delay Trump\u2011Xi summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRlRhWWJMMmlaX1QyNkdpbXdiSkVaMkEzLW9tSXhMTzQxUjV1THQ2MzJobTdxeThrOFRfb2kyZk9aY1VMN0xkX21Oa1hSZXlmNjE0OUdzUFZxZG9xZWpWRlJzcjJwQ2t4R0dfTExzeEV0T1RmXzVpdWh2RlVKS0ZDbnM3UU5nM2E5NlZJeWNRZFhZZFhSTWJ0U0o4UVRSakZxMUcySjJidWEyVUpCcTRQSEZlOUxBQVFhNVE0TmlWUm5NVFZiMGNqSnJ4NmNaeFNKbm5hRHdaV1o?oc=5",
+      "published_at": "Mon, 16 Mar 2026 01:03:00 GMT"
+    },
+    {
+      "headline": "Hawaii faces flash flooding, blizzard conditions and landslides with more rain to come - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zZDg5UVRyY3BnbVJnZUpORG15T3RqSTZ3NDlVTnpoQ0sxNllsOHFCcXRIWG9Cc2dmcGxIeDJ1bEs4X0l0RDVsc1pxbFNtNklEd0dGTUxQMm01Yjl5SlZmTTRuRkl4RGxoX2ZTQkxpZEFLOE5WdVhuX2pB?oc=5",
+      "published_at": "Mon, 16 Mar 2026 00:13:00 GMT"
+    },
+    {
+      "headline": "Trump Backs FCC Chair\u2019s Threat To Revoke Broadcast Licenses Over Iran War Coverage - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWRCS0M4eVNpUUtpQW81MmRfLXBIeHRUUXkxdGwySVlZUXdMcmQ1NTZwN3NWSlNBa0dBbFFTd2dzTzY2XzN5U1pQdFV0LWw3VFVYVHN4cXBhR1poTEFOWW1aUzd3bGxYOGRuVU9MYUZ2RHY0VEZxcTRSWWZVY3M2RXBvQU05UEZHTE5LbUtQOUdVSW50amxHNmphVG5oNExka0hFMkMxS0lIYW5kcGxXSUpzUVNZaGNfbDA2U2duYk8xY0tKdmxhX3p5eXNWMDct?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:58:25 GMT"
+    },
+    {
+      "headline": "Some D.C.-area schools to dismiss early or teach remotely due to Monday storms - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0lUanFNM29la3JET0tYM2MyLUhWRnBTMTVYMERtQUQtYXcteGlmMDRpWGRZVFVVXzRrSXJjY1VrMG5xM0ZncFZHSkloRERTaXVFcnVITTdmS285aDlJYnN4Y0RlS1NSQzJtNVdyNFRjWFl3dmpwQzRRNjNWNEV4R0FRY0RwMDFSdWgxUDZWWnFwU0lveXpSTVRJd0VYNHR5bWdURQ?oc=5",
+      "published_at": "Mon, 16 Mar 2026 12:56:28 GMT"
+    },
+    {
+      "headline": "Justice Dept. Struggles to Take Basic Steps in Targeting Trump\u2019s Rivals - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWllCOWpEeWQ2cTM5dzhEVzRLMGhvM2p6N1J2SG4yM1dpTUVkV2lFZENJZFI1QWV5VEZLVDBPOG1NVFhkdkJ3R0xrY1ZGY2Z1UGxYOEVHbHBBbWl5UmNlN2s0bmhSak9jTmRLbDg0Z1F3Y0JKc0draGF3MGRnMUUzbnktYmtDbDBGeFFMbEhFai1uRFVFRWc?oc=5",
-      "published_at": "Mon, 16 Mar 2026 11:43:50 GMT"
+      "published_at": "Mon, 16 Mar 2026 09:02:18 GMT"
     },
     {
       "headline": "Northern Lower Michigan, Traverse City area upgraded to Ice Storm Warning - MLive.com",
@@ -47,9 +72,9 @@
       "published_at": "Sun, 15 Mar 2026 23:55:00 GMT"
     },
     {
-      "headline": "Some D.C.-area schools to dismiss early or teach remotely due to Monday storms - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0lUanFNM29la3JET0tYM2MyLUhWRnBTMTVYMERtQUQtYXcteGlmMDRpWGRZVFVVXzRrSXJjY1VrMG5xM0ZncFZHSkloRERTaXVFcnVITTdmS285aDlJYnN4Y0RlS1NSQzJtNVdyNFRjWFl3dmpwQzRRNjNWNEV4R0FRY0RwMDFSdWgxUDZWWnFwU0lveXpSTVRJd0VYNHR5bWdURQ?oc=5",
-      "published_at": "Mon, 16 Mar 2026 11:58:43 GMT"
+      "headline": "School closings and delays for March 16 - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmVOdlRiZDlybmhNMmFENlRnOEpsU3lvQkNjNms5RlU0c0hnTkEzNjhnaXlLQXptUXFpSW5JT2M3RTZ0VEZ1c0FuRE0yWjQzbUhkYndiZFdNVGZ1SEh5cDluUW1tdy10WHlQNENhd1YzWm92am9fOEszRHkwUnY3UVVreXNwMlEyM3RyblJ6a0NyTXlrQkdSbTJNY2FjSC1DYndoQTNvd29hMnc?oc=5",
+      "published_at": "Mon, 16 Mar 2026 00:21:07 GMT"
     },
     {
       "headline": "Israeli military claims brother of man who attacked Michigan synagogue was Hezbollah commander - AP News",
@@ -57,54 +82,24 @@
       "published_at": "Sun, 15 Mar 2026 21:17:00 GMT"
     },
     {
-      "headline": "Kennedy Center Board to Vote Monday on Trump\u2019s Proposed Closure - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXlhUGloX041dDRTU1dmZjc1R1U1SlhfWXVadzhYdzJSVi1BRGIyUHZaWkVLRGlEODc2eHZMcmZncWFmb1h0aWowVlU4N2NUUlN4Ym03emNWYUQyeS1NYUgyamZKUXlBVW4wQlhhRzNhVmFhRENFNzN3bW9YaFluTXJKSmZ4dWN2Z1gtb1BwYw?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:33:10 GMT"
-    },
-    {
-      "headline": "\u2018Triple-threat megastorm\u2019 to scatter snow, high winds and thunder across US - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZvZnV0bll2bFFNQjJlNnhRUk5fMENEWjlZX1BpVXo3VGNSVGh1Um5pZUhpS2QwbFpDSXQ3T3RyVElKajczdUVaR1VDVUQ1bmhrdUp0VlduMmltSGtSZE9KTkZ6RmVyN2ZXcTdHcW9IVmRCRzJ6TmxVSWVObF9GUzVTX2dYSzBsNkVJLTl1WEtuZw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:13:00 GMT"
-    },
-    {
       "headline": "DOT: Do not travel due to \u2018immediate and extreme danger\u2019, all of NE Wisconsin under travel advisory - WBAY",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZU1FaHM1a2pxdGhRVk95Y0RMVVFWUlRHOVp2NWpIb2pNSmZUaWtlclRZVTdaTXhfNXJzSnUxZGVvbWd0YjR6WVQxM1p6X1UwTkxEaHh1N2llNnppV1F2b3J5X1ZHcnQwV1c5R0Nqb1FqQnU4dFhfRDR5NV9qNzZ2djBNQmM5dw?oc=5",
       "published_at": "Sun, 15 Mar 2026 17:13:00 GMT"
     },
     {
-      "headline": "Jane Fonda's Committee For The First Amendment On Brendan Carr Threats - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDNiZ2FDcy1wcFpaVDRMaVhJZ2EzSG1QXy1Talh6ZkVkd09xNVV4SVZlcVhGY0ljdXdldGZ6ZnBqVU1vR1VuSVR3dnhCVTBoa29VelZoanhFRDJJWVZPZmZJX0l4d0NzQkN3SXVZWENST0o1MDhuM3pqbHNiZEdtVDV4NWo2aV9GeXVXUVVKd2VLaEh1WGNSblo5Z0QzMEE?oc=5",
-      "published_at": "Sun, 15 Mar 2026 21:08:00 GMT"
+      "headline": "Kennedy Center Board to Vote Monday on Trump\u2019s Proposed Closure - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXlhUGloX041dDRTU1dmZjc1R1U1SlhfWXVadzhYdzJSVi1BRGIyUHZaWkVLRGlEODc2eHZMcmZncWFmb1h0aWowVlU4N2NUUlN4Ym03emNWYUQyeS1NYUgyamZKUXlBVW4wQlhhRzNhVmFhRENFNzN3bW9YaFluTXJKSmZ4dWN2Z1gtb1BwYw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:33:10 GMT"
     },
     {
-      "headline": "In a Wild Corner of the West, Elk Are Everywhere and Causing Conflict - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MUozMmpOclliOUNXRl9CRWNCMGN2TTFsQTQtYUgxZ2MzeUZrbnhPa1A3RW5XQXljSWQtczVXTGxlMFRvZGJXblcybWZ5czV5Vlh1SEJEZmI2TVUyU2V4WnM5OW9adWtrQUlzWTAyaXR3dw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 09:00:40 GMT"
+      "headline": "U.S. names troops killed in Iraq aircraft crash while supporting Iran war - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVFuV1g1RGpvMUtfWi0tS2FweEl4S0ZadVRnYzZqd3k1eUZqY1dicDJ1NjdDR21jejZLUW5uOHUyai1KbFJsSmlrWF9BdWZKaldoaUVXU25zQ3VVR0hvUWlSRF9laXN3Uml5YmhaSTRVQnljbnBlaXk2X3ZGSDA0S2tLWDZ1eVZLblI0NFNFbGN1ZmZkeDJiYWcyRQ?oc=5",
+      "published_at": "Sun, 15 Mar 2026 22:52:07 GMT"
     },
     {
-      "headline": "Trump's energy chief: \"No guarantees\" gas prices will fall in weeks - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRGE3Vk9rbkx2dTVwZ1RDVVRpSEIwT3YxLWVsdll4UkJ2dTZxUjhYU3cwdDdOcGFBZDNXR1lpYWVNRWFCQXJVTzRvSjJxakFfdnFRTHJjeUJTc0E1QmFVZ1N1QXFpRDhvS0wzOS16RGQxdWItcWc?oc=5",
-      "published_at": "Mon, 16 Mar 2026 06:05:41 GMT"
-    },
-    {
-      "headline": "S.F. Bay Area heat wave will be a \u2018marathon,\u2019 weather service warns. Here are the details - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanpvbXpzV0ZUM0dPeW9vNjlVWlg5Q2NvZUNvN0JVelk4bXFxS3RzOTgtWmJLdGppVjhoSGIxd0p5eURibmJNOXJLZERwMkstR0kxLXd1VEtQeFJ3VDh3NHFxTTZ5dy1fOElmV05wLUl5d1Bqc0IzQ01LV0o5ZnFDTHl6dzRlN0R4M0c2Xy04TGx6MEJrZlV1NmRpTHhwNkk?oc=5",
-      "published_at": "Sun, 15 Mar 2026 19:11:19 GMT"
-    },
-    {
-      "headline": "Trump Leaves Allies and Foes Guessing on Endgame for Iran - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0JXYVRaTjMyZWw2c3lHTUJKVXlRbjJYMkZvczB0c20xc3VubTkxTHlvTFNGTl9xWFYtY0pFdTU5SEdxWGlRbUdiVFZ1LXNOVWhQV0UzaXJuZENLMlNLUEZ6M19uVWtLeWF2Xy0xRU1WcS1mX29jR2NmQjJoenRTbjdWY3hKRTI3YnpFTWZkNTFqd2tXeExJTVBvNndUTHFOZzBGcVRNVlp4NHBUaGQ3a3hB?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:06:00 GMT"
-    },
-    {
-      "headline": "\u2018We\u2019re going to have a problem\u2019: Republicans want Trump to move on from 2020 - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVhsQVNlaTdfU3hGaWl3dVVCNG9zX01hdGJJUWpmcWQtMDRTRURHOXJQeGVtSE4wQ05pSWpyVXBEUXJUQUNkYkpIanBlWWJxWlU0NHUtZE8tVnFhQ1ZjR2RvX0MwVF9pSEZjMWhURDJRcEw0OElNUDZvbHpveUxDckpiRnpuWFFCTUMyZ3ItZWMwa2hn?oc=5",
-      "published_at": "Mon, 16 Mar 2026 09:40:00 GMT"
-    },
-    {
-      "headline": "'Disgusting government': Chaos in red state ends House session with cries and shouts - Alternet",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KejNvWkpQUS1IcjBEMk02TnFNNzd0dnRYUFgwVW04V3NrdU1GYTlPRkl2RXYyVjZaUHhQRmsteEgweVlmdEJyNVNCV01faTFtR2lxZ0JiTlJSNmlDOWROeg?oc=5",
-      "published_at": "Sun, 15 Mar 2026 13:31:00 GMT"
+      "headline": "Influencers push 'parasite cleanses' but doctors say to steer clear - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmdkTXRXX0s1UjBES01WSERSR21ZUVRyWDZobUlxYWlTeTFqZTJWYjFDT1RwOUFSNE14RTZiMUNiLVIzTVdWcnZ0bWFpQXNkQUFHVXlXbEMzekpmc1cwSy10RWFYVm12R0Zrck94bFlYYkpFZjQ2bUxQX2NobXItR3Vn?oc=5",
+      "published_at": "Mon, 16 Mar 2026 09:00:00 GMT"
     },
     {
       "headline": "Biggest wildfire in Nebraska history continues to burn out of control - abcnews.com",
@@ -112,14 +107,24 @@
       "published_at": "Sun, 15 Mar 2026 17:55:38 GMT"
     },
     {
-      "headline": "Trump Cornered on Cashing In on Jaw-Dropping Show of Disrespect - The Daily Beast",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUphazFNUXlvWjdWZnRHX3ZSYXNHMEZva0xpaHAxQlRkRThwWmlHTEpEQm9mU2N3TUlXZVRLVVZ0eVJLbUlFMENUd1ZLWGdOenBCTXlJSUpubVBGdTZVbTUxcWNXVndVSHROQUR1aVhNbzdNTk1ocjlFbTNabGlndEgyM3lOc3FRU04ydXp3NUM3UTNtSldqWHZ3?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:20:00 GMT"
+      "headline": "S.F. Bay Area heat wave will be a \u2018marathon,\u2019 weather service warns. Here are the details - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanpvbXpzV0ZUM0dPeW9vNjlVWlg5Q2NvZUNvN0JVelk4bXFxS3RzOTgtWmJLdGppVjhoSGIxd0p5eURibmJNOXJLZERwMkstR0kxLXd1VEtQeFJ3VDh3NHFxTTZ5dy1fOElmV05wLUl5d1Bqc0IzQ01LV0o5ZnFDTHl6dzRlN0R4M0c2Xy04TGx6MEJrZlV1NmRpTHhwNkk?oc=5",
+      "published_at": "Sun, 15 Mar 2026 19:11:19 GMT"
     },
     {
-      "headline": "Infant dies in ambulance crash in Philadelphia's Frankford section; driver suspected of DUI - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2VPZ1NIM0tzT0M4VVJaNFNOaEFpVUpBMlV0X18tbU1DYmtKbmlVcVBOUDlxMFJ1VHlEUlZsd1dzM25HQzJlZVF6YlV2aHowZkNXU254SHVkQ0wtelpmSEF3SlJhTXp2dXRWb245X0hyWlpTZWF1aThwTHI1Q3JGVVdJcFlhWF90Y0HSAY8BQVVfeXFMT1RlRWxYOWY2REtJUXpBZWtyQnVXaFVReWEtTk5HWmY1UjNTRTJrT29JWGpqMEhIYWtqcVVjRGNxaW5PS0o0UW5mRWIxMEI0aTFKdnF2bXZmLTRJMUtHcGFrOUdqLUdZZDRZTl83QWg1Z21QdjdLZEZrcnZ4SC1jOG5PUHhoak9ONHpLU3ozVkU?oc=5",
-      "published_at": "Sun, 15 Mar 2026 13:38:43 GMT"
+      "headline": "Pentagon sees Iran war lasting up to six weeks, Trump aide says - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVJ5VlBkYmM1NThSLVRGcFZtNklFVmQ1Ml9jeGhqaHE3eG41cUJUZjhWN254Y1o2dnZNUUFZQmZYd1hZWFRfSmNvTzc0RzhkbXVhUkExa3BxSlF3dms2RVRXai0tOEw3TXUzUVhRa3JwOVBrWTNoWmFfQ0w5ZXNPSE5qRFZEdTB3VVpPdDIwaTlvdw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 21:35:00 GMT"
+    },
+    {
+      "headline": "'Treacherous travel': Blizzard warning issued for McHenry County ahead of several inches of snow, gusting winds - Lake and McHenry County Scanner",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbktTWFRBMGJKM3lUclV5UC1XUERkVFFUcEdZUlFpQk5pNlk2cEJmODMwOGFjMzB6MTFzUkJFOE1DSDFTQ184dDA5Tk5STENFbTltSi13aFJoUXRoYjhHT1VwdnNrTGtfVFp3enlsNVdOeGRTNWhibjRPUU14LXFXd0tJOWN0YWR0a01uZXR6eDNKdHNQR2JwOU00SFljeFUxdVQtOGg3NFNPbkxKT3VwdFc0ZEVZeFRkckZlR2JRX1A5ZGtHVXgyRWtLOHZTaEZDWHRYMlNrdTVDOGpRc1V0V05fX1lVaEJ3RXc?oc=5",
+      "published_at": "Mon, 16 Mar 2026 00:47:47 GMT"
+    },
+    {
+      "headline": "Baby dies, mother injured as Philadelphia police investigate crash involving ambulance in Frankford - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04cXJIZkt2bGRpak4xOHFUUW5OQXNrTngxanFjQkRLRzVZWW9fc1p2TUlVTFpvaXpla3FZb05md3YzUEgwN0d5dFVWU0J1UW0tUV9TeDZNOWY1b3YtQmsybjRUOXlUNXFHZzdhR0NDSVE0ODBUS0RN0gF8QVVfeXFMTzJtdHpEU08xdzhaUDVXMmFDUEdFRkUzejNZVGU5aHV1TzNKU3IySEpUQ21hV0JqdkF0WmpxUzhsYkswU2Q3Z0JlblpBNmY0UzlUWS0wS2FuN052a3lZaTFEQ05QVTBOMENXY0JWSE1rVTQwRGNnNWxEMnZmaA?oc=5",
+      "published_at": "Sun, 15 Mar 2026 13:14:00 GMT"
     },
     {
       "headline": "What we know about the Old Dominion University gunman, a veteran and convicted ISIS supporter - CNN",
@@ -127,9 +132,19 @@
       "published_at": "Sun, 15 Mar 2026 07:00:34 GMT"
     },
     {
-      "headline": "Overnight severe weather risk upgraded - WTVY",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TV18tV3AzMWV6ckRvSThKQm15QWxVSUdQam5VbXNnVEVOQ1dVRFNleUs1WkMxamQwTjUyOGFPNlJkNkZ5eDlGdUg2X1dMcjItVXk5TjBwTlhPd0tfYmp1Z2lpcTQzZDNnSk9ZTFlhTDNkOHNxQ0tNVzV4WdIBjwFBVV95cUxPZzdMcmdmYXRQUERnVmZld25FeUk5MUNGVG5NTHRVMjZpblkwQ2lXMzI5c1JTSmJXY1Rfa012U0hvdDlPMzlkVVlPQjhoZWlPa1NQZmd4MFY3Z2txNzdmd09Pc21IMzMzbHI3V2Fwa0thTVYzbUNQNV81MlVORUgzNlZjdFJIbW52OWYtak9rcw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 13:57:00 GMT"
+      "headline": "Trump Cornered on Cashing In on Jaw-Dropping Show of Disrespect - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUphazFNUXlvWjdWZnRHX3ZSYXNHMEZva0xpaHAxQlRkRThwWmlHTEpEQm9mU2N3TUlXZVRLVVZ0eVJLbUlFMENUd1ZLWGdOenBCTXlJSUpubVBGdTZVbTUxcWNXVndVSHROQUR1aVhNbzdNTk1ocjlFbTNabGlndEgyM3lOc3FRU04ydXp3NUM3UTNtSldqWHZ3?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:20:00 GMT"
+    },
+    {
+      "headline": "Severe weather batter parts of U.S., with threat of thunderstorms and tornadoes starting later Sunday - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORlBoaG04NlRrSEE3Y21ZeVU0b0Q2MnJnLW5NaWJhdmNmbXZOSUhpQjFUX1o0ZGRnWG5BcTA3NktSUy1yMXlkS0tQOENjQnloTkszaGl0b3BhejJ0N09fcFhMcXZQTHpxblZmUm5jWFZOckdDX2swS2p6X0U4RjhVcHJhUGtnNTMwUXlTMmdqU21HT01RNGhyRUhOT3JfMVFJd2V2b0tQN0MzM19lZlJOZldIOVc1S0VreFFFcGJMTVc5SkZJSU1ULUpSTkZmZVNS?oc=5",
+      "published_at": "Sun, 15 Mar 2026 20:26:24 GMT"
+    },
+    {
+      "headline": "'Disgusting government': Chaos in red state ends House session with cries and shouts - AlterNet",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KejNvWkpQUS1IcjBEMk02TnFNNzd0dnRYUFgwVW04V3NrdU1GYTlPRkl2RXYyVjZaUHhQRmsteEgweVlmdEJyNVNCV01faTFtR2lxZ0JiTlJSNmlDOWROeg?oc=5",
+      "published_at": "Sun, 15 Mar 2026 13:31:00 GMT"
     },
     {
       "headline": "Cuba: Protesters attack ruling party's office amid blackouts - DW.com",
@@ -137,29 +152,14 @@
       "published_at": "Sat, 14 Mar 2026 23:40:11 GMT"
     },
     {
-      "headline": "Chicago weather forecast: Blizzard warning in effect for parts of area for snow, strong winds, impacting travel | Live Radar - ABC7 Chicago",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd1ZWY21MLXNxSDJSamVqM3RyOFRzb0N2RzVrY0VWMllOZFVfanpQeFlRVnd2WmF6d1V6RlR2djBHVWd4RThuYU5VRk5WcDN0S3NZUVFuWVh3OU5FR1FCYmt1RzZEUGt2Y0tMQ1J5QlZLYXNmUEx3ZUNuTmFUbmx0S3RGYW00ZGRBeUoyMF8yWWR3UElKRy05a1FpcXU3M2E0TV9DcGx0NkRfSWU3NDRIZFlrUTVUdy15cFp4RHlnaFlVSDlITkNhUnlhemwzbVFmTWNCeDk1R2lRdFkw0gHiAUFVX3lxTE9zMEs1TVhEUTBKUC1yYjVXWmExYVR2TlBfUFpCZUNRV1N6c1RfcVFtemc2Ny1oWFBkdnFFXzllUFJXcXA1WUNLaEZoNmlRaXhSYVZSNDRaeER0cGpFa3lJTERwMUFwMTY5TkZlN1VMQTV1bUl2NDZ3RUoyNGVnZjc5Mk10bVA5U3J3WEdhZHlFeDlDOVdzU1RMWWhxSE9OMzQ0NGZJaTdHbUdBMEh0N2lJcFpLa3BOQ0lIQkJlVDhGYnNqRm82RXREcXNoc3dGcmlVR0ZCYUVjQjNodEhzRF9qT0E?oc=5",
-      "published_at": "Mon, 16 Mar 2026 09:56:15 GMT"
-    },
-    {
       "headline": "After 93 years and a 25-hour filibuster, Washington finally has an income tax, and billionaires are already packing their bags - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80RzVJal9sdGRrbUdlSnRiaWlBZl9LYkNLVzhMYmhEQlRNYWNaMTF3UmhaN3NiOEZFdW13SGdsYVBTdEdxLWI3Q2V4cWJLZnFxODlPRDFwcUMtbEdyODBCSGdIS0wteTIyc3RIMFRucHFmdXJ3VEJkRXBTNXprZw?oc=5",
       "published_at": "Sun, 15 Mar 2026 11:33:00 GMT"
     },
     {
-      "headline": "FORECAST: Level 4 Moderate Risk for our Eastern Counties, Level 3 enhanced risk for Charlotte - WSOC TV",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlpkMDVQalllVGlWN21QR3hpTVhCMm5oQ2Nib2lFNi1LYVIyS0U0OVlQd0JKOVNZYUNqWXdLdERYN1o1UUNLN1F3STFtWDg3QlJacGwzbmpJajBld1pHN1U0U05MTmx3a0RvaF9mQjBvdzhNbDk3dVBkdl9tc09EMmtBX1R6Ylh2SEh0ZXYzMVU5akpjNjR1dklsVmNjc0pEdnA5UE1EVVhhd3hNZS1raHROZnJPUEY3YjU4SHNFNnBfb2phY0FFQ3VNS0JvWDVUNGhJUmZ4T1VlNnRaUmFLZFBmU2VibzDSAfsBQVVfeXFMTllKNU5zY3lqajZmUVpncERXekcyQTBOalk0SVZ0UEVRTjlTMWFUcTNjbjA2ZzRXUnhLbFFwZkRlbXljLTNSbEp4T3dOcmF5SGxvR1M4TXd2RmtyQmZqOEpaZG5TcHRPTVpnMWNPbkFoSFhqUTNXWUtNeEIxTTY3WHJkN3hvTmxJQUxIeXBEMG1PWEhiaWNMVHh6djdQQ1k3Y2JpM1ltblVDY2x3d1oyTFpURnVfSGFVcW5kTXVoWmxxazJZZjh3a1ZfaW13bGg0TUM0a3Q3Y2tRSDJfRmRTNHJHNFVxekdHamRjWmhtR3VDX0FnNlBQY0V0ZjQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 22:49:53 GMT"
-    },
-    {
-      "headline": "Severe Snowstorm Disrupts Travel and Power in Minnesota, Wisconsin and Upper Midwest - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUllpaWc0dUlVdktwU0QzdXlzOEx0dThXVjd2TW9LalYtOTBuX1BfVUFBWmRxUmlvLXIzaV9FU0R3Wm1pa0RVR3dwUlNNVW1LdERvcEVCa1VWNGhfREZIOWR5Z2I3MzA0VHNTd1loNW9xWjZuZFdBWUZNcE1RWW1qaEV2WW8yOEZuQ2RHdw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 17:10:01 GMT"
-    },
-    {
-      "headline": "Iran-Backed Militia Claims First-Ever FPV Drone Strike on US Base in Baghdad, Video - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkhkQXdISTVGRXNaOHluejBKRC00bW8teHFOZU53ZWdIQnA0dkxDdnVPVWVGUk10RnZmMnk2Y1FKeXBkbHlMaHN4aUZRVE5ma3psYVR6QXdtTjFkQ2hrZTJTNHB2c1RCcHNyWkpkRXlKUnZWNGdvVzhtalZWT3RPSjFDRVp5SkJuTDlvUU1IWGQteF81T1ZIYUYxMGJGTEZCUENoZWdWU2RZSmdZOEF6Zk9ubS1sLUV0OGRUdW9SRk4xOFZf?oc=5",
-      "published_at": "Sun, 15 Mar 2026 15:30:25 GMT"
+      "headline": "Trump's energy chief: \"No guarantees\" gas prices will fall in weeks - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRGE3Vk9rbkx2dTVwZ1RDVVRpSEIwT3YxLWVsdll4UkJ2dTZxUjhYU3cwdDdOcGFBZDNXR1lpYWVNRWFCQXJVTzRvSjJxakFfdnFRTHJjeUJTc0E1QmFVZ1N1QXFpRDhvS0wzOS16RGQxdWItcWc?oc=5",
+      "published_at": "Sun, 15 Mar 2026 20:03:49 GMT"
     },
     {
       "headline": "Illinois Senate primary pits crypto-backed candidate against Pritzker\u2019s pick - The Washington Post",
@@ -172,49 +172,14 @@
       "published_at": "Sun, 15 Mar 2026 18:07:00 GMT"
     },
     {
-      "headline": "Republicans resist calls for Iran war hearings, creating a new standoff with Democrats - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmtlbVh0ZlFWUXU3b3RJeFAxMURvampHUDN3TlZHZ0VXekdQanpuMXZYVU0ySm5VUHQ3RU4wTDJ2aG05Z3JWaU1sdHZpdGVXaThMcmpZWTU3UGN5eDN1YXVQYXlwLVNXNlFKVnZHSVlMT2k1UG9SUGZFUUJHZGxGS2s3NTJjc3I5d09lXzFlbjdvR3BHdS1UekNwNlg4Wjk5OXZBMg?oc=5",
-      "published_at": "Mon, 16 Mar 2026 04:17:00 GMT"
+      "headline": "Trump Goon Sputters When Cornered on Why Boss Is Rewarding Putin - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2RWZ2o3SUFiNXphcmtyUllzM19JZEpOaUhrOXpWQVVObmVPNl91bTh3N0xRXzRWNGZZaXg2ZnRrbDQzYVZwNGlUcUZxbUxITVR4T2I5NmdRaGQzM21wS0JQczdPcV8zZXczYmU4Y0l5Yl96X2NRQlpoTF81YzBDYndwMTNUX2xOalFWeC1rNFdtYjNoN2lFWlg0cw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 18:29:00 GMT"
     },
     {
-      "headline": "Storm leads to Minnesota school closures, including all in St. Paul, pre-K through 5th in Minneapolis - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjM5bEpndUEwc0JWRUZKaWo2c0JFSlNvdG5hN1ltNVhLdS04VVZDRTFsdXV0TkhkcXI3VGlqeDBISnNRVVlfcHFVd0Z2NjhaenBqd29hSXQyazFwbzgzN09ELTJyenFsdGk5OHozNzVPYW85MDMzOExoSnVLdndMTnBhZTJsY0tvTE1WaU130gGTAUFVX3lxTE54Q2ZJMUtUbnVlU0lMSi1qdnd0SW1lSDI4OFhPR0lmNUpQV1NUZHlkZ210ekE0TlJCYkNMdmp4LURpRWFKdEFGLUJJYWdLeWlNbm1xU29pOEdXN1lYZ3BVcFBMcXp6ZUtVMktyVnp0ZUhmUUh2RnpiWXdtbDl1aXVmbVI0ZnVUeGlMMUhmNlZWaUlNTQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 18:51:00 GMT"
-    },
-    {
-      "headline": "What Life\u2019s Like for the Muslim Constituents of Congress\u2019s Nastiest Islamophobe - The Bulwark",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmV6RTVsaXVBbzIzZDlUNWlrZnlyT2xIVDlwS3F3M3NkVVRmS05ycnVHZ2cwdVBZeXlrYm9pS29qaGVPRThOTTNieGFYbnZNYUFWNnBqSFlvYkRBZ3hSWUJ5cXNESFJWQzhYU1RqSlNUWEFZTDlWbjlWWVJqU3JkcVFEbk1wcWNLeHltSnN6cGdtZU5ZYXlwY2ZKZ3FUa0dWaXcxcHdPakI?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:52:12 GMT"
-    },
-    {
-      "headline": "Iran's Pickaxe Mountain nuclear site remains a threat - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uYUwwZ3lzV1ZzYUkyejVIdUFET2lTek5ERVduY0t6eUNvcmJtN19iRWxSRGdHZ2Ffa2ozSUNBN3k4eXNMdW5pc09ZTWJCdlR2TFVmc2JDVmdHVVBkajFTSFlXX3dEdmQ5Qmc?oc=5",
-      "published_at": "Sun, 15 Mar 2026 16:51:50 GMT"
-    },
-    {
-      "headline": "Pentagon sees Iran war lasting up to six weeks, Trump aide says - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVJ5VlBkYmM1NThSLVRGcFZtNklFVmQ1Ml9jeGhqaHE3eG41cUJUZjhWN254Y1o2dnZNUUFZQmZYd1hZWFRfSmNvTzc0RzhkbXVhUkExa3BxSlF3dms2RVRXai0tOEw3TXUzUVhRa3JwOVBrWTNoWmFfQ0w5ZXNPSE5qRFZEdTB3VVpPdDIwaTlvdw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 21:35:00 GMT"
-    },
-    {
-      "headline": "Nancy Guthrie Update: Investigative Reporter Says What May Crack the Case - TV Insider",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDVlcnY1NFVVZGN5NXNJNWFTYjRCc1JWRnl4Nm9HOWZpSF9WV01WQnc5emZmb3dNVXlqSUl6d0NJT2N3RThnX2pfQ1A5QmZsZlprZzJSVTZXTThlMml3c3pDT3VCVXJpWVplSmRDT19iRHYtWmNxOTduRnRiUVQ0N2lkQQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 17:50:41 GMT"
-    },
-    {
-      "headline": "Severe weather batter parts of U.S., with threat of thunderstorms and tornadoes starting later Sunday - PBS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORlBoaG04NlRrSEE3Y21ZeVU0b0Q2MnJnLW5NaWJhdmNmbXZOSUhpQjFUX1o0ZGRnWG5BcTA3NktSUy1yMXlkS0tQOENjQnloTkszaGl0b3BhejJ0N09fcFhMcXZQTHpxblZmUm5jWFZOckdDX2swS2p6X0U4RjhVcHJhUGtnNTMwUXlTMmdqU21HT01RNGhyRUhOT3JfMVFJd2V2b0tQN0MzM19lZlJOZldIOVc1S0VreFFFcGJMTVc5SkZJSU1ULUpSTkZmZVNS?oc=5",
-      "published_at": "Sun, 15 Mar 2026 20:26:24 GMT"
-    },
-    {
-      "headline": "Trump Says He Wants to Finish Iran War Before Tackling Cuba - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUJzUnJwNHFfam9HV0w4ZlY3cjF1SzFRNlB4MzUyRmlMcnF0Uk1ta1Rqa2Rua3RoTTdWWlVZU2RzSERueGpUSnNJdklNU1BlWllseXJhbVVfRm05ajZ3RncwSXM4VDhQY2J1cVVPa3BSa0FDTWZVNzVDX2hCY0hSa3Ntb1VfV2hEYks5MFdfZUpyMnFhMGtncm0tNEM3R1hVVDBWWGpSbkV4cmY4NGJkZQ?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:35:00 GMT"
-    },
-    {
-      "headline": "Why Donald Trump is losing the war at home - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenZkVnZjWUtLZ1RCZDl6QzVHWmtPcTJHZHQyLWRoOFA3cGRyNjNnZFkzMzlfVWs4bjZwcTF4SWgtdU9VREFtSlJzb3FrUy1BRkJTV3g0M1pxS1JWOURBUlduX3IyVE9PVHcyekIybkZqaFJXWnZ4b0VNek45U3dyQ2JiRQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 19:06:16 GMT"
+      "headline": "Iran-Backed Militia Claims First-Ever FPV Drone Strike on US Base in Baghdad, Video - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkhkQXdISTVGRXNaOHluejBKRC00bW8teHFOZU53ZWdIQnA0dkxDdnVPVWVGUk10RnZmMnk2Y1FKeXBkbHlMaHN4aUZRVE5ma3psYVR6QXdtTjFkQ2hrZTJTNHB2c1RCcHNyWkpkRXlKUnZWNGdvVzhtalZWT3RPSjFDRVp5SkJuTDlvUU1IWGQteF81T1ZIYUYxMGJGTEZCUENoZWdWU2RZSmdZOEF6Zk9ubS1sLUV0OGRUdW9SRk4xOFZf?oc=5",
+      "published_at": "Sun, 15 Mar 2026 15:30:25 GMT"
     },
     {
       "headline": "Chicago weather radar live: Storms prompt Midway, ORD flight cancellations; Winter Weather Advisory, Blizzard Warning issued - ABC7 Chicago",
@@ -222,14 +187,29 @@
       "published_at": "Sun, 15 Mar 2026 13:48:18 GMT"
     },
     {
-      "headline": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbE0zU041MlFnVTBTQ2dFdnJIcTJVS2ZnUmg3ZUVnMlZ4MW9Lci03Ym5xVmRUOWJOUW5MaTc2bWYtTzVBUHVtdG1HRkRTYjhjcGN2LTZRd2JtLVk1SHdvT1RnWnc4bmN5cXpTdmNjcVRaVF9SYVpuTF92RTlNQWxBcXVnYlhMa3NOa2h3d1RfWnUwdnYteFcxWlUzNGpEWWlEWUZUNmJrdUs0eE5uYlVQT0ZLOVJkY202RFE?oc=5",
-      "published_at": "Sun, 15 Mar 2026 17:41:04 GMT"
+      "headline": "Republicans resist calls for Iran war hearings, creating a new standoff with Democrats - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmtlbVh0ZlFWUXU3b3RJeFAxMURvampHUDN3TlZHZ0VXekdQanpuMXZYVU0ySm5VUHQ3RU4wTDJ2aG05Z3JWaU1sdHZpdGVXaThMcmpZWTU3UGN5eDN1YXVQYXlwLVNXNlFKVnZHSVlMT2k1UG9SUGZFUUJHZGxGS2s3NTJjc3I5d09lXzFlbjdvR3BHdS1UekNwNlg4Wjk5OXZBMg?oc=5",
+      "published_at": "Mon, 16 Mar 2026 04:17:00 GMT"
     },
     {
-      "headline": "Iran war: Trump dials up the pressure to secure Hormuz - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTRELV9id0xNcXlnbktTWjNMX21LblE0Vi04OVpkVk5BWVNNRjRZQWswa1lndXR1Mmp4ejlLanotWXdXeFAtdWJTdkZYTGVxbVBtQk9WVkJCdnZTcHdjVDU4bUllMkkzTGRySTh6Q25xREFhUkNtY1R6MWd6dHhWTDYxY1ROT2x0ZkhxeER3c256RTA?oc=5",
-      "published_at": "Mon, 16 Mar 2026 11:51:20 GMT"
+      "headline": "Trump Says He Wants to Finish Iran War Before Tackling Cuba - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUJzUnJwNHFfam9HV0w4ZlY3cjF1SzFRNlB4MzUyRmlMcnF0Uk1ta1Rqa2Rua3RoTTdWWlVZU2RzSERueGpUSnNJdklNU1BlWllseXJhbVVfRm05ajZ3RncwSXM4VDhQY2J1cVVPa3BSa0FDTWZVNzVDX2hCY0hSa3Ntb1VfV2hEYks5MFdfZUpyMnFhMGtncm0tNEM3R1hVVDBWWGpSbkV4cmY4NGJkZQ?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:35:00 GMT"
+    },
+    {
+      "headline": "Nancy Guthrie Disappearance: DNA Could Crack Case, Reporter Says - TV Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbDVlcnY1NFVVZGN5NXNJNWFTYjRCc1JWRnl4Nm9HOWZpSF9WV01WQnc5emZmb3dNVXlqSUl6d0NJT2N3RThnX2pfQ1A5QmZsZlprZzJSVTZXTThlMml3c3pDT3VCVXJpWVplSmRDT19iRHYtWmNxOTduRnRiUVQ0N2lkQQ?oc=5",
+      "published_at": "Sun, 15 Mar 2026 17:50:41 GMT"
+    },
+    {
+      "headline": "Why Donald Trump is losing the war at home - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenZkVnZjWUtLZ1RCZDl6QzVHWmtPcTJHZHQyLWRoOFA3cGRyNjNnZFkzMzlfVWs4bjZwcTF4SWgtdU9VREFtSlJzb3FrUy1BRkJTV3g0M1pxS1JWOURBUlduX3IyVE9PVHcyekIybkZqaFJXWnZ4b0VNek45U3dyQ2JiRQ?oc=5",
+      "published_at": "Sun, 15 Mar 2026 19:06:16 GMT"
+    },
+    {
+      "headline": "Live updates: Iran war news; Trump urges China, allies to help with Strait of Hormuz crisis - CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HNGtIbzNoSUpDVkZvU0VsaWdvVVlfU0xRcXpvNHpCYmtoMXZKQmxtVnpCV3NiU0JMOFVfZTBuYVNpUnZfRWlFck5LS0NCb0ozNG5kdi1zbDl0OUZmaGVWaW01WnlRd0pUNjdDVTVyVlpaU3pvUEU0Nw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 13:07:00 GMT"
     },
     {
       "headline": "'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION",
@@ -237,9 +217,9 @@
       "published_at": "Mon, 16 Mar 2026 03:19:00 GMT"
     },
     {
-      "headline": "Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0hsQ3E5VEk3RzZWX0NIbGc0TjlscnFMa1FUSlF0V3AzZHc1eHJEUXhKQzhjSkJIWXFyaDZxTVMtZUFPRlhfMndudkZ2STVWcTJLSWRIaS1GT1RtdzZneGlXLXFJRUMtcWx3d1g4d3NLd1E0cHZ0T05XNVFOMS1kWDJ4ZDbSAYoBQVVfeXFMTmU5Rk8yMTZEblQ3MG1YLTl5UzBUWHUtWnNlWHdrb1RiNUNuZTZ0U29WN01FSkJ6SE5oZnVocUpoZGtUODZmcDZpQlU0RERFYlQ2N1gzS1ViVm1MWXJjUjlEWW80Slhmemx6bE9jenNUcnFwWmxoZU9JYUhTbFNPa2RHaEZoN0xWbWdB?oc=5",
-      "published_at": "Sun, 15 Mar 2026 21:05:15 GMT"
+      "headline": "Dubai Resumes Flights After Drone Caused Airport Fuel Fire - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1RBVnNGdHdxeWlJaWE1emtTUVM4MVJwS2hJX1E0QlZpeGFYSHFkNS1wRkMwbl9jcEJwYnZBN1ByQXVmazJpN1BlREhVTnBXSjVVS3Mwc0JxSmsxTmR5TlhSLUlaNVZ6VFhWelk5U09JbTNnazV5SDViME9kazZlZFluV2NlTUhsNmh4VmtJaHVmcGd1ZnN4dlhwcjI2WmJGZmRkVTFxNTRLOWRGdWxBY2tB?oc=5",
+      "published_at": "Mon, 16 Mar 2026 10:17:24 GMT"
     },
     {
       "headline": "Here\u2019s What Happened in the War in the Middle East on Sunday - The New York Times",
@@ -247,24 +227,29 @@
       "published_at": "Sun, 15 Mar 2026 22:07:43 GMT"
     },
     {
-      "headline": "Iranian foreign minister says \"we don't see any reason why we should talk with Americans\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUc5amR5NGRHVUlaQWZLVU5taklCMjNzY0tjNk52ZlVHcXRwMDhabThCenlsc0RhRE5LN1VFTlduczhnRzE4OEo2RFZPMEYxYXJORkRKLTlnRHo4TjZUM2pod1FyTHlLb0ZIREZHdW1RbUxYMk9STHMwTnJsa05jMG1FSUNMaW1EcFp6cUNyLV9HWDdpMWFXb0hVQVcxckZmTk530gGoAUFVX3lxTE9jbEQzbnlXRktIX2dkM0owTkNscUl1WWVoM3NCcnlod2xLd2NkbERmaG1VaXd1MkNLVEY5T2JaYi04X2ExUmRNaGJaZU9jTnc0Wi0tLUVLdEFLRGNSUDhvVExCSjZtYTlhMFA4YzNqSUE2R3I3dFZMUGhGSGJZQ0xGNWtUM1dfSllvcmlRMXZaMF9CWVNDSnlVekZ1WW53bDZRRTl4a3gycA?oc=5",
-      "published_at": "Sun, 15 Mar 2026 15:44:00 GMT"
+      "headline": "Severe storms, tornado threat target Central North Carolina Monday as Level 4 risk issued - ABC11 Raleigh-Durham",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1F4UV9JZnZuTFBXWllJcHZwTUFySjJ0bWZRZDBjN0ltcmZCX3NYVC1TRjAyR2cydTh3bUVSdDU3YjVaOXVFcENyTnJHd2NJOHYyQlNPRVBFS0RkczE2VkJoMXRSM3FpeFpQUWVKWm1fZkNzSXE5V084M3FoTWpHaGE0ZEo4a000dmExeUUwNG10ZUxPOGRuc1hpT0hRZDdKYnRmZDFsTEJ0d0lsVlp0enliTmNDTS1xQVHSAb8BQVVfeXFMUDl3djhzX3VmN3RZNElGY0ZLWU5LVHppREV6RzJoNmQ5R0ZXREhjdy1XbTZfVTJXSUNKS3pZRVBfaExNWmExRFNhbl9QUzBMZ1RXTDRFb01Oa25VRDFyS2Zuc1BMSHNmNXBoUzk5REM2S2xPYWNWZXpCSVZvRWU2ZWVXV2Jpel82S0JUY184WWd0R1JodEpaSXlSZTZMYjF2Q3VfRU5od3FTcVRmNURWLTl0N193eGlfc1lBX01JTGM?oc=5",
+      "published_at": "Mon, 16 Mar 2026 10:52:56 GMT"
     },
     {
-      "headline": "Behind the Curtain: Trump's escalation trap - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WlFiU0MyaTB5RHlyWnZ3UE1hZmdva09MaXB3aThqbl90SUNvNGpqdWU4dGtCSWZsZHBmSGdlaXViZFQ0elNRUENmaXhzSkwxaE8yUUxDcmtHYkVNSGpGVWxqWF9lTFo3RHc?oc=5",
-      "published_at": "Mon, 16 Mar 2026 09:36:52 GMT"
+      "headline": "Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbE0zU041MlFnVTBTQ2dFdnJIcTJVS2ZnUmg3ZUVnMlZ4MW9Lci03Ym5xVmRUOWJOUW5MaTc2bWYtTzVBUHVtdG1HRkRTYjhjcGN2LTZRd2JtLVk1SHdvT1RnWnc4bmN5cXpTdmNjcVRaVF9SYVpuTF92RTlNQWxBcXVnYlhMa3NOa2h3d1RfWnUwdnYteFcxWlUzNGpEWWlEWUZUNmJrdUs0eE5uYlVQT0ZLOVJkY202RFE?oc=5",
+      "published_at": "Sun, 15 Mar 2026 17:41:04 GMT"
     },
     {
-      "headline": "Exclusive: US, China discuss farm goods, managed trade in 'remarkably stable' Paris talks-sources - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaE5MMlpDX3c1T2hSLTRQQ1N1dTJKaXdFYUNNM3hxUTB1OHNVMGliMWlJd3YyOVNlOFlvVzdENVo0c3FsM3NsamNMY1Nud3ltSlRMRVNwRGlhaHJ4ckRrOVczQlRQVDhlMFNPd0x4VWFUZk5GWHFiVGdXSlAyWVRjMDVWMnZrcFp3aUUwOTR5WDZoTEZQVWhCMHFaVHhrdEdfdU5SZjU2Y3dUN2VnS3QzR1NQMGxQRlpyclgwNXJrTmJrekpsZy1UVDYwRDV4LUNZZ29CaEhBMWxDZw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 22:32:42 GMT"
+      "headline": "Here are Minnesota snowfall totals as big storm exits state - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0R6ZnBLQ3dBQ1VfVG5LajlMcmpyUWNUeFY1eWZ3V1RPWWx2ck1NTTJtejZtMkF0SWc2VGE1ZVA1Z2dqNGNVYV9PV3FiN3oxT2d3WDU5TzJiVHFyNl94NXV5Y21RaEpYZks3M053MUN3TWR3ZGFaM1pHWW1XaUhBTjFCb2sxM3PSAYwBQVVfeXFMUHh6anNydUNFUnVCZlBQeWRqTzF3RXRfU2R1cnU0aGQxZWxrVWVfSnJVeExjamF5eUYtQTMwVW81dmtaRHM4djlDZWt4NnpkdDcxRFh4Si13MnBSOVR0a1VPa18yTFFOazFlQjhCbzUtWGpXUTVvOGw1LUtheEVsVld0TXgxWEotWjh4aTA?oc=5",
+      "published_at": "Mon, 16 Mar 2026 12:44:37 GMT"
     },
     {
-      "headline": "Authorities advise no travel across southern Minnesota as blizzard conditions continue - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGp4TVlxb21JX09HNzNHa2huNThHRVR3MUtCMDBLd0phZFFWVGowUER6T1JpSnhyYkRKSXhOWlk2YmJPcURJRVBiVG9Zb01sMzM3YnUydHctRWZINm1oUEo3dVhGdmU0X21uTkx5eGR6SVFpSWQ4ZmJPNW5PckJFaEZnUlZySTNWaDBGaDRwcGJiclJRRGZ6SEF1SHJHYUpRcGRrUzl1RG91djhRTEdDV1RSX3ZBZw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 11:15:00 GMT"
+      "headline": "Jane Fonda's Committee For The First Amendment On Brendan Carr Threats - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDNiZ2FDcy1wcFpaVDRMaVhJZ2EzSG1QXy1Talh6ZkVkd09xNVV4SVZlcVhGY0ljdXdldGZ6ZnBqVU1vR1VuSVR3dnhCVTBoa29VelZoanhFRDJJWVZPZmZJX0l4d0NzQkN3SXVZWENST0o1MDhuM3pqbHNiZEdtVDV4NWo2aV9GeXVXUVVKd2VLaEh1WGNSblo5Z0QzMEE?oc=5",
+      "published_at": "Sun, 15 Mar 2026 21:08:00 GMT"
+    },
+    {
+      "headline": "Trump and Starmer discuss the reopening of Strait of Hormuz - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlZQM2NmZUVXaUZGbFdwRXBDT3RJaTNFVEFEZFNwbUgybE1GUkIwWE1VcmhUQ0JIWDFQQmF0ajZZbVBRMTZxZW1xemM3V0hrRHpmS2ZVaWFHUndieWM1Yk9DZzlIQWJBVERfYnRhYVF0RHl3OW9QTUdiNDI0b3lFSnBDcnA4Q3hsNEpLZVVkaVgwWENFOVUzUVlBeUhLbzFFejZyTDF1Y2F4Y1BSVWdQQkVvb0dhYXRrc2pZQ1dtLVVvRTJn?oc=5",
+      "published_at": "Sun, 15 Mar 2026 06:26:53 GMT"
     },
     {
       "headline": "Wisconsin Department of Transportation urging people to stay off roads - WMTV 15 NEWS",
@@ -272,14 +257,9 @@
       "published_at": "Sun, 15 Mar 2026 23:38:00 GMT"
     },
     {
-      "headline": "5 takeaways from France\u2019s local elections - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkNQdERCMk5PVWJfYmc1ay1WVHgyWmhWR3lscGFPX3BVMGtDMTViOEZPd21iUXlTeF9fak0zdTkwMFl6dTJfMkQwMDh6VkFwVXBfUXJxb0dEbjJGc2JKNFJOblZRQ2VrYl9lZmZBdVdBWUtpVUo5RzQ4eldNa2xUaG5qdFNReGh1aXVGZnRia2lmYmdlb2tPVFNpZEt2UQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:46:00 GMT"
-    },
-    {
-      "headline": "Governor Moore Declares State of Preparedness Ahead of Severe Storms on Monday, March 16 - Office of Governor Wes Moore (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaWtRR0d0UmVMbDEwbGtLeXhfZUlTRzRvdkt0QWs4N3VRNHd1b05fdVVoOERQUy16ZTM3a1RJaUVzaVZYZ0hUQVNhMVZuanF5S3RiTFNyRC1pbWtsYmVMai1BalQyZDY5OTdObk13anY2d0h1bjFnZnM4UFNIYXdlc3c0djJQdGRVS1lIT1pPbVh2NmIxTUdiSkJ3SjJTaHhLR2hkZE1jMXg0aEJBVW9BcU5TbnlWcTV0SmptT2Z3RkNSNkJMUnlOQ0ZBRkxZNWJNY19wN3dDQQ?oc=5",
-      "published_at": "Sun, 15 Mar 2026 21:51:03 GMT"
+      "headline": "Iranian foreign minister says \"we don't see any reason why we should talk with Americans\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUc5amR5NGRHVUlaQWZLVU5taklCMjNzY0tjNk52ZlVHcXRwMDhabThCenlsc0RhRE5LN1VFTlduczhnRzE4OEo2RFZPMEYxYXJORkRKLTlnRHo4TjZUM2pod1FyTHlLb0ZIREZHdW1RbUxYMk9STHMwTnJsa05jMG1FSUNMaW1EcFp6cUNyLV9HWDdpMWFXb0hVQVcxckZmTk530gGoAUFVX3lxTE9jbEQzbnlXRktIX2dkM0owTkNscUl1WWVoM3NCcnlod2xLd2NkbERmaG1VaXd1MkNLVEY5T2JaYi04X2ExUmRNaGJaZU9jTnc0Wi0tLUVLdEFLRGNSUDhvVExCSjZtYTlhMFA4YzNqSUE2R3I3dFZMUGhGSGJZQ0xGNWtUM1dfSllvcmlRMXZaMF9CWVNDSnlVekZ1WW53bDZRRTl4a3gycA?oc=5",
+      "published_at": "Sun, 15 Mar 2026 15:44:00 GMT"
     },
     {
       "headline": "Oscars 2026 winners and recap: 'One Battle After Another' named Best Picture; Jessie Buckley and Michael B. Jordan take home acting awards - Yahoo",
@@ -287,19 +267,29 @@
       "published_at": "Mon, 16 Mar 2026 12:33:28 GMT"
     },
     {
+      "headline": "5 takeaways from France\u2019s local elections - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkNQdERCMk5PVWJfYmc1ay1WVHgyWmhWR3lscGFPX3BVMGtDMTViOEZPd21iUXlTeF9fak0zdTkwMFl6dTJfMkQwMDh6VkFwVXBfUXJxb0dEbjJGc2JKNFJOblZRQ2VrYl9lZmZBdVdBWUtpVUo5RzQ4eldNa2xUaG5qdFNReGh1aXVGZnRia2lmYmdlb2tPVFNpZEt2UQ?oc=5",
+      "published_at": "Sun, 15 Mar 2026 23:46:00 GMT"
+    },
+    {
+      "headline": "Exclusive: US, China discuss farm goods, managed trade in 'remarkably stable' Paris talks-sources - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaE5MMlpDX3c1T2hSLTRQQ1N1dTJKaXdFYUNNM3hxUTB1OHNVMGliMWlJd3YyOVNlOFlvVzdENVo0c3FsM3NsamNMY1Nud3ltSlRMRVNwRGlhaHJ4ckRrOVczQlRQVDhlMFNPd0x4VWFUZk5GWHFiVGdXSlAyWVRjMDVWMnZrcFp3aUUwOTR5WDZoTEZQVWhCMHFaVHhrdEdfdU5SZjU2Y3dUN2VnS3QzR1NQMGxQRlpyclgwNXJrTmJrekpsZy1UVDYwRDV4LUNZZ29CaEhBMWxDZw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 22:32:42 GMT"
+    },
+    {
       "headline": "Crew of fatal US military crash included Alabama father recently deployed and several from Ohio - Politico",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNlBkQ1NtYi0wcVpRLU1SUnhfU3pyUTVxSGxGYUdMQ2RqVzhHRHpsZmNlUVczRUVtV1pIbDNDd2JCZDBqdWF4UDdKTjU0YVozOFVvSjlHNFRvMEhuZjhoangtRkZYNkhMNHRXeDdjSkg4SE8zUVBULUNVeDBKVDk3dUsyQWplM2FfVDBPR3JVQWdZMlBUaUR5NEZwbXJyemk3NnFFdjNxTEFQNE5oTjNSa1lmZFNIU1Fwb3V4VDFid29uQ016YXZ5bjVPYnRjZHA5OUllQWdLRXlBN0RZSGc?oc=5",
       "published_at": "Sun, 15 Mar 2026 11:06:26 GMT"
     },
     {
-      "headline": "US airline CEOs urge Congress to end standoff, pay airport security officers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG9iODRZRDIzMzd1LVlWZUpPMzBaYUVUUDZFQlFjUXZIY25Nbjd6d083dXlGUDR2WnItMk9oYy1EZGV6dVZnaGdDS3ZqNU5yR3hRcnVyYzZwVTVVSmp6Vkx1VGljVVlFOUNZUklabDJhYmRSbW9MdnZWQkhibHFnUG84b3pJY3hnOFRVYWZQTlVlRFMxTVpxMVpGZi1XTWU2NjU2eDUzRVppQjhDcDcySGRFWDdodDZk?oc=5",
-      "published_at": "Sun, 15 Mar 2026 10:03:51 GMT"
+      "headline": "The Iran War\u2019s Global Reach - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nUjlkQzJKTndaeGZDeVRHMnhqNEdZZTJXQUhXNm04a0JVUW9XNkJ4UmYta2h2ZHJhMGlXdnFZR3FMalNkVkhRX1d2T0tPU19UaGZZRDNIbnBnMFlpaU41cWtSTTJ5ZzE5OUxXR1VHeTFIVzV3YWRjRThyMk1pZw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 06:31:00 GMT"
     },
     {
-      "headline": "Schools close across Central Virginia as Monday's forecast severe weather approaches - WSET",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2dabjRGWWdpNWt4OFd1YUUzMXRkb0hWWk15Q09iM3VJMk44TFlCQ3FRTkFoZ1RpYnBEMHNUMHlDXzVtQ0pzdkFfd0k4UWpjWktvOUZFSkhOb0hKMFRZZ3lZVHFDWk9OMHYxOS1JQThRc2RRQ3dVTGRSSnpSQlZmUlZzUUI0NXZwY2x3QXdMMUFGX2pIT1RnM0dDc2dQakNXZFA4a2pNVk9vTXFHUGJMYlc5XzVRR1otWU5iY2lGOA?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:23:34 GMT"
+      "headline": "Charlotte region school closings: Tracking closures for March 16, 2026 - WBTV",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcURNZVYxRGRsc0pfZ1lmanhHX1V4dHJtSGRGZ04yRXdibjh1S1pkOUl6Njl1ZTNjUVA0XzFjUHBZRjRiVldhM1FPb0FqajlBTmZ4ejg2WlFNNVdrQWtjTWtESFZRSzM2R24yaGZEOXU0VS1RZ0hlQ1dITFhIVDZPd2U1V0owcWNOSG5ob3dDOWJNeDYtWDFGYkdiQUZlUQ?oc=5",
+      "published_at": "Sun, 15 Mar 2026 22:49:00 GMT"
     },
     {
       "headline": "Israeli soldiers fire on family car in occupied West Bank, killing 4 - NPR",
@@ -307,29 +297,14 @@
       "published_at": "Sun, 15 Mar 2026 11:41:22 GMT"
     },
     {
-      "headline": "USA\u2019s win over Dominican Republic in WBC comes with pair of controversial calls: \u2018Not a strike\u2019 - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUI3X28zQ1FGZDMzRlV1SmpJSnZ5SFlaUElGLTYwTTFIU192d1czY3JTN0tZM1Q5RVgtV0phN01KTWlwLTVoNnluSFNSYmNwSm9jQ0RCVE1BcjZmZ3d1Nmg4M2R6QXA2NXNka0JNcS1vdXlpZWl0cFpfZFBKY29XU0Y4VHlkYzQ?oc=5",
-      "published_at": "Mon, 16 Mar 2026 05:26:00 GMT"
+      "headline": "Oil prices climb despite Trump moves to temper market - Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52OWM1N3RUakt0TjN5S25GNVlJbEdFTWpPVHl5LVBzRFQxYUJzNV9HcU1qbDduRy1rMkJMUW9RbkZ5T3hCdks4SnFzcEFWZlRGa2l5RG0tdURUYURTSUhzV1loZzE3M2ZOdWlxRVpoMA?oc=5",
+      "published_at": "Mon, 16 Mar 2026 06:17:32 GMT"
     },
     {
-      "headline": "US markets solidly higher while oil trades around $100 as Iran attacks more Gulf targets - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnZmVU1NOER1RWtYR1BrUmdYSXdvUFh3by1mU0d3d2p3OC1IdzNGY3VYY2VWY3JnT3BjSHREM0VydTVZTDBmLWlsMnlJMjh6cFZZRjRvdFpzTjI5N1ZiNXhDQXhDM0M3V1JLZWx3andZUnZ4Q0hjdjI1dkowVWZoc284SnVMWjlZeERBUlpyc0FxVzQ?oc=5",
-      "published_at": "Mon, 16 Mar 2026 12:07:00 GMT"
-    },
-    {
-      "headline": "The Iran war may be about to escalate - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVFmdlhodDRBbWhYTFVwNnNaejEtNVJ2RWl0NV96MDBrUGM0RDNHd2dJekg2UWNpVVk1ZUxycVQtRWNEUUViOWpwTjdUUnFwUDQtbmN4NkZDMjZXZF9TUXpMX3VHakl1bUFjVF9JMjdad2xSS3VwTktpaExLTk1lU3A0ekxjWG9kM2RzaTA4RnRnNmF3M0ktdXZzQVNKdw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 17:54:54 GMT"
-    },
-    {
-      "headline": "Oscars 2026: Rose Byrne, Zoe Salda\u00f1a and Damson Idris Top the Best-Dressed List - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2xNX2dFcEpCVHFGampZeklHNjRXTFMzRVNjOTg2blRtWXhHRnBwMWJ0MS03MjdmRDlNUFRTd1kyb0JWdU5EdVQxQXN1Vkg1cmNJci00V2pzWDFuMTRJTzRJMmd5LWVkTlF2N1BZNkxHVXRIblpNaHA1N0VVazdOOUhYd3RNTEFvaG8yT096dXE0bjJjNFln?oc=5",
-      "published_at": "Mon, 16 Mar 2026 03:36:56 GMT"
-    },
-    {
-      "headline": "Afghan man with pending asylum case dies in ICE custody in Dallas - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXBETDBvNjJfRjhNM0RubVlQb0dPOFk5NHZubWJoWUJiUGZvWmlPYkNlNnl2RnVORHlXWGNuc0hfallwU3FOeml0bkdrdFRYTGlDVlRVTFA3aXNuUTBOM0l3UDNUa0xvZTlVY2pkQW51LVFjNURXTWlnYVZ6REdRUw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 22:18:55 GMT"
+      "headline": "The Small Beauty Details Worth a Second Look at the 2026 Oscars Red Carpet - Vogue",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHlXcWRNYkRIajN6aVVmWThtQ1NKeXBIUy1TR1pDbWdEUjhuWWJCNzl4a0ZDRFFQeko0UF82UXRvb1p0RjlRakdobjlRbjlENlRmU3FPYmVSVjNWWVh1SXlQVVBBendrd2gtQUhQbkxnRDgycEV6NTVqZmFId3B2Sg?oc=5",
+      "published_at": "Mon, 16 Mar 2026 13:02:16 GMT"
     },
     {
       "headline": "Michael B. Jordan Wins the Oscar and Shouts Out Denzel Washington, Halle Berry and More: \u2018I Stand Here Because of the People Who Came Before Me\u2019 - Variety",
@@ -337,59 +312,9 @@
       "published_at": "Mon, 16 Mar 2026 03:31:00 GMT"
     },
     {
-      "headline": "2026 printable March Madness women's bracket - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRm11QUNadTlmMnJJcW9aV0tTMlBqcjRzLXQ4YzRTcnFVdXM4WHZJOXpWOW5rRm1ZbWJ6NTFwNmJwQ2Q3TUJ0dkVpMkRnbFVaV0FDSFlKTlNMUlJHdUEyWEphbWZQY0FoUmFuRlZzWXQ0WW1DbmJhdGtuc1RnazJsai14YkxweGwwQm9CcGtnc21SbGlWcGRjUVJtbURYTHJ0Ul9RbEI5NWUydE9wcGxxT2pxU1BaMW9QZ1VpNVBIZnd5OXF4RFhsOWpVY1JURlh1NDNfbFp2NjRUTXY2NURWcHdhY0VmQmpUNjlmekY2eTM?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:50:00 GMT"
-    },
-    {
-      "headline": "'KPop Demon Hunters' \"Golden\" Team Cut Off At Oscars: They React - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR3pYbU5qMzNtVGNKRUxrMHB1TnpWMmlEY3RVbzVESlVlRzlLSW5aai0wd3lFOUlOa1NqaUNoWThJUWdyVDJZdi1EZ0YwNmc0TmhfcVhJQ2d6QThueXpCdkFtUDZvdXNSSnYyLXFGVWkzcVY1dXRVczFHMFRHREh1UkZXTHB1dw?oc=5",
-      "published_at": "Mon, 16 Mar 2026 03:37:00 GMT"
-    },
-    {
-      "headline": "Conan O'Brien retains his throne as King of the Oscars with opening monologue - Los Angeles Times - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlRSVFBGWWhuemU3YndTcG5NS0RrMkc0Njg3RkZDMExDMExYSXVaWTVPZFlkS0U1UEpJN0h0SE5OMHFpRXpVUVFMZ3lCelRxWVhsUHlJdUJlT0c0bkhTcDRCYTB1VFF3NVdFOWV6aXlwVS0zVnY4anFHeEl5cHNYcWNnM0JSSWlmMXZjZmNPVm10U18tMGdvcm5ZWUd0azFDcW9rNDNtdWxsWE0?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:40:25 GMT"
-    },
-    {
-      "headline": "Lady Vols Earn 44th Straight NCAA Bid, Tabbed For Rematch Vs. NC State - University of Tennessee Athletics",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVVscDFpbGhnUENoYXlQbU9TR195bHJIR1N2Q1Bvb3lfZWU2eERNemotdmNEbHlfMW1OblBFbVpHdmRLblBfUmR4ZzF4YlFsTXZ0RDBHVTVsb3pvQ2tXWE5iTXZqY0xlcmVWMmVLYjc1WDYyV011TlU4akFpOXVBdzd6VDk3T1Y4ak1xSlViY3BYYktqblZJWGxQaHhQYlZmekxLOVE1SlN2dDlhN2tZWXJLaGdXS2otdjdLWUZKNA?oc=5",
-      "published_at": "Mon, 16 Mar 2026 09:15:08 GMT"
-    },
-    {
-      "headline": "5th member of Iranian women's soccer team gives up asylum in Australia - NPR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3lFZmJXMklSVmVtTk1kS2Y2VENQdk9wS0pyam91MmZNcWw1Z1hmVDdmWG15cGRaQW04cTl2VVlHZklsS19QSzVFT3M5VlBDQ1lJSTVUaktFTkpKNE9LYy05cTJzVFUyamo3RGV1cGpSV25pZlpUSU55VENUYWZZbVVuMnRMNmc2cUhWN0hyMUsxUEh3MTZZdlZJQUlqTUQ5N2JDbnh4ZG8tenk2VDV2REtR?oc=5",
-      "published_at": "Mon, 16 Mar 2026 06:18:35 GMT"
-    },
-    {
-      "headline": "Men's 2026 March Madness NCAA tournament forecast bracket - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenN4WVVTazgwVVZobWdBYUxvTlhCVkFMbGl4aUtzX2tqVlAwbHN1ejFPZUlqdFhQeU9pakxDamo2OUZRbThnNDJ4NUpVM2I3eERSRzFtNmNaNTRQWGVsVG83OFdGcDZTYnRyenAwQk9LZHd0TzNqdlZuQlBjRDhrS2oxTUNkeEJ2Y2U4dTFMZ0xKVHhrUHhFZXRERFRhMWNHUDlzRg?oc=5",
-      "published_at": "Sun, 15 Mar 2026 23:49:28 GMT"
-    },
-    {
-      "headline": "How many Oscars did 'Sinners' win? - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZFVJdXVUQWRFUWxfUVZyWFZUT2hJalNvZDZLb04xQ3g2ZlB4ME4tOGZ6UnROeWU5WEcwbHhZWnhNWmVERmhxdHpBUm1mZ0xEN1oycF9ybUNDcUhvakpmbml5WEpEUVI1TE0tLQ?oc=5",
-      "published_at": "Mon, 16 Mar 2026 11:13:14 GMT"
-    },
-    {
-      "headline": "Billy Crystal is joined by stars of Rob Reiner\u2019s biggest films in touching Oscars tribute - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVlUV1d5d3VvZ2RWUzRBd2JpZG84NnZ2Y05UX185WDBCQmQ5ZTdna0EyQWlxUVpjU1N3Ynk4bHFsazdKa1BWVU5JLVYzazF3eGtVcXFvY0Y3alZlQkJfT0NvWGtXcHRoYm5VMFdvQnNDTG5Ca2RnM3lYc3RIZnhDY1FQOFM5dlRRckQ5cXExY2ZacUZ5UzBnZTZjN0JrLTBXdmxIUjlnaUxPZktBS1ZZaDZsbS12dE9pN3dmRzRzdFRaT0stdWxhbDdSOXQwLXVvMWNJRi1VeFFBUWxRZllXb09CSHNVZWFsWWc?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:14:00 GMT"
-    },
-    {
-      "headline": "Postseason WNIT announces 48-team field for 2026 event - Women's NIT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3hTdEYwNmltLVV3OG1nQkh0NVd3OW5JTmZ1blE1d1pfakg0R0FlcXZUQkdvcVM3TmdfUnBreFVGVUo4Y25Cc1N2dnByX3Jac3B2UWtkV05lamFoR2YyQzVPbkhyWDEwcktUMXZiMWpPWkdxdG5tSjgyeGwxV3lnbE9LNUhPdUl3ZWNNd0NfbWd5WnBsLWRxZE9ZNzlTbXc?oc=5",
-      "published_at": "Mon, 16 Mar 2026 01:34:35 GMT"
-    },
-    {
-      "headline": "Denny Hamlin overcomes penalty to win NASCAR Cup race at Las Vegas - Jayski's NASCAR Silly Season Site",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzhkeGhBb1RxZ2JJaUIzeWRZUk1yeDJpNzA1NmNUVEZlZ0NYOEVmNzdDNEU4ZDNlYnhISHNrZ3JEX05yazJmR09zLUMxcERZT3RTQXJJdE9Xbl84NjRoNXRWUnBlSmJHQ1dOV25hV3J3dENTQnJQVTJVQnpPOHNDeVVGQl80ck9rOGRGOEtVYjB2VTQ0RGs5eGsyN0dBVXNFM3Vr?oc=5",
-      "published_at": "Mon, 16 Mar 2026 00:13:36 GMT"
-    },
-    {
-      "headline": "'It's a tie, I'm not joking' - unusual Oscars moment sees two films share award - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VTFB1RkRSSVluVTBEa0NFM202elhRMmoyY09rSHFRU080TldDdDNoVVE5b0hkenJLUjBkWWR1aW1LT3lIMFZTR0dmc0Y3NFFENlp4cFhsMjhodw?oc=5",
-      "published_at": "Mon, 16 Mar 2026 02:47:47 GMT"
+      "headline": "Men's NCAA basketball tournament: Odds, spreads and totals for every game of the first round - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2FQdkUtVnlVdEk2Y2VPN0dXZk1ROUNmYUR4SmRRcDZKYThlTVJnXzBKZ0N4WlNnMGJhMkk1NGx1NjhFLXZwdU1XdTczTVVSekpLNFRCcWl3V2hCb21KNERDaHY1QTVWRmlSaGc4OTVoSHcyTFRBdl90UUZLVnF1Nk9uZlotdFg1aV80am9yRGZvVDdTRkdxaFE4ZG1TekZkbEY4?oc=5",
+      "published_at": "Mon, 16 Mar 2026 03:00:00 GMT"
     },
     {
       "headline": "Oil and gas prices are soaring. Some countries are ready with solar panels and EVs - NPR",
@@ -397,24 +322,89 @@
       "published_at": "Mon, 16 Mar 2026 09:00:00 GMT"
     },
     {
-      "headline": "Lindor feels 'pretty much like myself' in reassuring spring debut - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRGlteG9sWmx2NWl3ZHM0YU5SemZxMFNZd0pyZW84aEdXcF9UOE1PbjFhTEg0ajZRSDhHVUd4dmdTRDQwOTd2Tm5jT0NleUJpQWhfaVg4Q0Z4MG01b3FmZ042VWdRSi1xejNSVw?oc=5",
-      "published_at": "Sun, 15 Mar 2026 22:18:44 GMT"
+      "headline": "USA\u2019s win over Dominican Republic in WBC comes with pair of controversial calls: \u2018Not a strike\u2019 - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUI3X28zQ1FGZDMzRlV1SmpJSnZ5SFlaUElGLTYwTTFIU192d1czY3JTN0tZM1Q5RVgtV0phN01KTWlwLTVoNnluSFNSYmNwSm9jQ0RCVE1BcjZmZ3d1Nmg4M2R6QXA2NXNka0JNcS1vdXlpZWl0cFpfZFBKY29XU0Y4VHlkYzQ?oc=5",
+      "published_at": "Mon, 16 Mar 2026 05:26:00 GMT"
+    },
+    {
+      "headline": "Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTViXzVsZ0EySkFLVmdpdlNCcTJEYmtETC1qRTY1a3plaHZJeVdaeW1CeUk0a294cXp1cXlHV0VNS1pucHh2ak91MGE1QThKaHJfUGtTNWdCM0Y5VmF6RGo4WHJ1QW1uOWRMb2ZILUFlQTFhM3lZaWdxaE81SC12RA?oc=5",
+      "published_at": "Mon, 16 Mar 2026 10:09:07 GMT"
+    },
+    {
+      "headline": "'KPop Demon Hunters' \"Golden\" Team Cut Off At Oscars: They React - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR3pYbU5qMzNtVGNKRUxrMHB1TnpWMmlEY3RVbzVESlVlRzlLSW5aai0wd3lFOUlOa1NqaUNoWThJUWdyVDJZdi1EZ0YwNmc0TmhfcVhJQ2d6QThueXpCdkFtUDZvdXNSSnYyLXFGVWkzcVY1dXRVczFHMFRHREh1UkZXTHB1dw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 03:37:00 GMT"
+    },
+    {
+      "headline": "Lady Vols Earn 44th Straight NCAA Bid, Tabbed For Rematch Vs. NC State - University of Tennessee Athletics",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVVscDFpbGhnUENoYXlQbU9TR195bHJIR1N2Q1Bvb3lfZWU2eERNemotdmNEbHlfMW1OblBFbVpHdmRLblBfUmR4ZzF4YlFsTXZ0RDBHVTVsb3pvQ2tXWE5iTXZqY0xlcmVWMmVLYjc1WDYyV011TlU4akFpOXVBdzd6VDk3T1Y4ak1xSlViY3BYYktqblZJWGxQaHhQYlZmekxLOVE1SlN2dDlhN2tZWXJLaGdXS2otdjdLWUZKNA?oc=5",
+      "published_at": "Mon, 16 Mar 2026 09:15:08 GMT"
+    },
+    {
+      "headline": "Fifth member of Iranian women's soccer team gives up asylum in Australia - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnhVYlBzZjg4OHpJX1p4Tk9VOVd5aFJTWWx5NGc3LTRCdFhXYjZLOTU5NzZyNDBCZmJwYTFxWldid25LLWlGdjdFV01ROXhtRG5LSjlHeVBSN2JBaEVtU3NpSFh2UWxxano3Yk42c3U4Q2VaOWE0LTh2TVhtOWVyN1hLc1dXN1FqdDZYY1Jnc24tWjl3ODY2VUswVDhnMmREbnVlX1gzV25TQdIBrwFBVV95cUxQUjlsTlBjdGlvdmh0aHpXaUdqNmJWeHNiTDYyYVRrWmZiYkdLWnVUTk9qaXN6OUNLNUJGcmpaMTJUZHV1YXBBdG9wYVhvY24zVDdpU0JDNHpVN1oxLV9aNGh3OUFoWERIUWdRNGl3S0FBdXlubExfd1BmMXdiR1VPa3FZMDh6aUV1OVdON1JNY3ZiMG1EMC01ek5Zel90Y0lSczdPTDRKanlDb245UUJN?oc=5",
+      "published_at": "Sun, 15 Mar 2026 22:50:18 GMT"
+    },
+    {
+      "headline": "Conan O'Brien Oscars Monologue Best Jokes: Timoth\u00e9e Chalamet & More - Variety",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQenNMSDNnR0Zmd05MS3pJbV84a1hVTFBGbjFrREFSSE1WWkc4NXhNQ3MxLUZmai1hcEdKQTdsZEdDQ2hKX215RTlEY0ZvTEMyREM0dFVBSGQyWmdwbUl5QWt4VTBGbGd5Vkh4akZFdExlOUFBY2NGVUJPd0F5cktCTXV6MHJfaWZub2JoVE05Y3htZkhHS1JFVS1mbi0yZw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 00:22:00 GMT"
+    },
+    {
+      "headline": "Billy Crystal is joined by stars of Rob Reiner\u2019s biggest films in touching Oscars tribute - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVlUV1d5d3VvZ2RWUzRBd2JpZG84NnZ2Y05UX185WDBCQmQ5ZTdna0EyQWlxUVpjU1N3Ynk4bHFsazdKa1BWVU5JLVYzazF3eGtVcXFvY0Y3alZlQkJfT0NvWGtXcHRoYm5VMFdvQnNDTG5Ca2RnM3lYc3RIZnhDY1FQOFM5dlRRckQ5cXExY2ZacUZ5UzBnZTZjN0JrLTBXdmxIUjlnaUxPZktBS1ZZaDZsbS12dE9pN3dmRzRzdFRaT0stdWxhbDdSOXQwLXVvMWNJRi1VeFFBUWxRZllXb09CSHNVZWFsWWc?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:14:00 GMT"
+    },
+    {
+      "headline": "How many Oscars did 'Sinners' win? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZFVJdXVUQWRFUWxfUVZyWFZUT2hJalNvZDZLb04xQ3g2ZlB4ME4tOGZ6UnROeWU5WEcwbHhZWnhNWmVERmhxdHpBUm1mZ0xEN1oycF9ybUNDcUhvakpmbml5WEpEUVI1TE0tLQ?oc=5",
+      "published_at": "Mon, 16 Mar 2026 11:13:14 GMT"
+    },
+    {
+      "headline": "2026 printable March Madness women's bracket - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRm11QUNadTlmMnJJcW9aV0tTMlBqcjRzLXQ4YzRTcnFVdXM4WHZJOXpWOW5rRm1ZbWJ6NTFwNmJwQ2Q3TUJ0dkVpMkRnbFVaV0FDSFlKTlNMUlJHdUEyWEphbWZQY0FoUmFuRlZzWXQ0WW1DbmJhdGtuc1RnazJsai14YkxweGwwQm9CcGtnc21SbGlWcGRjUVJtbURYTHJ0Ul9RbEI5NWUydE9wcGxxT2pxU1BaMW9QZ1VpNVBIZnd5OXF4RFhsOWpVY1JURlh1NDNfbFp2NjRUTXY2NURWcHdhY0VmQmpUNjlmekY2eTM?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:50:00 GMT"
+    },
+    {
+      "headline": "Postseason WNIT announces 48-team field for 2026 event - Women's NIT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3hTdEYwNmltLVV3OG1nQkh0NVd3OW5JTmZ1blE1d1pfakg0R0FlcXZUQkdvcVM3TmdfUnBreFVGVUo4Y25Cc1N2dnByX3Jac3B2UWtkV05lamFoR2YyQzVPbkhyWDEwcktUMXZiMWpPWkdxdG5tSjgyeGwxV3lnbE9LNUhPdUl3ZWNNd0NfbWd5WnBsLWRxZE9ZNzlTbXc?oc=5",
+      "published_at": "Mon, 16 Mar 2026 01:34:35 GMT"
+    },
+    {
+      "headline": "'It's a tie, I'm not joking' - unusual Oscars moment sees two films share award - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VTFB1RkRSSVluVTBEa0NFM202elhRMmoyY09rSHFRU080TldDdDNoVVE5b0hkenJLUjBkWWR1aW1LT3lIMFZTR0dmc0Y3NFFENlp4cFhsMjhodw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 02:47:47 GMT"
     },
     {
       "headline": "The women of \"Sinners,\" \"K-Pop Demon Hunters\" make Oscars history - Axios",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXM5SExUTTlvSEhRbllkR1ptLV9qdE5Xdlp6VFpjSUdPU3hFVTlYT3pTN2xZcHUxRFgtcTZtanNkWG40X28tMXpXcHJJelJLVlhTRjF3YXN1dnNLSlpaejAzb2pQbXVIbU5tQmtmNnE0SEVLd0c2bFc2d3ZFRU5OR1drbTZnUkt3a2xJdkZpdw?oc=5",
-      "published_at": "Mon, 16 Mar 2026 04:12:10 GMT"
+      "published_at": "Mon, 16 Mar 2026 04:03:49 GMT"
+    },
+    {
+      "headline": "Ballet, Dead? Not on the Oscars Stage, Where Misty Copeland Just Wore a Piece of Dance History - Vogue",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVllXby1MT2VBNXNHZU1YeGI0RDNscjl6cEtza0RMR1NOY1I5TFdNU2VMdVV5UzVXazNYTzdxckJzSmY5V0lpdXQ4czlNQ1RfZUlfOE5nVUo4bjJtbkRrNkZJQWpVVHBRUlMtQmJwU1BfeWJhSFlNZHVEWU5xTHExUC1CbmxvRmNn?oc=5",
+      "published_at": "Sun, 15 Mar 2026 23:44:22 GMT"
     },
     {
       "headline": "The Iran war is a new test of America's economic superpower - Axios",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGcEN5WGp2enpEbkdkVmRHTFE2NzE5Qkp0TGNCeDV1YTBXWmI0MlJpWFVCcEJZVEY3Z0IyNDNBNFc2M3hWVmNnWElsVEJfUXhrSUFzN2VfaHZNeGRMT2d2OXRpNk9wdmRJQ3JxVjJVbEk?oc=5",
-      "published_at": "Mon, 16 Mar 2026 00:50:13 GMT"
+      "published_at": "Sun, 15 Mar 2026 13:16:49 GMT"
     },
     {
-      "headline": "Sean Penn Wins Best Supporting Actor for \u2018One Battle After Another\u2019 but Skips Oscars - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScUMwSWZLNUlGaWt2Q2psNFVUcHZ4SVAwMVZwM2lKcXBRdFFBeWZxTlZZR3ROV3RRc2ZuNHpjQWUzd09KSGMzdUVfSUp2dnd3c1pOaXdkM21IYnhCNThxTEo1VXpXNXpVVndGcndSa2U?oc=5",
-      "published_at": "Mon, 16 Mar 2026 00:40:07 GMT"
+      "headline": "Eagles re-signing tight end Dallas Goedert to 1-year deal: Sources - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkQ3dmlxX25kcWpYNUdaN1VUbmZCcG80TVdTenNUUjh2UEtJb0ltaHNoZmlsajMxUmROS0p3YjNNOWt1VEVJR3U4UXRlaDBWVFBoWTNnYTBUX0ExTlhfQWhyV1hHZmpqTXBVN3Q0dThvMEhhZ1RUek5LdWNqSHRCQWJKaVdIaUZhVGRsaXB2YnZaODktUnBiYjRTZw?oc=5",
+      "published_at": "Sun, 15 Mar 2026 22:42:25 GMT"
+    },
+    {
+      "headline": "Flying in America is about to get more expensive and less fun - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWVidEQ5cnVVRTFZNlZYZ0huZGsyUjMxMVRGSmNKMHo5TTZpY0hPZlRZMVNiMzFkNk5jRmRFUUtTOVlkMTg5NDR3YjFXN1h3SGdaMDRvYTRsSTd5a0VLNDh6N082SzdheUwyeUxXV19seF82UkZCS1pjQkxVdEVScjFsXzRTWWFwYzY0Vw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 09:00:00 GMT"
+    },
+    {
+      "headline": "Amazon\u2019s Big Spring Sale is 9 days away \u2014 here\u2019s who can shop, plus 25+ actually worthwhile early deals - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlhONDFNM3M1QVZMOHI3M0hJTUg0WFB4NE1PZjRqMW5xUTNmU2d1T19odmI2amJGbzlFV1FuMS1zMW1VWWJfZVpZbzBWR2ljbDhzZUk3d2s2Qm1FNmhva29COXJyTzNVSlNiOXI1R1NDUkpnaDJCcHJoSXJxM2pSVDc3R1R0Yk9hak9mWHlBd1RPTmIw?oc=5",
+      "published_at": "Mon, 16 Mar 2026 05:00:00 GMT"
     },
     {
       "headline": "\u2018I think she will be loyal\u2019: Jeffrey Epstein\u2019s role in Peter Attia\u2019s rise - Politico",
