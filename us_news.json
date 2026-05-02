@@ -1,320 +1,15 @@
 {
-  "fetched_at": "2026-05-02T01:27:38.017404+00:00",
+  "fetched_at": "2026-05-02T04:37:21.307699+00:00",
   "stories": [
     {
-      "headline": "Federal Appeals Court Temporarily Halts Abortion Pills by Mail - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHbXgxZ0l6NG9kTUVDRi1JZlhTOEUwOUxQZVlodHV3VmJ0M0htd3JzcHhiLThieWtCOXBfWkZCNnNZQmlrUnlGMHNvNHVBM0tNV0dCVmcxcUZZa3pqOWF1SmluYk8xNVZESThIOTNvRDhGbHFEOWU4VjF3?oc=5",
-      "published_at": "Sat, 02 May 2026 00:45:29 GMT"
-    },
-    {
-      "headline": "Republicans Want Tennessee\u2019s Last Democratic House District - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlNrbFBlMTR6RDFpSGthcVVZbjBYamJWNU9FNGVpMTJvaDF6U1M2bkNWWTZxZmF1WXllYkpac1pLbzhGcFdrVk1uY1ItMU9fVG9lSHNmTERJYUdOSGhyaWtfQzEtNXVwSEF3dXJLajRDeU94RGw2Sm1SY2VFQ3BEQU0yZzFUXzBEemlfT0hmSHN4U0NBeGpXZFlOMG5mRlRUTS1URzlaaDZCSVE5MGlJ?oc=5",
-      "published_at": "Fri, 01 May 2026 22:48:43 GMT"
-    },
-    {
-      "headline": "Ex-Fla. congressman and Rubio ally convicted of secretly lobbying for Venezuela - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzJMSXhlZ3FUVnloOGFMbzB3V3VLb1U5V1lFX0VRaXhod1p3VFdERk5palZCQnpuSmNkRkpJS0lHUFJENFVEYXl5ZjM5Um9mcV9BdVZnLXZ6dnNLNDJiSDZtZk1zMlZicmw5M1poMTFaZEFyWFFNbFAyUlBRNlBEZm10aXR6aVV2QTRtU2daWHBFeUl1WExxQW1nVnd0SDZZ?oc=5",
-      "published_at": "Sat, 02 May 2026 00:58:30 GMT"
-    },
-    {
-      "headline": "Voting rights groups sue to block Louisiana from suspending primary elections - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMW9jZWN0UnFsMFp0VzBJUHhSVEN0a01rbndmU1JtUURoTnNEMjkwdmx6TGpFT3d6YnZHbWV6SXJTbjJHNHd0Qnd6UWpqZ3dDYVJZaVlnREpvT3hHOUZQUHVDNmZNR29IaDlwc0MyUF9CeDdxbElWa2xYcW83Znk5Y3RvRl9GOWEyeHh0aFhpMlZtNU0?oc=5",
-      "published_at": "Fri, 01 May 2026 18:38:00 GMT"
-    },
-    {
-      "headline": "Trump Tells Congress Iran War Is \u2018Terminated,\u2019 Arguing He Doesn\u2019t Need Approval To Continue - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlRZd0RUTVVXajdicFp4aVp2b01nbVNXRkRPUFRlMVFCa3RwbmVvaDhqdEpTYWYtQzBWZmlMeW8xWVVIZjE1Ymtna054QnFrZDBvNWZSTHZyMTloRkZiMXFhN1ZrQ1ZYaUhOSzRTZ3dzTXdCS1FKUk1wWTVkODhYand3aVZxakJYRld5X3ZORWFxck5VcllLd0pFLTNCZWJhbHpjdF9fU0tCUVZHSkdSOElaekFtSGRNVjB2ZXVQbXZVN2hrSXBVMV9zWmFkXzdyNTRB?oc=5",
-      "published_at": "Fri, 01 May 2026 20:16:00 GMT"
-    },
-    {
-      "headline": "\u2018The Most Bipartisan Issue Since Beer\u2019: Opposition to Data Centers - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaklQaHEyT2JvdFZKWFRpVXZ1Y3E4RHEwUUVOUHFtRG1aWGdFVTRuT2lmbFN0ZmF4WUJrRkJlTTRtbG5LZXVmeDlzOVk1d2xWRHp4RGVXb3o4Q3djMUdkLS1DTmpZOUhjOTlnLThuSXRnUzlab1l0ZzdtLVgxY09JLXRvdmd2Um8yQnNUTk5RLTA?oc=5",
-      "published_at": "Fri, 01 May 2026 19:52:12 GMT"
-    },
-    {
-      "headline": "You Might Be Having a Strange Reaction to the Trump Assassination Attempt. You\u2019re Not Alone. - Slate",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDRLcnFOcWJmRHdyQUpvczZ2Umt6Rng2S3B6emJ3dUM1cnpKYmhOSHJzX00xMFNZMGFUc3dxUXJCZzF6dDVpdkVwdXJzZDF0a29VY19jNXRCd2ZVUDRvSmtLaGQ1UklsNWhUNVcyTDNTN1NERFpzdUk5Y3RqY01uUW16VXV3eVZvUkFCcDlhcmxabl9lVWc?oc=5",
-      "published_at": "Fri, 01 May 2026 15:46:00 GMT"
-    },
-    {
-      "headline": "How Normie Pundits Paved the Way for the Supreme Court Voting Rights Disaster - Slate",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFZiNjhFbGZPdXJHck9McUQtcmJMY3lHT19abGMtYTRaMVQ0SF9uMWZ2TVQ0bWJEeUExT052ZVRfUDJtclV1QWhKUV9YU1U0RVRBYnRDMnlpbm5DTXJUSGhrNjNKODU4VWwwM2tLN3B3clZ0VnhOdFJFQzl1RU8xUW9ONGlaeGl1cVc4Rm9hNG4wc0hjUzM4?oc=5",
-      "published_at": "Fri, 01 May 2026 16:30:00 GMT"
-    },
-    {
-      "headline": "Restless Democrats challenge party establishment while trying to loosen Trump's grip on Washington - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGQyVkhjZjVwejdaVzdqUGVSQ2FnUjN2OElkZVNHUnhKYnhpQ0VQVGdqd3VrREIwM05XOTJpbnRad1dqaWlfSERncVBqRExWZXZPSnVWS2lGWGZnRW9oTUtmUE0zLU9OcDRZbFg2bUNOYTVzUDcyTVo1Q0hjSlZrelI1aGYyMGEyaDYyZFFBLTc0TjBnQ0Z6d1g2U0o5cUVWRnFKdzVWdnZPd21yekt5WjYydHlPcDFCQ2c?oc=5",
-      "published_at": "Fri, 01 May 2026 18:27:00 GMT"
-    },
-    {
-      "headline": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ROE1iY2thZnk4M3dtOFlLRkw0aUhiOXpmWmEyNlRFeTlsUlBRM3ZDTTlWaTZ5dkEyY3NOb3VNZE5aVmJIbkw2aVoxZlJ1QTh5c0JlTm02OUhXS2lCZTBOdUxWX1JaUGJOc2MzSnA2SzNvLXVMV2Z1eE14cWw?oc=5",
-      "published_at": "Fri, 01 May 2026 17:31:00 GMT"
-    },
-    {
-      "headline": "Body found in Tampa Bay identified as 2nd missing University of South Florida doctoral student - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHVpOVQySkxwTVRVOW83SWtkVU5MZ0RRVkNYT1NOS2k2VTZWdWRnaXNOVFd6amxPRlhsbWlicVd1ZTZqc01UY0duUlBLV3RodzZ0RUdxWXNoWWFNMzNMRkFfMzAyNjc4bzJncXBpejBSN0I3Qm9kSXpuY2pray1qdl8xcjdTQmhGWDVJT1JlS2E4RGF3ZmNGTUNsdHNTS3pqd3k5RdIBqgFBVV95cUxQYk4zaVRTMnE5S1doMW1NaW8zYWN4SVFCQ0hLNEFnU0dMemdEc19qRE9JTXo1MS1JZURLaFo0dk9ObC1zRjZUaUhINFg0NW5mTDBGWU1ESVcwX3BTV3FyM3FzQ2tDWjg4cWZLMGl4WFUtT3pXbUc5M0hjV3BKb293QTBKM3Z5ZDExQUVKOTJYMk5ERUlveFdSeDJjN05fTVR4dXF0TXVXR0kwdw?oc=5",
-      "published_at": "Fri, 01 May 2026 17:47:00 GMT"
-    },
-    {
-      "headline": "Trump Threatens Higher Tariffs on European Cars - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByZWlWUUdNb2plQUlTX2hFRGdWZmlzVlhJejlWY0pRU3RZMnlZamRtbVkzV2FQZFdXQk5ldk9zYnZKODN4SUQ3UTVGS2pFSFNrV3BHUks3ZGlKRTVIdndUOXgzQzhjRVdBSlVxVS1wbkpHRndCSkE2QzI4LU9kQQ?oc=5",
-      "published_at": "Fri, 01 May 2026 19:36:45 GMT"
-    },
-    {
-      "headline": "Cassidy\u2019s uphill reelection race is getting steeper - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQal9DWk1pbzNrbnozS3JZYVhkUW5mZDdQS1BxVXFKdkhqYjlBN2VFZTBKc080dEpicmUxSFBwdDBPX2U3aXd3VWV0UmxXWVpxY3Z6UzE1NllwZnAwSnEzb1dodmEzUThTLWluZTBtblhDMWpoNUJ4bU9rcVMyLXVSc1VyQUtTQ0syQTNMOGhiVkJiYVE?oc=5",
-      "published_at": "Fri, 01 May 2026 20:20:31 GMT"
-    },
-    {
-      "headline": "FACT FOCUS: Why nearly 4.3 million people are no longer receiving food stamps - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUxxeWplUC10YVhqSWVKZ0xGV2JLQzN1bjdwV0U1QkE0Ujh3OWhmZVlfSFFuV1N3YUxwV1FtcldKcTFBM1FhYVgyejJGUHRTbjMxZTRycEVxVnluVkt4Q0tuMkwySkh5VGZlX0Y3dGZRelA4aGhxRlRkY3hLUjBjSnF4a2hCXy1RY3hIU1VrQmdkVS1LYjNUZHBSbEtEb0EzVFNn?oc=5",
-      "published_at": "Fri, 01 May 2026 22:17:00 GMT"
-    },
-    {
-      "headline": "Ex-FBI Director James Comey faces charges over \"86 47\" post. How strong is the case? - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkVxeDZnbENrV1g3NUtTRldkM0VFbEF1bGc4ZEU2d19JZm1ud2g5XzlXU1BBV3RHUFZrQzFqdDI2NXZmOGw2dWVEVkNrUUtUODNtMTZHb3NMVjRBQVdHMlcydnRnYmVlZy02SzNKb3lwNHF6elpneEZJYUZxZzdfeGhGUdIBiAFBVV95cUxQOVJPTWYyVjVjbG5YTElrNFVERWN6LUVuSTR0MHF0VWhreTBVemtqWncyblBQSEpDNFR0dXl1eDRYUnlHUFJQU09WWnFWZlp6QlpUSGhJTS1ENDZNaXJvVkN5ZUhfVVBiQ1hla3U1Y25scWdRX0FLblM1TE5nVnVuQUx2c01LTnhy?oc=5",
-      "published_at": "Fri, 01 May 2026 16:53:00 GMT"
-    },
-    {
-      "headline": "Trump makes major change to retirement plans: 41 million Americans could be eligible - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFNVT1pOTm9JZXM4RjRXSFFpa05adkw4ckttT2gxUVV0ZVZZVWJuR0o2cXo4V2Q0ZFc2ckVSWlhTemttZTlHamFIWFdSV0N4RnBfZEctSUNVUmc1ckxxaFAzb3VCQWk1MzNIOWNjbUJId2thalJ2R01fd3RrUzdVMnVYMDNCQTFuT2xQRGxWOEd0dWJ1TmhMOVRwOEJONmQtTVVqUm9oLUo5WGZJeElvVUpPWU1URHJhalVZWdIB0AFBVV95cUxQVklIT0huNVphZFB2UERSX3hrN1ZoV1llNFZ6WjZxX1BIOG94MUxuTnkxQUpNWXgtLXY2S25SbWV4bGtCN2NyRFVTc1ZJVnJid1VaZ0lGZ3Fsc2wxdG9STWthT2c2eWVhcGVpbkgyYUt5M19RRHkxZGc0T1FTLVdyQnUyMU1BQUFVTExUVnpiZHFXUXZySDNOd09NeW9BOG5JM094YjN1aW9yTzhSX2oyUTJHREdkYzNrdmVSTkJaMWQ1b3RjcXM2VjFTUGY2a2tO?oc=5",
-      "published_at": "Fri, 01 May 2026 12:31:00 GMT"
-    },
-    {
-      "headline": "Here are DeSantis\u2019 shifting reasons for redistricting \u2014 besides Trump - Tampa Bay Times",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3loS3NtNFpwVG5MNUd3SlpWV1VvZjJyQU1rOEQ0NHJwM2pyaGxPY1NIY0hfNnhaYnlwc1J3X010aXR1Ti1CSlhGY2RHanRTcU9UM2lXbVZCb09aNThqeklGQzNTM3RJMFNwWWxFb1AwLXlrU1F6eXFUM2tQS3VScFNRcG8wVXdzVk8tckRVdXp0c0VzMEhDSkI1VU9IaWNxbnJkWkVSdEdXd1VVSDFvWGZBRnNJOHExdXRhUUZJbw?oc=5",
-      "published_at": "Fri, 01 May 2026 21:43:28 GMT"
-    },
-    {
-      "headline": "5 Victims of Texas Plane Crash Were Traveling to Pickleball Tournament - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFTlVmdU1yamFQRTIyYWN3WDVzT1JjSnNsT0ZsWjlsTnBhZGRwaHhLaFBTbURPTjM5aWJnNWg4SkZoeUJUZkVDRXgxS1ZZdmF4c1RBYlk1a1YzZGc0ekh0TDlUUkxVaEhOTV9OU1VCSEJfS3NKb2c?oc=5",
-      "published_at": "Fri, 01 May 2026 22:59:17 GMT"
-    },
-    {
-      "headline": "Eastern District of Kentucky | Subject Arrested and Federally Charged for Deadly Berea Bank Robbery - Department of Justice (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejZfTjlwWEc5UURmQzVVamE1TG1HaDEzTnhHWF92RXFIeDFXNUNNUDgwTE9ORHVjZnNxTHFsWVRISkZBN2JMRGY4VVRVR0htNFNjXzd0MFRnanBydFZsTHRNZl85VGdFRktXX21QVEpNSDBlY2J6bXZBYkszMnJwaXVqX2hZWHpRVlhzTlVhYkpzS19xWHRRZlIzMHBTVHI1MnhN?oc=5",
-      "published_at": "Fri, 01 May 2026 20:34:00 GMT"
-    },
-    {
-      "headline": "Alabama and Tennessee join rush of southern states moving to redraw maps after Supreme Court ruling - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEkzbU5uT21UT0FaNjVPM2hNVUo4Qy1Gbk96bjczX2pOaFNWUm5tSUNHSmdndmJicFN2QTM5UjRoUTFZcHc3MEZMbm1YLTZxWnFVNmZfRGhZLXZDNXBGUnJVTjR3aWNZS1N3MlM1cHp5a1VNS3p1VWRDNVZub3pJWm5JWEpSVTRoXzhTdk9oc2hPeDhEZ0JtYTJrVQ?oc=5",
-      "published_at": "Fri, 01 May 2026 20:49:45 GMT"
-    },
-    {
-      "headline": "Thousands in US join \u2018no school, no work, no shopping\u2019 May Day protest and economic blackout - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2I5Snp1Wno5RDJWTjhjSFowa0twdDNpMzJweVpVVHNWc2VqUWlHaDJrN18yMDlYbFlVQldDTk9nUUF5U0dOSW04dGtMbEIwZmlOM2FzajdFbEpoU3RlNmw5cE1wSG9lZ2dYU1poa2otVi1BcjIxRVBoUVpndUFYRzNnemNoaEk?oc=5",
-      "published_at": "Fri, 01 May 2026 12:00:00 GMT"
-    },
-    {
-      "headline": "Texas Supreme Court greenlights ban on Delta-8 THC in new ruling - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXRWM1Z2Mkc1NHJQUzlqOGsyaktOSXFNbUxERzZUUkttdDhHZGpmMldHTEZzY09fdDZxeGJJVEtUQVlWSldkZjlQMUNWdWppMGxhTkQxbEFKSTdXZ0E4dWI3eHNhS2VMTUFzeVAyUzRLMzR6Vzk0SGF2WFJfMGlNMjBJcGwyNHVvYUVYeg?oc=5",
-      "published_at": "Fri, 01 May 2026 18:10:04 GMT"
-    },
-    {
-      "headline": "Gov. Jeff Landry Signs Law Blocking Ex-Prisoner Calvin Duncan From Taking Office - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGF1QlFUQW5yRTgwOUpUSVdhczMxX3hmRjdPYU5hbGxLSkFCRDJkbFhPYTNKS1l0RWpCTWtsRmsza1U1QmxZS2NrSGktbEY2YkxDaWttWVVyYXE1WHFPR3VqRE1fSnN3azB1cEMtUmk0akJQWFp1WWhhc1NDYjBSVVdIN1llNURsT2UzaThBN2VfSUhkS0pPckxKTQ?oc=5",
-      "published_at": "Fri, 01 May 2026 22:41:00 GMT"
-    },
-    {
-      "headline": "Aliso Viejo mother now charged with involuntary manslaughter after 81-year-old man dies following e-motorcycle accident - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSnplbkF2WExsYUd2d3c0cVhVb3ZZODFqVDM4QTlBT1JlUTZkMi16MjZFMWhvbFltcDJpeWpCQTk2ZDBvYUlwVmkyLWR3akpKRzBLYlhaTTZCVVJOVUZoLXhrZ1ZEY3Y1WE9IT3ZGdk1XYkVXaURYMjdzNVdjc29lWXItYm51YjNkZE0tWGdpQkFQanJ4TnV5LUFfUUpORTYwNXFid3RkTTFISEwzcHI2VFZjSDNFWHlwbmVNbWVEbGlqUFVLY2ZNbUlGcDUtTlJKbHZmY9IB2gFBVV95cUxNdjR5OXhjbzB2UGEyLVhDOV9fT19sdkx6TFgyRmNobUFBcmpGLVJGa1FLSHg0VVgxTzBMUTZCSXNncG5FLVpvY2NxV2k5XzBnUEpJMm9XN011cFhnbi05RFBOMnNZWHVrSUpVcjhBanFTbnVSRjFVWHliTTBLZ1hyUk9JRTk0MEtOQWRLOVhab3k4eWxrLThwemhsQlEwS0JMcGVCNXVpdEp6SDdvWUJ4WVo3eE5ERG85cm1CM2x1OGl0eTRXempsNlNxbFpxWjFoNW1nRFp2SjVDQQ?oc=5",
-      "published_at": "Fri, 01 May 2026 20:56:57 GMT"
-    },
-    {
-      "headline": "Will Scott Jennings-Adam Mockler On-Air Fight Sidetrack CNN\u2019s \u2018NewsNight\u2019? - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1A2RXgwTFlla04zc0xrRkNndjNrZ1RHQWxWSXVBSDItWU1tUXhOb291cVZYWXZMeElsYUx4RG04QkdNbTlQNDM2a3E5YXlnRVY1OEFnc2c3WGJaZkJnbGx5WldwRTBjeWdEbFNQUzFsQUl6UzN4by01bTdreFBfVmxBX3hVRlYzQ0dYUlQ5bTk0SnV0SExJeWRHQkZCd0g0Mmc?oc=5",
-      "published_at": "Fri, 01 May 2026 15:25:00 GMT"
-    },
-    {
-      "headline": "Nebraska becomes first U.S. state to enact Medicaid work requirements - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXVFRGpobTF0ZmRHdEk2VmFzU0g5MWJsMmtVR1BZbVZzMlJZOUNTTXhLcW40bnpFRHJuYURiVUJpMVVqQVhOQkE4XzJ6ZnFlUU5vd1ptOEZSODh5WnpzdFpOWldSRENjX1ljcHBsZEFEaVB2bFhrdFBCS2RCLTNqcUxqYU1UNWVIZmdwSVFnUUpqUnhZ0gGaAUFVX3lxTE5kTEY5YmlHNmU5N3hqTnZlWlhxUVdhVHZIRGJ4SzVvWmlxSV9VVUl4NFZHNTRZcVdSaE9CRTRDclhkUUpBbkJKM2pNa2lnSGdpSi1KcG1CeEVpMVlOcUNqMEs1VXJub0FXX1FNMUVhbmEwTENfUUhMVDE4T3I5di1TSTZXU1NYSHlPbjU0X0JOaG9fX0pfSFMyTkE?oc=5",
-      "published_at": "Fri, 01 May 2026 16:45:00 GMT"
-    },
-    {
-      "headline": "Trump task force report alleges anti-Christian discrimination under Biden administration - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2Q0cUVCTE5OUFI0bmN3U1NYUEJ2NlJIYmE1ZXJETG5GQWJtRkhDcnJFMDlYejJqZ1BONkJvR3ZxWTBvRkRKbFFOek9QMkp6Wm5IUGluczkxdEM3VXlsYzBkdzdYVTJzSnpMQjNiOERDSkdlM1hQQ09xS2xSX2d4V2dIWkhrYzhHLXg1MEowemJNcmZtM1dub0xMOElpR2Z5REozSU5rMXY?oc=5",
-      "published_at": "Fri, 01 May 2026 20:37:00 GMT"
-    },
-    {
-      "headline": "Missing Oklahoma State Senate Candidate Found Dead - Newser",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFRpWTJmYkpQc3BCcDZNYk5aaWdsVC0zbmx6bWxlNGV4YkVyOVMyenhzR2VvSl9URkk4T3dNNTR4dHRXUG9aZnZBOXJqYWhRaWxheXNiMFhBWW9oN1RQMTR5N19IVWJ4b2xZUThJV3FjWF9kbWZwSWIxM2xkbThrYlVMQ3N5UEw5WEloVWZLMlRoNHZ6d1E?oc=5",
-      "published_at": "Fri, 01 May 2026 14:40:00 GMT"
-    },
-    {
-      "headline": "Infowars Site Goes Offline Amid The Onion\u2019s Legal Battle to Secure Control of Right-Wing Outlet - Variety",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWhjZFQwSDdpaENQZVYzSG9Ba3hLR3JFOHRZTHZwckd4amVlTVVrVlRmOWozb09rdjhpVnJPNTFLS2EwcXBST3o2N3o1WW9QNW96WXNqcGk5VDAwN2NKcjhhZ2lta1Yxd2VHM3YzRVl3RnhkOGxjN1RkcG0yVXp6M3V2U0w2Q0xpS3lUT2N6QTdXaW5jUmdFd18yeWx0d1FpV2c?oc=5",
-      "published_at": "Fri, 01 May 2026 13:36:00 GMT"
-    },
-    {
-      "headline": "Pope Leo picks formerly undocumented immigrant to lead West Virginia Catholics - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZy03c0N0d3I3OXdqMmF6M1hhSDAtY2lFa0RKTzdiWnUyMjhmemhFaDZBUV9pS29uWnpWdHdPVnVUUHNWQVJsaDVUR2I5UE1peDZuU3NLSlpqUENBUHZoTTlJdjZxMUNyaHpxVDNKSnJla2ZaWHh2bVhhcVdqNnFNZ3VXMEk5Q3gyZ0hr?oc=5",
-      "published_at": "Sat, 02 May 2026 01:18:14 GMT"
-    },
-    {
-      "headline": "Trump shakes up Kentucky Senate race with endorsement of Rep. Andy Barr - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXdHRHhSQ1hGbEtTRnRDWkhiZEVValY1RUxxclU3Rnhrak9yclVYcFVjdjNMNEUyZ2V5WTRUS3ViaWVtdURKNmRveDJ2ZnR1OWRNb1JzMzA4bU0yaVVWOXdhcU9JOWFKT3RUNTl1VkVZYmdObjZESjFJRHpIakpsbkJSSk1ERTFk?oc=5",
-      "published_at": "Fri, 01 May 2026 23:52:53 GMT"
-    },
-    {
-      "headline": "Madison Police: 3,000 people estimated to have participated in May Day march - WMTV 15 NEWS",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUR1dGNDLXpaVU5BSU5HaW1CLXFXcUk1U1ZRMGx3UzhpdW9ZaW9QS0ZfSUVLaGFSOTc0b1p0NFdLcmZaWm5qT252cEE2eExQbjZwNXZOd2JEUy01WDFZVFJiVlc3SmNYRENtT0IyMnZwUTI2Uy1fVThGT3JjQng2cA?oc=5",
-      "published_at": "Fri, 01 May 2026 15:41:00 GMT"
-    },
-    {
-      "headline": "Georgia won\u2019t redraw congressional map ahead of midterms, Kemp says - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTV84T1k3dWZvZkNjSkJIb0pKUTdjWk5CWGYwMUdCV3NIU2Z0anQwcHN0dHNmTnJScDBGd21VbUZ6RXJqdjVKRXZ6c1lJNm9tbVJJcnBjTURGSDRwZG9FTkI5OXFFeHBpZG1VVGt3M3hWZmdXV2RzQmZ6eGxCdWhUSmFlRVV0SmUtMmpzb2s0cw?oc=5",
-      "published_at": "Fri, 01 May 2026 16:34:42 GMT"
-    },
-    {
-      "headline": "Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEV0ZHR2MmZjdkNPdXRWa0thLW1SRWZfNTNIODUxczVmSEQ1MmdrQlRZbTRUT1l5SVljU3l2RVNrcnprZEdzc0hLeFlPa2dBUjJQSXJYUm5COVFPblJ6SHkzYUhnbURrNi1sWC1LaURvWVI0T3FMc0NZVTEyU3JQcXJB0gGHAUFVX3lxTFBQOUtfd3I3dTlrRVQxOU5ZczN6N1VQcmhBTmJIdmFuSkhqRHEyZFB4TnNBR1RtQWlqMW92YWdmdTJvOWlPZlVsOTQ5eTR3dDZ0MW1MZmZyQjJBR1VJeTBDb0tLQXFSYzdHSFVGSEkzMDNBY3luNm9PellRMDE1T2RXejVBZVY5Yw?oc=5",
-      "published_at": "Fri, 01 May 2026 09:00:00 GMT"
-    },
-    {
-      "headline": "Speaker Mike Johnson once longed for a 'normal Congress,' but that seems long gone in the House - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUhKWUkxendGb1pDSDlCLVlDMlYtVDR5UldyVWN4QmtJMUdacTJDT3JDMFZ6cWx4RW1CVk5XSzBCS01fdnFQTG5GTk4tUDc3Y0cwRlV1T0lOZzRzb1dHNlZ5cUUxVUUzMktGcFpkaklPV1Q1SlpzRUNydnBzU0g3QjZwTTRLeXdHeWxGT2JZSzJjZlpBbEFzOE96UGYwZW9nVXJ4eTk2Y0VGQ2M?oc=5",
-      "published_at": "Fri, 01 May 2026 12:09:00 GMT"
-    },
-    {
-      "headline": "What We Know About New York\u2019s Proposed Tax Increases - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KMnBPZUdMU1FSQ2h1c1FkWWpqV1dYUEx0MDQtOHEyMTJJR05DaVo1c2twMV9sNFY3NjRWTTR2cmR1OFR5aXdzV2FrOHhUdUNYdC03dHM4d1pkZ0dlYTdVblVscUN2NXFXRkMzOHdWMGZwY3BRbTlRWWF4NA?oc=5",
-      "published_at": "Fri, 01 May 2026 15:22:46 GMT"
-    },
-    {
-      "headline": "Officials Call BS on Pentagon Pete\u2019s Blatant Lies - The Daily Beast",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVFsUXExTTdKcm42Z1FtSFBrY0lvRkdLeWpiQW1xZTRxcXdpdm4wNjUtWFFvWWVOOWlPVVFhY3c4OTNVNVZQb0J3aWxBWkpxYW9Mam1zOWFrZERVLVV4NmNSbmJEdktCMkREdHp5R19hQ3FFdGd4eUs4dExDSGlGdE41OWdZUQ?oc=5",
-      "published_at": "Fri, 01 May 2026 16:28:00 GMT"
-    },
-    {
-      "headline": "Judge rebukes prosecutors for moving forward with detention proceedings for accused correspondents' dinner gunman - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkkzQ2FVNXYyeV8ybXRDdzBzckNRRjFLN0VxNE1nblFvQjZwRGNhUmkySlVUY2xYbi0wYUZMUXo2OTBWMWpNa0lleFhxYjVGQTRtVTNTakRLWnZzV2RycW1uei1QTzB4QzI4V1p0azBjRGFJdHhPUXpfMDBfUlZwa3c3YXlKMmxaR0dMOWVpTlNVTGhfZVEw0gGcAUFVX3lxTE9vT0xlRFNnMnJoOHEyeFE1ejc2dmZrajcwUFE5dy1xcFZMTTRLclc0SWU1N1I3M2MzZzRwSER3cDBWR29SY0NQTDM0VWw1YkpySGRlQWlkWEx4bHcyMFk4OUFpbnMzeng1UDNUTlcxUjI3SkRoQUFVb0c0R0lxWmlIT2lXYU9wbmJhQ1JXTDJLc2ltMFNkaGRtN0loTg?oc=5",
-      "published_at": "Fri, 01 May 2026 21:54:36 GMT"
-    },
-    {
-      "headline": "South American man facing ICE deportation to the Congo says he feels \"like a person who has no value\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pQ3hpd3R3eFhwc0dKdTJDZmlJd2hFWDZWNldLY200UHpsVUx0ODNyN24tMHVrY1JmYklEaklyUzdVQWtncU53VjJuUFQ2ano4T09jZ3l1X0w2ZHFTLVkwWkFsOElyQlFfUEhGN2dTVG93Ym1QcGxHY3Fn0gF_QVVfeXFMTmFIdE1Ba1JWSEtOSEwwWWtIbUlHcTR0UHF5T21xOUt1VGtFOFJkYTdzekl5S2NUM2VNUWNyRXhPSFFwa3FoWHJ2cW5uQ21UYnNrN2g1ekRFcjNkOUxqbm1rOUxCTzJfREljSk9NRkRtUnhyRm5IVmVRMk5BRFlmVQ?oc=5",
-      "published_at": "Fri, 01 May 2026 15:56:00 GMT"
-    },
-    {
-      "headline": "New York Archdiocese agrees to nearly $1 billion settlement for sexual abuse victims - EWTN News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTZ3U2pBejVlMHNWb2p3VHY4bTRYc0htRFFJWTF3b04zZjhweFc5VmM4WmI2YUxFYXRyZDZfeWttd0R5Vkdac2hmR1dGYm84Q3BVekR6RHpoRm93Wm9CclJSS3FGdU1fRjJhWWFaS1g1TGhvdmpaOWVmQmNQcDBLQU1BeG5iNEtYQ1o2cWp1dW5LUWZyRmdJMHZaZXR5bUZxdUt0WW9weF83LWVmZjdtdmNneGVPUlU?oc=5",
-      "published_at": "Fri, 01 May 2026 15:01:00 GMT"
-    },
-    {
-      "headline": "James Broadnax Executed After Being Sentenced to Death Based on Rap Lyrics - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW1zajQwXzNYT1AwUnBwSzBWblF5U05iLUZMcVJQQnZIUDVzTnNzMlBFRk9mTThPSXRpMGlIOFBiTHR3R3ZfU0pBNUR4cEg3QnUzSU9mazlCeFRUNFdGYk1hLVh0aHBYXzcydXpKUmQ4TWFPd05laUw5R01vTmRNT0tZbjgzZEpuV0dNQzNuZ3NXVjhJVV9udW9DdWNjSFJ5ZkFhZQ?oc=5",
-      "published_at": "Thu, 30 Apr 2026 23:54:47 GMT"
-    },
-    {
-      "headline": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy - The White House (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUFNBdkJSNDlpN092S1BmN1l3OVVKMXYxR3YxSDlaWVVucTlNazBFclBYdUVMSWt0N0NVcGp2ck9ucEdRdjdLOGpVS2tvb0g4Wmwtb0Y3Wm5HWnhINEhwdElCUWg2RC1GR2pjeVNlVURLQnlaaDZ5ODA2bW1YaXUzTkpDLW5yRzdqT1pNUjRZLWd1MUZfOFFKbXp6T2xibDQ1cXo1b2dvWFkwX1NpTUlyWWRJYWlJTjMzd1BZNnkwRm5xa3FYMVNJWVg5OWYxaGtYOGRudXRRZ3JjN2h2bVpPWDZKMnFSamJXSVJBQXhfbDFvak9QYUNYMHFfc09DN3JNMjY3eUlZVmdqSk9MaFdub2lBYWdQUi1r?oc=5",
-      "published_at": "Fri, 01 May 2026 17:22:39 GMT"
-    },
-    {
-      "headline": "Iran Is Grasping for a Solution to an American Blockade It Can\u2019t Break - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CMGlodkdEdXBMY3pPZmQxX2VfNGxFM2NwWThfMnlmUU1jdVhWekN6NHNqT05jTmtwaERMVWpodE5vdjVISmFicjgzQmdHcldPOHZnTFlZZlhRUnIxX2pHSEN2UmhBLUgwdE9hMXFvZVJQRHZqLXc?oc=5",
-      "published_at": "Fri, 01 May 2026 03:00:00 GMT"
-    },
-    {
-      "headline": "In an era of declining crime, Baltimore notches a new low - thebanner.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlh4SlViWWVJV1N6Wjdnb3ZGY0x0OXMtOG5Yc3Z1OWlObmg1aGVCbThxb2k3V1ZmVmstM0hKdXJFOWJVaTR2TXVrdjNqQWVIS3VGN0hVczFuZlVyb05UMEVyLWtlUFduQV9BM0M2Y3padWhYR1lUdU1lZTJEVzhOcUZuckZUbEs2cW5hNkR4NGFheU1sRDlybGhVTm5XdU0tTlV5UzFUNU5jMXNvRkhzVVVVSi03NFE?oc=5",
-      "published_at": "Fri, 01 May 2026 12:30:00 GMT"
-    },
-    {
-      "headline": "5 wounded in stabbing attack at Washington state high school, police say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGtZaWlsMHF0OWViY0llckFGMjFub29QY0pJNTYyUWNnbEZRR0JLc3NhcmdYRG5YcHpYd1c3dGxYekN3ckFibXNwX1lDQzNnVlBLQ3FmUUllM3VYcWdVQnZ1dXZCcWRLQWV4bmMweTFxYm1GeHlkemVxSkd2eDB0cC0ya3hRWHFCTmFEc1NqTU5jRHMtZVMzdFloSDUxN1dnWGtVT2x0eUrSAa4BQVVfeXFMT3VHVVFFZkFNWWRDMnBPcTRtbG9FTG51WGQ3M2QyN0tMR1lsWnhUMGp0T1QwYzUxa0d0YXdKU0ZVWm5KWnlHdGtsTnR5M3hCNmFRNmRFdUlnanVpYm1QT19EaHNiX2M2eTJjaFZyNlV0dmRJZVdfTUkyRHJMRzlnczM0ZTRCa0puZlk4QjVuNzBqQnNpMFRXQWZERXFSemo0azJSeW5NTWVTMldmVjJ3?oc=5",
-      "published_at": "Thu, 30 Apr 2026 22:55:00 GMT"
-    },
-    {
-      "headline": "\"These are not normal times\": Inside Democrats' sweeping 2028 redistricting plans - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWtzamJXS3RoSnFpekt1dnFLX0hlWm85a3JHaTZRX1RyZ3pUOHJJWnRtdUNNTU9vRS1EQWFHR1hvN3pHRFBVRmd6N0NsMGI5MVRwT1NiOGpNR1d0cl80enBsR1UtSm9XS2x0WC05ZnpiZnJub3EwbF9yVkpmdWhUemFiUnVqdW8?oc=5",
-      "published_at": "Fri, 01 May 2026 21:25:28 GMT"
-    },
-    {
-      "headline": "Lt. Gen. Douglas A. Schiess nominated to be next US Space Force Chief of Space Operations - spaceforce.mil",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDRRd09MX2dIblU3cnh5cjNOTFJWMTRxT25YdEV1XzJ6QWUyNXRQRlVob2NQcUstUnpybTVqZThpMGpVWHhiV1U2cDlfMkl6U3pBZzRJQzRrNHAwMEV3S1pyem9EX0lKbF9ZLVd4RW5XeTBYUkJ3WlUyUnZvYmpNMnI5akVtSnhJTUQyaDhhSFl2dGJJNzJyQW83eHl2emtBaWE4R3lDd3UtbldjbDRnTEUxemVETldhYTEtMnB6UWlFYnIyWGZxZG50YkJsV1VDeE9uMXVTbFhoc1Y1?oc=5",
-      "published_at": "Fri, 01 May 2026 12:16:58 GMT"
-    },
-    {
-      "headline": "After 60 Days, Republican Patience for the Iran War Is Wearing Thin - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9fYWhLMmJiS0dTb01ZUk9KZUNGWTFxU0RZMm56YjExZ1FDNnFHQWNmUnZ6empCcDV6TWJZQVFYUDRYM0RZakRPazBCb3JIbGw2VHVMMjlWZV9iZHFxQ1c3NDdiZjBqN2dHTGRFLWItOGhmV2hUc092LWVvMHZCYTdDcnFCcm8?oc=5",
-      "published_at": "Fri, 01 May 2026 19:35:36 GMT"
-    },
-    {
-      "headline": "U.S. senators ban themselves from prediction markets trading - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3RQSmwzdEFSZklKaXREeUJzTENneGRqMEduSXJCTVRET0NEVW8zSVVtcWJmZDBXNk51cEJEZjI0WGxkdDdnX1J0dnlRTXhRekFhWFZMWENFVWhaTlpIRk5jQkhZal9wUFFicTN2RWtFWXg1UmU2YzRybjdzcFFNa3pBWlQ1Zmg2eHRna1ZHRWJmS3c5QUNR0gGcAUFVX3lxTE1oOTlxMmFtREZGXzF4cHVlaVR3cUhhUVUzS2pNR2dDRC0zRk1XQS1WSzFsTWh2TXF4UDZoUHN3VnNuWm8zQkgtdHJ6MUVYVEVZMW1qTDZwdkJLNS1ZRkxXSHp3T0lFOHJyd0Izb0U0RURUVFlkV0lFN2hIOV84MTBxbXdKMzBfZlRyZDJEMFlvTUZvVGRLdVJzVXpRdg?oc=5",
-      "published_at": "Thu, 30 Apr 2026 17:07:19 GMT"
-    },
-    {
-      "headline": "Iran\u2019s supreme leader vows to protect nuclear and missile capabilities - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcldVZzduQnpaUnNxMHlWNmhKOXRsMTNSdE1ILTNMbXgzbm43NjFfWVY0b0RESjhOajczdXl1ZnNLYWJmc2t5UFlKTzlpWGpueXNRanYzNVlRZTRlOTRZcnZTQUd5LVlFaUtsUEtlSlVjY1M5Z2VwWWVuTnZNYU5STzNTZzQ0bk0wRlhWRDhiTjU0LUxuVHlqVEktV1VYN1FudUM2aGdPbmhzUFNUSWIwVU1yRTREaVRIRERZ?oc=5",
-      "published_at": "Fri, 01 May 2026 02:38:46 GMT"
-    },
-    {
-      "headline": "Trump Loses Ground on Several Personal Traits as Approval Rating Slips - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEU0Z2x4by1TSlBzdlFBbnAwRWkwdm1kUW5PT0FSQy1YTXdkTGlNOVNDMTBiZ2FyUkxFeWE2UVMxN05VYk53VHFUckxEd0xJTEVtdFRWakdDUzRmcUJ3MHI3d3Bkd2U1aGpPbUVFRG1QaUxsMXI2UTFaS2lSbkY1NlZiY2NzLWE1M2ViSk9QbHBBSTdkMHpuenhuWkVIX3ZaZFhkUzhOb3oxNXFDMVliaWwxUnhlVno1elh3?oc=5",
-      "published_at": "Fri, 01 May 2026 16:00:36 GMT"
-    },
-    {
-      "headline": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide - NPR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVFMSERqQXhzN0txUXhJRXVWSVlZQWRjM2kwSDFwTUVQYVFGZUQ0U19VSzkyNDlxc1BqUHJ3VTFHbHN3OThYUW5PeVNYMVAzS1A1bnBTN2V4aHlTMXJsVG5GXzZmeU56bV9TV0h6M2pTWS13NXJnRUVvYzhodGJrZ1JIMzRfTmllTmFtLWE3dXhCR01SRWZuQjhkYWt2LU5fazlUdWx3a1duZFFBQzdBTGR1TUtkZHZ4Mk1Ed2JNVQ?oc=5",
-      "published_at": "Fri, 01 May 2026 11:44:17 GMT"
+      "headline": "Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFg4VW55R0NfeXB2QmR3Y09Ydi1nYXhUWXdKRlBHTEhTLUdQZDdwSXVJbkpBX0Q1R29NdDBmZDk0cDZsY0tuOHBrVTMtQllpSEZIVG5EMk5Zb1JZWjQ3UE82TE42U3ZOZ2kxRGFlbmRCMXlzY2EzUkdNc2RqbW9PNnA1SXd4VGxfVmE3RFBuZWZ1N2E5NzRDUWtzSng?oc=5",
+      "published_at": "Sat, 02 May 2026 03:10:00 GMT"
     },
     {
       "headline": "Trump says Iran conflict is \u2018terminated\u2019 as he hits congressional deadline - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUtCcHBHamdGWDRRbEx5dU83STA2M1hTQmxidjVxTnY3RXdDRVpYZ3R4WlNSdVo3XzczMXo2VmJfVkhkdlQ1RW1VSE8xQU1OVlgtV2VSVHRubWlFSXBaWWlIYzN4UDBpZG53NXd2SzNZVF9DU2VRZ0tQNUt3M3FvOV92dzJ0VDFxTThsT3Z3?oc=5",
-      "published_at": "Fri, 01 May 2026 22:44:02 GMT"
-    },
-    {
-      "headline": "US withdrawing 5,000 troops from Germany, US officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5",
-      "published_at": "Fri, 01 May 2026 22:23:46 GMT"
-    },
-    {
-      "headline": "'CHICKEN': Gavin Newsom Fires Back After Joe Rogan Called Him A 'F**king Con Man' - HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXpjblcxcnV2VGxwakN6RXh1M0VIekp0RG1DeEFBLUk0V043TjRlcWZFcVdqN0ViaGlSWGI3Zlg2Q2Zrc2hXaXZGbUxfbFpTNDljNnY0dy0zUUQ1dWV4Q3Z1SllfNWV1SHRsYWF4RUYwb3FmejEwV2pLSUlGM2dCaUNJbjlMa2lhN3RrLUx0YXhydU85MjVoS09obGhOdUluRlRGSGFWMzhEOEgtZnhaY05ZZTl3d2YyX3JKcmR5aV9fMFhLcnh3ZG9ZaFbSAdIBQVVfeXFMTXY2cVJleHZENFJDbnVWcVdqcWRkYWZnLURnTmtpNy02RjdyU05DTTZ2SnQ5QnlySEN2WG85STUtdnl3bmswTTMxaER3bG5DNV9zS3N5S01VZUFSQTVzblIya0ZCM3A0YUEtZjBsX0I1aU83OUVEQnZfelJwN0JrbG0zbVdyXzZvS1RjRS1qT0dMQlYyRVJLWDVPQ1hMSjV0V0k3aDVKZ0YxZ1VrdnBnOVplbTZOVkZUZzBVekpGaUJnOE12YUZpS0dvdXF0Z0U0OFhn?oc=5",
-      "published_at": "Fri, 01 May 2026 20:44:50 GMT"
-    },
-    {
-      "headline": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
-      "published_at": "Fri, 01 May 2026 19:11:00 GMT"
-    },
-    {
-      "headline": "Court restricts abortion access across the US by blocking the mailing of mifepristone - NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWIzMnJJS3AteUoyb2w3MmhtWjlOdmtpb1QyWHdHZUtpU0Yzd1lGdTI2QkJrWFRsa256Rjh1UC13M0p5RUdQWVg3bWRVcERQQXBXeFdkQnNuaGJ6ZlVKdnEwNlFQTl9VZDdPYmhhU2VNeUZOWC00Ulp1NDNZa1R3eVVWMlNnM0xzMWZlZmVQRGtwbmlmcklueHB5THlXdw?oc=5",
-      "published_at": "Fri, 01 May 2026 22:40:12 GMT"
-    },
-    {
-      "headline": "Alabama Governor Calls Special Session to Adopt New House Maps - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQk1VWWxkN2JPQXltcTVOTVdjQ2dLcXA0VkFLMGZhR3Y3c2dWZVpqekxoNHREYVdXaXlfUjdHbWpKMDE4NXE0MzV5TTNlMEliU1BDVFhhbTN2cGNGX1l5RUNMYnY4cnVldGtfYVdUa1oxUGN1aDRFQ2ZfTUdtVC05bnQyb3F1ZUtxMkhlUENtRzN3R1Fr?oc=5",
-      "published_at": "Fri, 01 May 2026 19:46:20 GMT"
-    },
-    {
-      "headline": "Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckJrc09Na0VYMDV3VVhaTVFfeXBIcjMyTlVkekNmbXhnYmdoZ0tsLU00U3JoVGVKMU5qdUg1NWZxak5MMk1kNDA1VE1KWXY1bndLWUcxcHdsOHlvckNNU1VlWkFhQ1kxNTc2MHVZMHhLUEZMdkpvWEpMZGpOT2RjQlRybVZBcGZ1YUhDSjVzRmNuNWttS0dfaG4tZ1BYZw?oc=5",
-      "published_at": "Fri, 01 May 2026 20:02:12 GMT"
-    },
-    {
-      "headline": "It's Day 1 of Medicaid work requirements in Nebraska. People are worried - NPR",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0NRMmdYVFpld24waWl4ZVNIUUJGTjIyMHg0dnRNVXlDY292Vkg5SWpKZUdaYU5JLV9xelJVMnZxSlpsMlBodmZ1cWxrN0RvMklvcExoSXNyRGxjMkk2ZlNYOFgyZWEtOWYtbUc3a1hfbWkwUTBGcGd3U0dVbXZmMURnVUpBbkF4V0ZIanFVNlFxeDYzU29laGt3YWxjOUVkRm1VTjlqSTduaFR2LVFtamcyMDV0QQ?oc=5",
-      "published_at": "Fri, 01 May 2026 09:00:00 GMT"
-    },
-    {
-      "headline": "Trump said he would end her political career, but Democrats did her in - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGdRNlZnN3NldDlaOHpNODl0SlpCZ01EeDlLNWFDWk10dTdKekdER2NOb2hMd3JuaFF5YlBsTmxHTldaTkVZS1lOTE5qUWViQmw1Tm5ETW5jV3NYLWEwUGlHLWtPV2w2SkZTNlpBTDVWbmh6b3c0aGI0R0ZtVVh4SDBBZF94cGkxNkFxUUU0T1ltLTA?oc=5",
-      "published_at": "Fri, 01 May 2026 16:00:34 GMT"
-    },
-    {
-      "headline": "Six wounded after stabbing attack at high school in Washington state - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2JtaTRwaU9vMVFNSG1GNmdUdmZpR0hxOVdUTFhMZUFzNmpheGNDdWlEazU3R2NsQXZfZ2ZFX1R5RV9JZW5kb0dFWDZTakFwT2dVdFEzMzZ6SjIyZklmZjJiWDlYSW5ZTFhrSWZ6SUhDOWUzMzM3TVpUSEVqbk9CNjBtZHN1VnN5ZUdYZEsxNA?oc=5",
-      "published_at": "Fri, 01 May 2026 18:30:00 GMT"
-    },
-    {
-      "headline": "Voters Sue Over Louisiana Governor\u2019s Move to Delay Primary - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORk5mOTE0NXFURmNuUmhVT3NjZ3ZBM0pNZzY4NGZEYng1R2tSdjNFQnlPbEdOZ0hJLTY0TDZ3a0d3NHJPV25FY1V5d0dmc3JHUldtVGxrc1FyelBHYWljajg3WHBXbFRud0hQbUFHTDczX3F4LVBSU0h1aG1JelNkM2NPa0pIaTM2NVhlU1dwdHdCbi1OWkN1OA?oc=5",
-      "published_at": "Fri, 01 May 2026 22:20:52 GMT"
+      "published_at": "Sat, 02 May 2026 03:27:52 GMT"
     },
     {
       "headline": "Bard College\u2019s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times",
@@ -322,14 +17,34 @@
       "published_at": "Fri, 01 May 2026 23:45:37 GMT"
     },
     {
-      "headline": "Pope accepts resignation of West Virginia bishop, names Washington auxiliary as successor - National Catholic Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanl2TUdNZGROZ01Qblg1LTQ3RFh5aHVTakJyWjRkMjdVejJpVWpXc21ENjAyYURMRHB4T0JUbzJ6ZW5XRHc3dlJTRTFqN2hIRUx5YUxFVDVhNVNEZnhaWjlrT3B1aXFJWnA3OTYteFFNRFgtcDM4dmJkRkYzWnBDZWlIR0tMb3pmSXNuTDlnWVdFV3FDRVgtbDg5SmkxV05aTVRTVVh2Tk9zQXBuRENMMlNWUQ?oc=5",
-      "published_at": "Fri, 01 May 2026 19:24:11 GMT"
+      "headline": "May Day protests across US draw huge crowds \u2013 in pictures - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHhmV0ZRYk41ZlpxN3EzUzdJZWFUNjhsMTlHOXR2Y3A4ODlQMzh1dUxFeTZidV9iVHJYcENXUWc1UnhGN1UwbDd2WWNFT1I4NWtaXzVjeW4tN1pheUhDVWhURFFUdlhzaTRrVUdBR09UT1R2bTFSZFRTVHdoRS1fdXY0U3JuZw?oc=5",
+      "published_at": "Fri, 01 May 2026 21:19:00 GMT"
     },
     {
-      "headline": "U.S. Indictment of Sinaloa\u2019s Governor Is a Reckoning for Residents of the Mexican State - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzRhRjZnZE1lZldncWQzZ3g1eTgxNlVNQXNRZElUNV9jdGt1WGJwM1RkWktqeUZodlhoenZqakdZcklFWWF2X05odFZBM0pjMjJzZVlublZFNG5vSlI2aEdiNzRMc2l6aDUzR2l6eUdEVkI4cElIdk1yM3R4WU9sWGpoVjhYRmRJQUQxMldVRVhuYTBtUl96YTVPQVI4NE5L?oc=5",
-      "published_at": "Fri, 01 May 2026 19:56:33 GMT"
+      "headline": "\u2018An unmitigated s--t show fever dream\u2019: Louisiana enters election chaos - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTRkdmlYeXo5TjVmYzVucHlzSE52Qmw2anFPdmNNNS04b2NjVE0zdnVHTldlSTFibUpWaDdrV0xnU2cwczdtcDFYZ1NqMFFfOVZpQ3JGWGN1Uk1yMTN5MGx6a2l0bEhiUHJrc29Ud0Nwd1ktdE5QTGRIUVEyVEYxUnlGWVpsaGpHTUNncC13?oc=5",
+      "published_at": "Fri, 01 May 2026 20:11:54 GMT"
+    },
+    {
+      "headline": "Tennessee and Alabama take steps to redraw House maps in wake of Supreme Court ruling - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGNJOFExcHlmbElQOXJPejFhblZpb1ZWUzd5dGZaZ0Jobmp3MV8wMFR5Nkd6RXpOTU52M3RuNXJnanJoZllUYm1obExCdVRzQ0JzV2pVRnRISVllQlg0d3JqY1ZMTFpfODFjRk9kMExqZDlhQ21fWXdPNEdXcExUOGppYXp1SmtpX21vTEVtV2xkOXRvQzc2Y1F5LXBSWVRxcWYzb0I3S1dkc3hfdEFoN2RDX2bSAboBQVVfeXFMUEwzOXVDbFNqVkZNUnNDTVNZOExOdk9sekV1eXBUektIQlY2blNxeDBuc0M1VVdNUERYU1lKbDEtUjdTRW9uZDNEWU92c1luXzc2bEUwdXQ5TXBJV0ROUmo1UnhPT1BFTEE5aHhETnRHRWNZQUZDN1p0TFFDa250MWNEOVl0SFhya0x4dHFaTWVad0kxWGl4VXpIOVlLeWhWN0NjYzhzR0FlWnliNWlVMkhjR2RETy1KMDRR?oc=5",
+      "published_at": "Sat, 02 May 2026 00:31:00 GMT"
+    },
+    {
+      "headline": "Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro's Venezuela - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWk4QVRDVVRVRHJMN19uRnJXYUY3dmJqdU5GVkprZUFpcUxqQkVKOThIM3NBUXpGRXo4YWxNY1JkMHJ3SDkwVU9yU1BLaUlKbTZ4QUFrSEFzM3JIalRNeDdTSHgxMEZTUG9paUxjeTYyWVVSbDBSNFh3a0pHN0N4eFkwaEtvRE5sSWx6cl8wdw?oc=5",
+      "published_at": "Fri, 01 May 2026 21:56:00 GMT"
+    },
+    {
+      "headline": "Eric Swalwell Was Proficient in Social Media. So Were His Accusers. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWmZvRXE0azBIaEhNXzYzdEdHSDJCOGh6NjJ6U3ZwU3NWeWJPTWFrNGNhV3ZYdllUYXRkZkhwSENiVWVLdW5MWFFLdVFrR2t5SGdBQS1OeGZjdU9tbENaM09rdUhNXzdzNXZvZlFUdnRDd2lCeGM2WA?oc=5",
+      "published_at": "Fri, 01 May 2026 23:01:41 GMT"
+    },
+    {
+      "headline": "Pirro says video shows moment gunman fired outside correspondents\u2019 dinner - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXh5dkJLSWxDSFhFamFJWF9JQ2RPTkluVUZLSHkybzY3WlNySDdUQkl0cE9HSW4zZ1l4dzE4MTFxUTFrY3ozRUU2R3ZOZEo3RTJHR1Q1a0oyTFpYeWtIN2ROeXRnejh3RDhjWU53eFZyV2RQekMzb1BMakJmemZJS2R4N1ByaW4wcDMta3h1ZXFFRE9FeHpFclpNYU5vclB1?oc=5",
+      "published_at": "Sat, 02 May 2026 04:22:28 GMT"
     },
     {
       "headline": "\u2018What\u2019s a more secure place than The Villages?\u2019: Trump finds his people again in Florida - Politico",
@@ -337,14 +52,44 @@
       "published_at": "Sat, 02 May 2026 00:33:50 GMT"
     },
     {
-      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacFRzTm9GRmgwWmpOeHFRTHdZd1BrVmhpandkMmpZX2pDODhfLTFhVENwX1pvelRPS1lteVlFM2QtTzQ5RnIwbHBVdGhJWTlvNHFxV21vUl9KZw?oc=5",
-      "published_at": "Fri, 01 May 2026 10:12:57 GMT"
+      "headline": "Americans remain critical of Trump administration\u2019s approach to Iran - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVprUkRUWEFUQXdoMXpJbXU4ZUdYYmlVSHBmTEtWV0R4dUR0bGhQQ0FldWg5X1hBYm5IQmFUQlp6R1pfdEp5ZEUwUHZkbExSdVhBRzFwZC1pS01yODJWY0EzTGdSUTRONGRtMVZ1VEdVM2ZRR0tmUmFjY3RtajlfSFBPQUdVeXJ5bzkzVkdHZF8tdlVMbktHczZndEtJNEV1NE5jWGNvTUItdndzemQxUjBhTzdqYVAxYXlV?oc=5",
+      "published_at": "Sat, 02 May 2026 03:43:19 GMT"
     },
     {
-      "headline": "Ex-Dodger saw Rebecca Grossman fatally hit boys in crosswalk, former MLB player says on stand - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3NYTlBfMXVQMVkzZERCeklNaTdCYUhzSUJNMFNDSDlERjFXNTk2TEE1RzgtSWtZa3pxZmJUNUNZTWdpNm16ZlVNRVYzV3NLajJVNTlDdUF4aFE2VjhoWXRRQ2lUbXBYaUpaTjY1bzdhX3NBS0RWMFdNVi1Xd3psakE0OS1WQU12allwd3phTl9WUDVk?oc=5",
-      "published_at": "Fri, 01 May 2026 21:08:50 GMT"
+      "headline": "Victims from Amarillo headed to pickleball tournament at time of plane crash - KVII",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQZ0tRbVBDcVZvZWp5Q3hGQl9kRWFKUEs5QllxRElvS21IalV4THY3Y1daTHFhc19NR1Rib2IySUlLTDktaHBGemJtSjcyOXFYSVhKSGt6cUF6azRwbEp0Q1lfT3Q5VzNuWnJjMXhBbnNjX19KdGsybUNTeXE4dHZFbDZmRFMzdWZxa0V3M0hteVJwa3VFeEhvaGZZVXpGWC1YQmREOHNqcnFjYU05Qi1ua3BFRUNheHNVMDFKRGdoenRWU1VTOUJ2UjNIOThTVVdNNjBuVkd5WWc1M2ZfclBRX3ctMmJSVUI0SmxjTUFlOHB6OTlGRC1ZVTBaSERBWHVubkRSSTBHRjY3dTBaOEt2Qy1zWV91YnRHR0FKeHp3TWZ6bnFGb0hCMEVsQUdlYkpSa0lSM0xlVnduMThxLXRQZW9XV1FOSkhWTThfcFVYdmVlRmFHWnBiNmoxaURGbm1aM3N2cm02QUZHM2s2SnZwNG51Z0RtWkNVMDhyb3R4TkgtZEtIN0dqX25BMXR4Zw?oc=5",
+      "published_at": "Fri, 01 May 2026 18:59:58 GMT"
+    },
+    {
+      "headline": "How Normie Pundits Paved the Way for the Supreme Court Voting Rights Disaster - Slate",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFZiNjhFbGZPdXJHck9McUQtcmJMY3lHT19abGMtYTRaMVQ0SF9uMWZ2TVQ0bWJEeUExT052ZVRfUDJtclV1QWhKUV9YU1U0RVRBYnRDMnlpbm5DTXJUSGhrNjNKODU4VWwwM2tLN3B3clZ0VnhOdFJFQzl1RU8xUW9ONGlaeGl1cVc4Rm9hNG4wc0hjUzM4?oc=5",
+      "published_at": "Fri, 01 May 2026 16:30:00 GMT"
+    },
+    {
+      "headline": "FACT FOCUS: Why nearly 4.3 million people are no longer receiving food stamps - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUxxeWplUC10YVhqSWVKZ0xGV2JLQzN1bjdwV0U1QkE0Ujh3OWhmZVlfSFFuV1N3YUxwV1FtcldKcTFBM1FhYVgyejJGUHRTbjMxZTRycEVxVnluVkt4Q0tuMkwySkh5VGZlX0Y3dGZRelA4aGhxRlRkY3hLUjBjSnF4a2hCXy1RY3hIU1VrQmdkVS1LYjNUZHBSbEtEb0EzVFNn?oc=5",
+      "published_at": "Fri, 01 May 2026 22:17:00 GMT"
+    },
+    {
+      "headline": "Human Remains Found in Tampa Bay Are Identified as Missing Grad Student - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aWWpXYlpSeUdMUzkteTBNbmZzLVJMZzdlRUZPRlVKZmZuZnA3V1Fuc2loZkdxNVlwYkRIZ0QxdFZZbjE2YW5BVEFnSElpNUF3VXBnaDJtZ2JqSDZrYWZyczVhQm5uTXAyRjlfVWktMWMxejRycGI4R09uSzBMQQ?oc=5",
+      "published_at": "Fri, 01 May 2026 21:51:17 GMT"
+    },
+    {
+      "headline": "Behind the scenes of Janet Mills\u2019 US Senate campaign collapse - Bangor Daily News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzNFbWpndFZsWmtaSGR4QTBQSHJMR25EWkRaZ3gxNFFoU3ljQWVjSThnR0xyQktVYTh5akNTbS1oa1BfOHlxZF9DT0wzYWRFYlRuRUM3UHY2N0tNUlN5bVlZVjhabU0tblpQZ3F1eGttQjBZZThoRXJ0MUs3b243SVctUmtWdnZwdkpPbGVXaDJ1YWlsd2lRaC1TU2ozcERHWFY5Z2ZTWHZCOE5FTklaWEJySDZ4UzFFUmxWM1NrYndlMTB1djhB?oc=5",
+      "published_at": "Fri, 01 May 2026 05:00:00 GMT"
+    },
+    {
+      "headline": "Trump says he will raise tariffs on EU autos to 25% for 'not complying' with trade deal - France 24",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazNEUkR4OXlHVDQyMFRjYm5pM2ZPaHdkT1BiOWlRc3VWUnM1SXJ0SkNRQ1pGV3R2Tk1KMXNfNUlyR3ZFR2pLY1Vwd1dYb2JQQ05YcFNDS3UySWk1YnYxenVSY0VPUTRTaXV5dVNUMzJQY2swTVF0bkQ3elNfbG1ONF9hdUc2VWpjaHVXMWZORlYxeXZjRVB2QkxfZFc?oc=5",
+      "published_at": "Fri, 01 May 2026 16:01:49 GMT"
+    },
+    {
+      "headline": "Cassidy\u2019s uphill reelection race is getting steeper - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQal9DWk1pbzNrbnozS3JZYVhkUW5mZDdQS1BxVXFKdkhqYjlBN2VFZTBKc080dEpicmUxSFBwdDBPX2U3aXd3VWV0UmxXWVpxY3Z6UzE1NllwZnAwSnEzb1dodmEzUThTLWluZTBtblhDMWpoNUJ4bU9rcVMyLXVSc1VyQUtTQ0syQTNMOGhiVkJiYVE?oc=5",
+      "published_at": "Fri, 01 May 2026 20:20:31 GMT"
     },
     {
       "headline": "Fact Sheet: President Donald J. Trump Imposes Sanctions on Cuban Regime Officials Responsible for Repression and Threats to U.S. National Security and Foreign Policy - The White House (.gov)",
@@ -352,34 +97,89 @@
       "published_at": "Fri, 01 May 2026 17:24:16 GMT"
     },
     {
-      "headline": "Spirit Airlines prepares to cease operations amid financial struggles and high oil prices - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1oweU55RURQWDZZQUJ0dC15M1pVX1hmUnRsUXBJbmFZc1BwUDJXY3BMeXd4ZTNIb3dPQnFrenlhUmZUem16TmxENVo1UEFyUk96WG9Tbm5QMXhfdkliRnltZGtvWDgyMUZQRWg4bEM2amprd0M0ZndLVWxoYU00OF9DWUdYQUo0ZlNaVmxjQ0Z5RUFONE9lVUl2RFpndFE?oc=5",
-      "published_at": "Sat, 02 May 2026 00:34:00 GMT"
+      "headline": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ROE1iY2thZnk4M3dtOFlLRkw0aUhiOXpmWmEyNlRFeTlsUlBRM3ZDTTlWaTZ5dkEyY3NOb3VNZE5aVmJIbkw2aVoxZlJ1QTh5c0JlTm02OUhXS2lCZTBOdUxWX1JaUGJOc2MzSnA2SzNvLXVMV2Z1eE14cWw?oc=5",
+      "published_at": "Fri, 01 May 2026 17:31:00 GMT"
     },
     {
-      "headline": "Camp Mystic will not reopen this summer after withdrawing state license application - KUT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2phR2pfUHlEVm1CVmRJSndEcGl5Z2RKanJfNHNMVi1EMEVkUGFTcjZjRmxJbWFRdUI2aG5zbzR3dUxlaXd1U1pUQzdnelczVUxyS18zalp5OGpnaEhIUEFPTktpQjdzM1libUFnSTFhSDNFX2U5bGxVUlQ1NXl4OXlKS09iS3BuMWUwQ1A1SDRheTk3aFFKSWZxY0NJRXNPeDUxU1VR?oc=5",
-      "published_at": "Thu, 30 Apr 2026 17:54:00 GMT"
+      "headline": "Alex Jones Announces Shutdown of Infowars Conspiracy Platform - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGVCWjA1c0FDdGcwYXNxY1lMZjFtZUozb3ctdXBUanNLeEFZUDRvdHdNMTZVeVNMTm5GWHZHbmoxel94MGhMNjJkX3NJV1NaVEJ2QXpMNG9tYXlfQ1lsWW1HZVMwcWFZNlZwRFFESUZRT0pCVW9zUHIzWEtVNWFia3UtXzM1SV9CS2ozamg2VHV4OWhLci1OMlJSQlpvLXdMUE44RkQ2T1d1Zw?oc=5",
+      "published_at": "Fri, 01 May 2026 18:44:00 GMT"
     },
     {
-      "headline": "The Race That Shows What the G.O.P. Is and \u2018Everything It Could Become\u2019 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTlDbnZxTnVKQlE3bEc3dGF1a1BxanVNWDhXbXlEbVlUc3FrRVNxYUdZMllTWC13UDhxTnVfZ18tMmdqNjVkamZrMmV1eGg0MmNzQ2ctaEtlc0VHVm54ajBYMXlSRk5yblU0c05Ud2pOQlJid3ktbWg2VzNoNkhkbFFQMXdwVzQzQVBKUHE5eU4?oc=5",
-      "published_at": "Fri, 01 May 2026 14:08:15 GMT"
+      "headline": "Ex-FBI Director James Comey faces charges over \"86 47\" post. How strong is the case? - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkVxeDZnbENrV1g3NUtTRldkM0VFbEF1bGc4ZEU2d19JZm1ud2g5XzlXU1BBV3RHUFZrQzFqdDI2NXZmOGw2dWVEVkNrUUtUODNtMTZHb3NMVjRBQVdHMlcydnRnYmVlZy02SzNKb3lwNHF6elpneEZJYUZxZzdfeGhGUdIBiAFBVV95cUxQOVJPTWYyVjVjbG5YTElrNFVERWN6LUVuSTR0MHF0VWhreTBVemtqWncyblBQSEpDNFR0dXl1eDRYUnlHUFJQU09WWnFWZlp6QlpUSGhJTS1ENDZNaXJvVkN5ZUhfVVBiQ1hla3U1Y25scWdRX0FLblM1TE5nVnVuQUx2c01LTnhy?oc=5",
+      "published_at": "Fri, 01 May 2026 16:53:00 GMT"
     },
     {
-      "headline": "Cuban immigrant dies in Georgia detention center, ICE tells Congress - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUhKc0hMV0hFak9fSUR5SXFYMFNGOGY3ZXNBT3JqV0o0RUVyZTlGZ3BSMEFkakFud2FXOFlqLWlsMHZpeFFBZVBKUG9fckNBQ1Z5TTdmSVoyaE5FcFZOUTRTVFd2d2FEN0U2MVM0dnZXazZkWVJyb0xMSUJMSFJXVDZjbjhocjVCcnpnOHhBdWZTSFBmT2c?oc=5",
-      "published_at": "Fri, 01 May 2026 14:46:00 GMT"
+      "headline": "Gov. Jeff Landry Signs Law Blocking Ex-Prisoner Calvin Duncan From Taking Office - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGF1QlFUQW5yRTgwOUpUSVdhczMxX3hmRjdPYU5hbGxLSkFCRDJkbFhPYTNKS1l0RWpCTWtsRmsza1U1QmxZS2NrSGktbEY2YkxDaWttWVVyYXE1WHFPR3VqRE1fSnN3azB1cEMtUmk0akJQWFp1WWhhc1NDYjBSVVdIN1llNURsT2UzaThBN2VfSUhkS0pPckxKTQ?oc=5",
+      "published_at": "Fri, 01 May 2026 21:18:38 GMT"
     },
     {
-      "headline": "Big Bear eaglets officially have names: Sandy and Luna - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEJjX245LTRPOWpCT21aUFQ3blBBNEFjcks1c191cEtKWFc4SXJtalplVkVlRG40YzlnSTVlOEQ0MGtmVHJPTUF2ZlUzb04ybFVaZHEySkNUYXNvTGt4c3FiWHlpTkJpbEFMZEVCSGxxZ1hzaFdXQVV1N25KbGhnbWZ1S3lCQm000gGOAUFVX3lxTE9pZ3RXWVdNeHNaMDlxMkhhaGVvcTFJZGR3S3ZsQjBLaTlSWjRLNlZHSkdSczhDR3JOUUtYQjFYcU9uQmFuUGlXS0x2RkJPVVE4amRJWWJVdUlBNE5nZFNXa1l5VHlTOFBoMDJFblR0S001VGRBdFlpR3IyNFZVN0VxWG1adlFLeTNwOVNSb1E?oc=5",
-      "published_at": "Fri, 01 May 2026 16:48:53 GMT"
+      "headline": "Boy, 16, charged for stabbing at Foss High School that injured 4 students, security guard - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONUkxa2ltN0MxU2R0VEtRVU1hYlFpUlVNNFBEVFhCOXVvOXdUZ2RrX3Fib0Zudk5ZVjFSd015aW81UnE5WkhnTWkyZGR0NTVFSVg5dV9fMFA4dzJPMkJyUVpxdExSSUpsdDNPdFE1RFVuQ3cwUndmUmxrdWUxU25relBEenFvaklDdnlUc1hxN0UycmRJNXh0bE9OcW9pMG5qX1lBUVNHVVZHSWhfaHhDSG1PSlp4LWJSb3QzLWJUZ05QYXc5dzlIcTdtclJMbmtHeEhLb3luaEtrVjBCaXAyNA?oc=5",
+      "published_at": "Fri, 01 May 2026 18:57:59 GMT"
     },
     {
-      "headline": "\u2018Divided us with a smile\u2019: GOP groaning over Mike Johnson reaches a fever pitch - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdW81MG5YR045WVBfY0l0MEMzYlQwa3I2RnlBMHA2c01KZjFkUTJjbi1JbjIybWNEM3JXOUZ3ZVdHVjdxblhwSUNMVUdsZ0FRT2JQUzJjYmQ5SmJaLVIzeXU5M1lyR0JoX01iYUhFd2VlU3FwRGxrZUs2UXJyaGtvNHhFbE96S0JudVJvdw?oc=5",
-      "published_at": "Fri, 01 May 2026 08:45:00 GMT"
+      "headline": "Trump task force report alleges anti-Christian discrimination under Biden administration - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2Q0cUVCTE5OUFI0bmN3U1NYUEJ2NlJIYmE1ZXJETG5GQWJtRkhDcnJFMDlYejJqZ1BONkJvR3ZxWTBvRkRKbFFOek9QMkp6Wm5IUGluczkxdEM3VXlsYzBkdzdYVTJzSnpMQjNiOERDSkdlM1hQQ09xS2xSX2d4V2dIWkhrYzhHLXg1MEowemJNcmZtM1dub0xMOElpR2Z5REozSU5rMXY?oc=5",
+      "published_at": "Fri, 01 May 2026 20:37:00 GMT"
+    },
+    {
+      "headline": "Trump endorses Rep. Andy Barr in Kentucky Senate primary - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMW1oRkhpMW5xQ2p0NVVRSmZwR2h2QW1ZdHRMV2tJNVU1ZVRSMi1fRmVtTVotRUtLQUN0bUdOMVRRcHhuM3FRTmNYUDR3VTFMa3BoNS1Jc0VDOGg4cnBFcW5KVTRNSGZOSms3UndlcnVrb181eEdDSk9CcGRtN19XUGJVWE9jMVBRWDNHeDU5emtOdzBKV3AxUzlEemJGaThaSjA2S2k4emVsUkY2eW4w?oc=5",
+      "published_at": "Sat, 02 May 2026 00:00:00 GMT"
+    },
+    {
+      "headline": "Eastern District of Kentucky | Subject Arrested and Federally Charged for Deadly Berea Bank Robbery - Department of Justice (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejZfTjlwWEc5UURmQzVVamE1TG1HaDEzTnhHWF92RXFIeDFXNUNNUDgwTE9ORHVjZnNxTHFsWVRISkZBN2JMRGY4VVRVR0htNFNjXzd0MFRnanBydFZsTHRNZl85VGdFRktXX21QVEpNSDBlY2J6bXZBYkszMnJwaXVqX2hZWHpRVlhzTlVhYkpzS19xWHRRZlIzMHBTVHI1MnhN?oc=5",
+      "published_at": "Fri, 01 May 2026 20:34:00 GMT"
+    },
+    {
+      "headline": "Court order allows smokable hemp to stay on shelves in Texas - KUT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMF9vVldGY1gzTVM1b0djUGtuSXRfNUdBWFMtSkluU2pTRzZHQVc5aFYtQ3BkMFRWWE5mN0plR0RzRklBQlkwck5SdDVDWVN2RWJYbkpDN0VrREJwdGU3S1E5NllnLUZtWFV6NHB2cF95bDhJVlRhVVR5X3NvcmVGcHl5UDNUZTV3QnJSMVNHbkFwZ2xnS1pQQjdOY2lnRV9FM3Uzbl9aOA?oc=5",
+      "published_at": "Fri, 01 May 2026 16:01:00 GMT"
+    },
+    {
+      "headline": "Alabama Governor Calls Special Session to Adopt New House Maps - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQk1VWWxkN2JPQXltcTVOTVdjQ2dLcXA0VkFLMGZhR3Y3c2dWZVpqekxoNHREYVdXaXlfUjdHbWpKMDE4NXE0MzV5TTNlMEliU1BDVFhhbTN2cGNGX1l5RUNMYnY4cnVldGtfYVdUa1oxUGN1aDRFQ2ZfTUdtVC05bnQyb3F1ZUtxMkhlUENtRzN3R1Fr?oc=5",
+      "published_at": "Fri, 01 May 2026 21:31:25 GMT"
+    },
+    {
+      "headline": "Nebraska becomes first U.S. state to enact Medicaid work requirements - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXVFRGpobTF0ZmRHdEk2VmFzU0g5MWJsMmtVR1BZbVZzMlJZOUNTTXhLcW40bnpFRHJuYURiVUJpMVVqQVhOQkE4XzJ6ZnFlUU5vd1ptOEZSODh5WnpzdFpOWldSRENjX1ljcHBsZEFEaVB2bFhrdFBCS2RCLTNqcUxqYU1UNWVIZmdwSVFnUUpqUnhZ0gGaAUFVX3lxTE5kTEY5YmlHNmU5N3hqTnZlWlhxUVdhVHZIRGJ4SzVvWmlxSV9VVUl4NFZHNTRZcVdSaE9CRTRDclhkUUpBbkJKM2pNa2lnSGdpSi1KcG1CeEVpMVlOcUNqMEs1VXJub0FXX1FNMUVhbmEwTENfUUhMVDE4T3I5di1TSTZXU1NYSHlPbjU0X0JOaG9fX0pfSFMyTkE?oc=5",
+      "published_at": "Fri, 01 May 2026 16:45:00 GMT"
+    },
+    {
+      "headline": "Trump makes major change to retirement plans: 41 million Americans could be eligible - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFNVT1pOTm9JZXM4RjRXSFFpa05adkw4ckttT2gxUVV0ZVZZVWJuR0o2cXo4V2Q0ZFc2ckVSWlhTemttZTlHamFIWFdSV0N4RnBfZEctSUNVUmc1ckxxaFAzb3VCQWk1MzNIOWNjbUJId2thalJ2R01fd3RrUzdVMnVYMDNCQTFuT2xQRGxWOEd0dWJ1TmhMOVRwOEJONmQtTVVqUm9oLUo5WGZJeElvVUpPWU1URHJhalVZWdIB0AFBVV95cUxQVklIT0huNVphZFB2UERSX3hrN1ZoV1llNFZ6WjZxX1BIOG94MUxuTnkxQUpNWXgtLXY2S25SbWV4bGtCN2NyRFVTc1ZJVnJid1VaZ0lGZ3Fsc2wxdG9STWthT2c2eWVhcGVpbkgyYUt5M19RRHkxZGc0T1FTLVdyQnUyMU1BQUFVTExUVnpiZHFXUXZySDNOd09NeW9BOG5JM094YjN1aW9yTzhSX2oyUTJHREdkYzNrdmVSTkJaMWQ1b3RjcXM2VjFTUGY2a2tO?oc=5",
+      "published_at": "Fri, 01 May 2026 12:31:00 GMT"
+    },
+    {
+      "headline": "Ex-Dodger saw Rebecca Grossman fatally hit boys in crosswalk, former MLB player says on stand - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3NYTlBfMXVQMVkzZERCeklNaTdCYUhzSUJNMFNDSDlERjFXNTk2TEE1RzgtSWtZa3pxZmJUNUNZTWdpNm16ZlVNRVYzV3NLajJVNTlDdUF4aFE2VjhoWXRRQ2lUbXBYaUpaTjY1bzdhX3NBS0RWMFdNVi1Xd3psakE0OS1WQU12allwd3phTl9WUDVk?oc=5",
+      "published_at": "Fri, 01 May 2026 21:08:50 GMT"
+    },
+    {
+      "headline": "Pope Leo names priest who criticized Trump's immigration crackdown as West Virginia bishop - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3lYU2o3RUdQR3FmV2RyVUh4RWRibE9EN3puYXBpMkVjVmkxUDlSdFVDZEtkaUROQXFuWWNQQUFEVXBBWDlkMHV0Nks1R0JWb0JBdXhTVmxfSTZtQUhiaVRIbnRVci12TDNyR3RkTDhycFpnVy1McmxzWFhkLXp2Vk9TSWsxLUczenBxWlVUUV9mc0x2TVUyNXctbXNMZWEzNlRTREk5VXAzUlFkd2JxRy1paURrcXVQNHZUVWgyQlR1Rmc?oc=5",
+      "published_at": "Fri, 01 May 2026 20:56:31 GMT"
+    },
+    {
+      "headline": "Officials Call BS on Pentagon Pete\u2019s Blatant Lies - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVFsUXExTTdKcm42Z1FtSFBrY0lvRkdLeWpiQW1xZTRxcXdpdm4wNjUtWFFvWWVOOWlPVVFhY3c4OTNVNVZQb0J3aWxBWkpxYW9Mam1zOWFrZERVLVV4NmNSbmJEdktCMkREdHp5R19hQ3FFdGd4eUs4dExDSGlGdE41OWdZUQ?oc=5",
+      "published_at": "Fri, 01 May 2026 16:28:00 GMT"
+    },
+    {
+      "headline": "Cornell President\u2019s Car Bumps Into Students After Confrontation Over Gaza - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUhETm0weFJ2LS1jNDJSQ2ZqT0FqMFNGRVJCY3cwX19vRlhrSjh6WEtJQkpGcFA3TmZwOHlVZThXMmpuaHRVNEhwZ0pyLUllQkNNdnl6aUdFQ3RRUlFrMFMzenN4Zl9QaEJndEw1ZktYNUVLSzlMUXIyMWVHNWlPcWtIejM?oc=5",
+      "published_at": "Sat, 02 May 2026 00:49:29 GMT"
+    },
+    {
+      "headline": "Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEV0ZHR2MmZjdkNPdXRWa0thLW1SRWZfNTNIODUxczVmSEQ1MmdrQlRZbTRUT1l5SVljU3l2RVNrcnprZEdzc0hLeFlPa2dBUjJQSXJYUm5COVFPblJ6SHkzYUhnbURrNi1sWC1LaURvWVI0T3FMc0NZVTEyU3JQcXJB0gGHAUFVX3lxTFBQOUtfd3I3dTlrRVQxOU5ZczN6N1VQcmhBTmJIdmFuSkhqRHEyZFB4TnNBR1RtQWlqMW92YWdmdTJvOWlPZlVsOTQ5eTR3dDZ0MW1MZmZyQjJBR1VJeTBDb0tLQXFSYzdHSFVGSEkzMDNBY3luNm9PellRMDE1T2RXejVBZVY5Yw?oc=5",
+      "published_at": "Fri, 01 May 2026 09:00:00 GMT"
     },
     {
       "headline": "Child fatally shoots family member in self defense at Benicia home on London Circle in domestic violence incident, police say - ABC7 San Francisco",
@@ -387,9 +187,164 @@
       "published_at": "Fri, 01 May 2026 22:00:32 GMT"
     },
     {
-      "headline": "U.S. Department of Education Finalizes Landmark Rule to Lower College Costs and Simplify Student Loan Repayment - U.S. Department of Education (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ZwTjE1Q21FeDdxdkc4Q1ZtSTJ0NEZSaldfdmhVT2dPbGVBbW5Wbk5TalZ0alMxQnFOM1hnRTIzTW9QZDg4MndYUFhQbmFqcS1SeDNEN0JISGNsTjRfVWVWdDlrYzhER2FzcE0xOV9nSVhTM2c3X19oTWFkVjdGaURLWDB4UEhjX0g3TE84Wko1SHFHVWRZZzZGdG16SkdkZFVFczJ6dkxOMGpjS3h4TkhpeGxFNWw5WU5JNjFrWnkyMGkzRm9TZXp3NGdoRUNnSXBOb3hGaWVNZVRYQ21jSUlyWGc?oc=5",
-      "published_at": "Thu, 30 Apr 2026 14:00:31 GMT"
+      "headline": "Judge rebukes prosecutors for moving forward with detention proceedings for accused correspondents' dinner gunman - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkkzQ2FVNXYyeV8ybXRDdzBzckNRRjFLN0VxNE1nblFvQjZwRGNhUmkySlVUY2xYbi0wYUZMUXo2OTBWMWpNa0lleFhxYjVGQTRtVTNTakRLWnZzV2RycW1uei1QTzB4QzI4V1p0azBjRGFJdHhPUXpfMDBfUlZwa3c3YXlKMmxaR0dMOWVpTlNVTGhfZVEw0gGcAUFVX3lxTE9vT0xlRFNnMnJoOHEyeFE1ejc2dmZrajcwUFE5dy1xcFZMTTRLclc0SWU1N1I3M2MzZzRwSER3cDBWR29SY0NQTDM0VWw1YkpySGRlQWlkWEx4bHcyMFk4OUFpbnMzeng1UDNUTlcxUjI3SkRoQUFVb0c0R0lxWmlIT2lXYU9wbmJhQ1JXTDJLc2ltMFNkaGRtN0loTg?oc=5",
+      "published_at": "Fri, 01 May 2026 21:54:00 GMT"
+    },
+    {
+      "headline": "What We Know About New York\u2019s Proposed Tax Increases - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KMnBPZUdMU1FSQ2h1c1FkWWpqV1dYUEx0MDQtOHEyMTJJR05DaVo1c2twMV9sNFY3NjRWTTR2cmR1OFR5aXdzV2FrOHhUdUNYdC03dHM4d1pkZ0dlYTdVblVscUN2NXFXRkMzOHdWMGZwY3BRbTlRWWF4NA?oc=5",
+      "published_at": "Fri, 01 May 2026 15:22:46 GMT"
+    },
+    {
+      "headline": "New York Archdiocese agrees to nearly $1 billion settlement for sexual abuse victims - EWTN News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTZ3U2pBejVlMHNWb2p3VHY4bTRYc0htRFFJWTF3b04zZjhweFc5VmM4WmI2YUxFYXRyZDZfeWttd0R5Vkdac2hmR1dGYm84Q3BVekR6RHpoRm93Wm9CclJSS3FGdU1fRjJhWWFaS1g1TGhvdmpaOWVmQmNQcDBLQU1BeG5iNEtYQ1o2cWp1dW5LUWZyRmdJMHZaZXR5bUZxdUt0WW9weF83LWVmZjdtdmNneGVPUlU?oc=5",
+      "published_at": "Fri, 01 May 2026 15:01:00 GMT"
+    },
+    {
+      "headline": "South American man facing ICE deportation to the Congo says he feels \"like a person who has no value\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pQ3hpd3R3eFhwc0dKdTJDZmlJd2hFWDZWNldLY200UHpsVUx0ODNyN24tMHVrY1JmYklEaklyUzdVQWtncU53VjJuUFQ2ano4T09jZ3l1X0w2ZHFTLVkwWkFsOElyQlFfUEhGN2dTVG93Ym1QcGxHY3Fn0gF_QVVfeXFMTmFIdE1Ba1JWSEtOSEwwWWtIbUlHcTR0UHF5T21xOUt1VGtFOFJkYTdzekl5S2NUM2VNUWNyRXhPSFFwa3FoWHJ2cW5uQ21UYnNrN2g1ekRFcjNkOUxqbm1rOUxCTzJfREljSk9NRkRtUnhyRm5IVmVRMk5BRFlmVQ?oc=5",
+      "published_at": "Fri, 01 May 2026 15:56:00 GMT"
+    },
+    {
+      "headline": "Georgia won\u2019t redraw congressional map ahead of midterms, Kemp says - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTV84T1k3dWZvZkNjSkJIb0pKUTdjWk5CWGYwMUdCV3NIU2Z0anQwcHN0dHNmTnJScDBGd21VbUZ6RXJqdjVKRXZ6c1lJNm9tbVJJcnBjTURGSDRwZG9FTkI5OXFFeHBpZG1VVGt3M3hWZmdXV2RzQmZ6eGxCdWhUSmFlRVV0SmUtMmpzb2s0cw?oc=5",
+      "published_at": "Fri, 01 May 2026 16:34:42 GMT"
+    },
+    {
+      "headline": "Iran\u2019s supreme leader vows to protect nuclear and missile capabilities - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcldVZzduQnpaUnNxMHlWNmhKOXRsMTNSdE1ILTNMbXgzbm43NjFfWVY0b0RESjhOajczdXl1ZnNLYWJmc2t5UFlKTzlpWGpueXNRanYzNVlRZTRlOTRZcnZTQUd5LVlFaUtsUEtlSlVjY1M5Z2VwWWVuTnZNYU5STzNTZzQ0bk0wRlhWRDhiTjU0LUxuVHlqVEktV1VYN1FudUM2aGdPbmhzUFNUSWIwVU1yRTREaVRIRERZ?oc=5",
+      "published_at": "Fri, 01 May 2026 02:38:46 GMT"
+    },
+    {
+      "headline": "James Broadnax Executed After Being Sentenced to Death Based on Rap Lyrics - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW1zajQwXzNYT1AwUnBwSzBWblF5U05iLUZMcVJQQnZIUDVzTnNzMlBFRk9mTThPSXRpMGlIOFBiTHR3R3ZfU0pBNUR4cEg3QnUzSU9mazlCeFRUNFdGYk1hLVh0aHBYXzcydXpKUmQ4TWFPd05laUw5R01vTmRNT0tZbjgzZEpuV0dNQzNuZ3NXVjhJVV9udW9DdWNjSFJ5ZkFhZQ?oc=5",
+      "published_at": "Thu, 30 Apr 2026 23:54:47 GMT"
+    },
+    {
+      "headline": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide - NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVFMSERqQXhzN0txUXhJRXVWSVlZQWRjM2kwSDFwTUVQYVFGZUQ0U19VSzkyNDlxc1BqUHJ3VTFHbHN3OThYUW5PeVNYMVAzS1A1bnBTN2V4aHlTMXJsVG5GXzZmeU56bV9TV0h6M2pTWS13NXJnRUVvYzhodGJrZ1JIMzRfTmllTmFtLWE3dXhCR01SRWZuQjhkYWt2LU5fazlUdWx3a1duZFFBQzdBTGR1TUtkZHZ4Mk1Ed2JNVQ?oc=5",
+      "published_at": "Fri, 01 May 2026 11:44:17 GMT"
+    },
+    {
+      "headline": "U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9paTNRMVoteVNVOHVaOEdxMEdDZjlJdHBPRmhOWGZ6ODFNZVIzMG5PdjFHRW1LWFlmV05ZTHNlenVmS09ONGVZeXI2VkxPMmQ2Z1BuR3pZa0NzMGRCTk82d2lrUUF5T05NU1BYRXluRVZadEJxUENPaQ?oc=5",
+      "published_at": "Sat, 02 May 2026 00:51:39 GMT"
+    },
+    {
+      "headline": "Trump Says Iran Conflict Is Over\u2014and Sidesteps Congress - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1FHMUxTNHBqSGgzNW9jTU9QX29kWEJvUWtvR0FrZUE0R3NzWFRJRzdSRmJvTlJrbzMyb3R5M0h4XzdMRkFCUndqUkU4ODh4M0NPWHlkelVsY1NNZE84dVZkcXVndGNfWlRRelBjMkJ5RVc0ZkNkVE0wMHFHeDk5ZGdYQlhVS1NnN2t4RTdfWjRZOVRVQkNkTDVoSXIzeXg4?oc=5",
+      "published_at": "Fri, 01 May 2026 21:44:00 GMT"
+    },
+    {
+      "headline": "Trump returns to public events, delivering profane speech - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzdwWGxKbnlwX2lJOTYwaG5PVTM5SmkwQzhfbGRQbzFIeDlCRUFVUUM3ODBNbFpWRkhpSE9LMW1BSVBlYmFia1MwV2ZCTzdCZHNyMEI4Sk8tNGpSYnpEeXR0S2wtTHNzTE1QSXFvSU9jZmVWY1BiZEppUm9nMThRclJlbTVqamNKVFdia0ZkVQ?oc=5",
+      "published_at": "Sat, 02 May 2026 03:04:00 GMT"
+    },
+    {
+      "headline": "Thousands in US join \u2018no school, no work, no shopping\u2019 May Day protest and economic blackout - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2I5Snp1Wno5RDJWTjhjSFowa0twdDNpMzJweVpVVHNWc2VqUWlHaDJrN18yMDlYbFlVQldDTk9nUUF5U0dOSW04dGtMbEIwZmlOM2FzajdFbEpoU3RlNmw5cE1wSG9lZ2dYU1poa2otVi1BcjIxRVBoUVpndUFYRzNnemNoaEk?oc=5",
+      "published_at": "Fri, 01 May 2026 12:00:00 GMT"
+    },
+    {
+      "headline": "Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHbXgxZ0l6NG9kTUVDRi1JZlhTOEUwOUxQZVlodHV3VmJ0M0htd3JzcHhiLThieWtCOXBfWkZCNnNZQmlrUnlGMHNvNHVBM0tNV0dCVmcxcUZZa3pqOWF1SmluYk8xNVZESThIOTNvRDhGbHFEOWU4VjF3?oc=5",
+      "published_at": "Sat, 02 May 2026 01:16:22 GMT"
+    },
+    {
+      "headline": "Plane carrying pickleball players crashes in Texas Hill Country, killing all 5 on board - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3NEakFRT3pwanpfRUtMQ1Q2TmJibGNZNnp6VXROM0kzOFBmTXhjdWtTY05UTk5lTUlQUkEtQjNjOUlrNmN6SEJnUUpDTGdTSlpOWTVYNEc1bHhKNVNMd3dCWVE2VFRkNVpnS3c0anBPdEhIcS1RSkdMeDh0WkNsTWhjRjZ5UjZscHFV?oc=5",
+      "published_at": "Sat, 02 May 2026 01:21:00 GMT"
+    },
+    {
+      "headline": "Trump 'not satisfied' with Iran's proposal to end the war - PBS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlRpcFJPYkVwbWlFdFUtWVRtNnMxZ1VLTlpxYzM2ZUtiM0NlZ3dBeVpsUnZ2blFhSndjV0xuLTJBRVNkODhUT1BpSEw0SWxPRGd5emZyUHFucjhKR3pjTTdZbW0yd3lpNmFDLTBXQlZPUWxFeHZvdVpkQ2czLUozUGM1UVFZV2Z6R0RRZThvRm9IWEnSAZgBQVVfeXFMUFdNS3F2d2lqdGZTTElGVFhIbklZRTA0R3lFVzRHNWltR3g5YmoxcklqYS1EYmt0ZmtDVTI5US1qcGUwc2RBZU91eDV5ajRHRnpOVlUyWVNlVzdQN0J6QkxoTnhpRTVkdkpBUGNrdmhMM0c4MFZfWlc4TjJUYUF0aVNqM0ZIaGZHTEFnVVRhQlJVN0JyZVp0VHg?oc=5",
+      "published_at": "Fri, 01 May 2026 20:12:18 GMT"
+    },
+    {
+      "headline": "California hits Tesla Cybercab and Robotaxi driverless cars with new law - Teslarati",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbkIycHlkNnRTTXd1TzJvNGhrR2lMTzdJLTJtcEl0bkVteHF3dXlLYWIybW1pSEFkVU9TU0VzMVZJZV9yTUREcTFuQ2tkWjJVV1FpNDVLWmZoQUhlR1pqX2FBdmNxS1JxV3lsVHVyaHZuZXk2enFxRXV0bm9Gd2M?oc=5",
+      "published_at": "Fri, 01 May 2026 13:46:01 GMT"
+    },
+    {
+      "headline": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
+      "published_at": "Fri, 01 May 2026 19:11:00 GMT"
+    },
+    {
+      "headline": "Body found in Tampa Bay identified as 2nd missing University of South Florida doctoral student - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHVpOVQySkxwTVRVOW83SWtkVU5MZ0RRVkNYT1NOS2k2VTZWdWRnaXNOVFd6amxPRlhsbWlicVd1ZTZqc01UY0duUlBLV3RodzZ0RUdxWXNoWWFNMzNMRkFfMzAyNjc4bzJncXBpejBSN0I3Qm9kSXpuY2pray1qdl8xcjdTQmhGWDVJT1JlS2E4RGF3ZmNGTUNsdHNTS3pqd3k5RdIBqgFBVV95cUxQYk4zaVRTMnE5S1doMW1NaW8zYWN4SVFCQ0hLNEFnU0dMemdEc19qRE9JTXo1MS1JZURLaFo0dk9ObC1zRjZUaUhINFg0NW5mTDBGWU1ESVcwX3BTV3FyM3FzQ2tDWjg4cWZLMGl4WFUtT3pXbUc5M0hjV3BKb293QTBKM3Z5ZDExQUVKOTJYMk5ERUlveFdSeDJjN05fTVR4dXF0TXVXR0kwdw?oc=5",
+      "published_at": "Fri, 01 May 2026 17:47:00 GMT"
+    },
+    {
+      "headline": "Voters Sue Over Louisiana Governor\u2019s Move to Delay Primary - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORk5mOTE0NXFURmNuUmhVT3NjZ3ZBM0pNZzY4NGZEYng1R2tSdjNFQnlPbEdOZ0hJLTY0TDZ3a0d3NHJPV25FY1V5d0dmc3JHUldtVGxrc1FyelBHYWljajg3WHBXbFRud0hQbUFHTDczX3F4LVBSU0h1aG1JelNkM2NPa0pIaTM2NVhlU1dwdHdCbi1OWkN1OA?oc=5",
+      "published_at": "Fri, 01 May 2026 22:20:52 GMT"
+    },
+    {
+      "headline": "Ukraine war briefing: Russian oil hub of Tuapse hit for fourth time as environmental disaster mounts - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR3dVSUNYaFI4MXBFeTZPbjlMSTdKbEM1bTJkbkFaOTdWMC1tM0d6WHRhUGVtX2FjZ3JxUVQwRkNMWVNpeC1reUFjaWNlTmxNUmxDNFFCaGJFYmxlaEtZMGx2Ulp1aE1CN1dEMVU2OGxyVUJhb1FhUHJvWXhQbU5rZFJiODU4SThyaXJVTzlMb0NheG5MZWM2aHMxTGt0bmRhMkR6QWFTeUtoSFVpQ3Fld2pUUGhoNzNuWGlObWRVSDJwYV9iamYwTVJaZ1RvdUZ5S3BydGpsa2J3OTdIRUE?oc=5",
+      "published_at": "Sat, 02 May 2026 03:20:00 GMT"
+    },
+    {
+      "headline": "Kimmel Mocks Trump\u2019s Poor Approval Ratings After President Demands His Firing - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTm5WU2VmdHdTTHc2b2w2OTgwQzdXTzU1WmFnQlZxcW9hR3laYWlmOXA1WmNTR0VfbE1tcUlpaGhHbl90RWFiOFdlTk5NeFRNZ0lJSHhzS054LWEyVDVoTEFscTg0TG0zYjBBTmxTcHptdTMxVnBPalRzMTR2QjFtYWJxVVQ3eUNnb2RzOW5LUFl0ZGx6ZVd4SUpnTE8wNW8yaWhKLV95ZE8xazFZSEhRd1o0ZC1tLWpZMTcxSmU3cHVyak10Q19id2JyaXhmVmp2WE02MVQyTFQ?oc=5",
+      "published_at": "Fri, 01 May 2026 05:30:05 GMT"
+    },
+    {
+      "headline": "Republicans Want Tennessee\u2019s Last Democratic House District - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlNrbFBlMTR6RDFpSGthcVVZbjBYamJWNU9FNGVpMTJvaDF6U1M2bkNWWTZxZmF1WXllYkpac1pLbzhGcFdrVk1uY1ItMU9fVG9lSHNmTERJYUdOSGhyaWtfQzEtNXVwSEF3dXJLajRDeU94RGw2Sm1SY2VFQ3BEQU0yZzFUXzBEemlfT0hmSHN4U0NBeGpXZFlOMG5mRlRUTS1URzlaaDZCSVE5MGlJ?oc=5",
+      "published_at": "Fri, 01 May 2026 22:48:43 GMT"
+    },
+    {
+      "headline": "Man charged with attempted murder after stabbings of Jewish men in London - NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGhKVUY5T09fYWJPanJPTHg4NlJhdXRLMXNtNmUyMlhBa1ViYzVOTGl2OG5LdUJ1ekktUnZvbjVnNHQyMGdvaU4tYUNBQkRyVDdPRFByVkt2QndkUk5qbGVFam5ZNEtvSVJiT0hUeHEwRUFEblNqS2VyMDNlMjBjQllkYXFDR2hVanFIN2VJa3FzS0hEejg0TXZBUTQ1dTdK?oc=5",
+      "published_at": "Fri, 01 May 2026 08:09:30 GMT"
+    },
+    {
+      "headline": "U.S. Indictment of Sinaloa\u2019s Governor Is a Reckoning for Residents of the Mexican State - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzRhRjZnZE1lZldncWQzZ3g1eTgxNlVNQXNRZElUNV9jdGt1WGJwM1RkWktqeUZodlhoenZqakdZcklFWWF2X05odFZBM0pjMjJzZVlublZFNG5vSlI2aEdiNzRMc2l6aDUzR2l6eUdEVkI4cElIdk1yM3R4WU9sWGpoVjhYRmRJQUQxMldVRVhuYTBtUl96YTVPQVI4NE5L?oc=5",
+      "published_at": "Sat, 02 May 2026 02:15:09 GMT"
+    },
+    {
+      "headline": "PROMOTING RETIREMENT-SAVINGS ACCESS FOR AMERICAN WORKERS BY ESTABLISHING TRUMPIRA.GOV - The White House (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ1hsVzEzZTVabHNfbzlOb205eThwckpSTExrbDhBRFd0MHdacXNTWE52dGlQZGR1WlNxcUVPc0UyNnlHQkY2cGd3S3Jma1d2Sl9MY0RkdVlyVExGQnFZN1E2NThfcnprXzdGcnRCdEFkenpFOU55UjBLUTJRMTU0M1JzVW8ya3JrcDRfNkE5NGYzb25reHdwX0tmZnpIeVFlODhjMDY3YnducFR0c1o1c2k4YkotOFgxT2VyQVlOS0NHd01wSUVmTWh6aThPNUtEU0hXZEdkQWdJQQ?oc=5",
+      "published_at": "Thu, 30 Apr 2026 20:02:23 GMT"
+    },
+    {
+      "headline": "Spirit Airlines could shut down overnight. Here's what travelers need to know - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rMWZ0RHI5aURJU29TSVFBZl9hTl8xTDdfLTEzbXJjZmpwQVYwSjlPUGJiNE5TNXROR0s3Nm4zaWNRQUVYcmdEZFp0TVFDeWtRSkNKZm9BS3p1YUF3OEYyMV9WQ1FnSlU2YkdScHpQLTZlclNxc1VIVjhn0gF_QVVfeXFMTkw0Tl80RDhGV215d0VYZFFkM09GUWdmTnhLMUY4RWMzWmlHV1E2YjBYMzFUN0k2SnR1VlFrV0ZDSm11QjVIdm9xSHVWS1VhV3dTNFNpaDhVRVRkT29xUXkwTUhGS2N1WWZCV3VxZ0x0VlhsdTlUTzNPaDUzSmM0SQ?oc=5",
+      "published_at": "Sat, 02 May 2026 00:26:00 GMT"
+    },
+    {
+      "headline": "What to Know About the Maine Senate Race After Janet Mills Drops Out - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE5XQ21XQjFRU3FSLVN3UlVralR6RWNaTVUwbTg4eHlXMW1tY3JlRFNXeVRwUWxvVWZiaDVORnZPSDdwa2QxYmhOVEIwWGxMZWFHRkZ0ekgzRlRUR1dpWlhTaHBpVC00NFBVaHdVZkdHZk00YmxQak9KT0hnTGxpX0lqS01NZFdiX0k5TjkyckZzNVU2ZXV1dTZOR3RjcXo4U01v?oc=5",
+      "published_at": "Fri, 01 May 2026 12:15:39 GMT"
+    },
+    {
+      "headline": "Camp Mystic will not reopen this summer after withdrawing state license application - KUT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2phR2pfUHlEVm1CVmRJSndEcGl5Z2RKanJfNHNMVi1EMEVkUGFTcjZjRmxJbWFRdUI2aG5zbzR3dUxlaXd1U1pUQzdnelczVUxyS18zalp5OGpnaEhIUEFPTktpQjdzM1libUFnSTFhSDNFX2U5bGxVUlQ1NXl4OXlKS09iS3BuMWUwQ1A1SDRheTk3aFFKSWZxY0NJRXNPeDUxU1VR?oc=5",
+      "published_at": "Thu, 30 Apr 2026 17:54:00 GMT"
+    },
+    {
+      "headline": "'CHICKEN': Gavin Newsom Fires Back After Joe Rogan Called Him A 'F**king Con Man' - HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXpjblcxcnV2VGxwakN6RXh1M0VIekp0RG1DeEFBLUk0V043TjRlcWZFcVdqN0ViaGlSWGI3Zlg2Q2Zrc2hXaXZGbUxfbFpTNDljNnY0dy0zUUQ1dWV4Q3Z1SllfNWV1SHRsYWF4RUYwb3FmejEwV2pLSUlGM2dCaUNJbjlMa2lhN3RrLUx0YXhydU85MjVoS09obGhOdUluRlRGSGFWMzhEOEgtZnhaY05ZZTl3d2YyX3JKcmR5aV9fMFhLcnh3ZG9ZaFbSAdIBQVVfeXFMTXY2cVJleHZENFJDbnVWcVdqcWRkYWZnLURnTmtpNy02RjdyU05DTTZ2SnQ5QnlySEN2WG85STUtdnl3bmswTTMxaER3bG5DNV9zS3N5S01VZUFSQTVzblIya0ZCM3A0YUEtZjBsX0I1aU83OUVEQnZfelJwN0JrbG0zbVdyXzZvS1RjRS1qT0dMQlYyRVJLWDVPQ1hMSjV0V0k3aDVKZ0YxZ1VrdnBnOVplbTZOVkZUZzBVekpGaUJnOE12YUZpS0dvdXF0Z0U0OFhn?oc=5",
+      "published_at": "Fri, 01 May 2026 20:44:50 GMT"
+    },
+    {
+      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacFRzTm9GRmgwWmpOeHFRTHdZd1BrVmhpandkMmpZX2pDODhfLTFhVENwX1pvelRPS1lteVlFM2QtTzQ5RnIwbHBVdGhJWTlvNHFxV21vUl9KZw?oc=5",
+      "published_at": "Fri, 01 May 2026 10:12:57 GMT"
+    },
+    {
+      "headline": "ED Publishes Final Regulations Implementing OBBBA Federal Student Loan Changes - nasfaa",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnhiRlZjS3l5T0ZEbmZWMWJsZDNldWNkS08wcTFqVUF3bG5fUW9iVXRtc2MtNjFRX2F2aGRnX3NocVM5ZF9lWGRSU2ZZb25QZXBDOGdMb2JQc2JsUEdnQ2xFMzZhSFRHMXhGOXB2bFZkYXpDempKSWg2c1BxeVRXN3F0LV9NZnc1dnphaHY3MzB0UnJkZGtVaUxZMWJTNmFNZEhMVER6VW1rb29lRmtTRGQ0bURNWkhm?oc=5",
+      "published_at": "Fri, 01 May 2026 04:08:56 GMT"
+    },
+    {
+      "headline": "In the Oregon Governor\u2019s Primary, Voters Choose the Future of the Republican Party - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTlDbnZxTnVKQlE3bEc3dGF1a1BxanVNWDhXbXlEbVlUc3FrRVNxYUdZMllTWC13UDhxTnVfZ18tMmdqNjVkamZrMmV1eGg0MmNzQ2ctaEtlc0VHVm54ajBYMXlSRk5yblU0c05Ud2pOQlJid3ktbWg2VzNoNkhkbFFQMXdwVzQzQVBKUHE5eU4?oc=5",
+      "published_at": "Fri, 01 May 2026 14:08:15 GMT"
     },
     {
       "headline": "Rescue orgs will adopt out more than 1,500 beagles from Ridglan Farms breeding facility - WPR",
@@ -397,39 +352,39 @@
       "published_at": "Thu, 30 Apr 2026 17:54:01 GMT"
     },
     {
-      "headline": "Live updates: Trump says he\u2019s \u2018not satisfied\u2019 with Iran\u2019s newest peace plan - AP News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBa2dJbW40Z0pEcEFzYnVUZDlGUWZzYnlmZFRMWnFPaHBBb0pHd0ZJWFZHUEdmWmtpUm41MHBha2NyemlPcDhZRjJydjEzeWIzdmxjOGUtbFVMSnBZek9GZzBuWk5Qb3hGS0EtVw?oc=5",
-      "published_at": "Fri, 01 May 2026 22:38:00 GMT"
+      "headline": "Cuban immigrant dies in Georgia detention center, ICE tells Congress - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUhKc0hMV0hFak9fSUR5SXFYMFNGOGY3ZXNBT3JqV0o0RUVyZTlGZ3BSMEFkakFud2FXOFlqLWlsMHZpeFFBZVBKUG9fckNBQ1Z5TTdmSVoyaE5FcFZOUTRTVFd2d2FEN0U2MVM0dnZXazZkWVJyb0xMSUJMSFJXVDZjbjhocjVCcnpnOHhBdWZTSFBmT2c?oc=5",
+      "published_at": "Fri, 01 May 2026 14:46:00 GMT"
     },
     {
-      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdVdidmVxcmxTOEZYT0dmREVVdFdBUGZ2dlBvV0Rad09td2IxaGVOSHQyU1NILVYyVFBTZXFpTUZQYi05SmRmUks3RThWTjBsbGw2N0poT2Rudw?oc=5",
-      "published_at": "Thu, 30 Apr 2026 14:47:44 GMT"
+      "headline": "\u2018Divided us with a smile\u2019: GOP groaning over Mike Johnson reaches a fever pitch - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdW81MG5YR045WVBfY0l0MEMzYlQwa3I2RnlBMHA2c01KZjFkUTJjbi1JbjIybWNEM3JXOUZ3ZVdHVjdxblhwSUNMVUdsZ0FRT2JQUzJjYmQ5SmJaLVIzeXU5M1lyR0JoX01iYUhFd2VlU3FwRGxrZUs2UXJyaGtvNHhFbE96S0JudVJvdw?oc=5",
+      "published_at": "Fri, 01 May 2026 08:45:00 GMT"
     },
     {
-      "headline": "Harassment and intimidation incident at Day Hall - Cornell University",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zd2dmcnBmaGEwTlFqbHdzdjAwMmd5OGJObTlMblZzNkg4Zi1kcElmU0owZVlJRG93WjRKUTMwMVNCWGdqbThXTm1yY1ZhWDgxY3ZKX1A2SzJpYjA4RjlfQWhQTGNoWTAtcDhkMTdZMXF2OGp2U01LQQ?oc=5",
-      "published_at": "Fri, 01 May 2026 14:56:02 GMT"
+      "headline": "U.S. senators ban themselves from prediction markets trading - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3RQSmwzdEFSZklKaXREeUJzTENneGRqMEduSXJCTVRET0NEVW8zSVVtcWJmZDBXNk51cEJEZjI0WGxkdDdnX1J0dnlRTXhRekFhWFZMWENFVWhaTlpIRk5jQkhZal9wUFFicTN2RWtFWXg1UmU2YzRybjdzcFFNa3pBWlQ1Zmg2eHRna1ZHRWJmS3c5QUNR0gGcAUFVX3lxTE1oOTlxMmFtREZGXzF4cHVlaVR3cUhhUVUzS2pNR2dDRC0zRk1XQS1WSzFsTWh2TXF4UDZoUHN3VnNuWm8zQkgtdHJ6MUVYVEVZMW1qTDZwdkJLNS1ZRkxXSHp3T0lFOHJyd0Izb0U0RURUVFlkV0lFN2hIOV84MTBxbXdKMzBfZlRyZDJEMFlvTUZvVGRLdVJzVXpRdg?oc=5",
+      "published_at": "Thu, 30 Apr 2026 17:07:19 GMT"
     },
     {
-      "headline": "Trump's attempts to remake D.C. fall flat with Americans - Axios",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14bFA3RHZuajRsNU5nSUFEbExxVXpfRXhYM2NFWkNZT3JaY0VnT3BiU1JhNWZUWWwtenhGc2NZLUd3cHZ4eG5lREQ1ZzZmTE9pNWdzU1diTFExNzZ3MzduTV9GNlpOTHJya3V3RWZyd0h0T1hqN0JXVHV3RDQ?oc=5",
-      "published_at": "Fri, 01 May 2026 09:12:40 GMT"
+      "headline": "9-year-old boy fatally struck by school bus in Williamsburg, Brooklyn - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3o4Yzd1QTJUM0lWY0hpcllXQ2g5UEdvWEtuTC1WbTJ4RWZ5Y1dad2pXeGYxXzhYa1RKMXByRVFTaEhMMTU2b0xaSXUzV0s4a0dYMjFBMjBpR2FFOElMeERFa1lIRy1peG9RU2EySWptcVJrOFFtRzRhUDRSeXJka1pLQnd4V203WHphR0hUdU8tZmN0Z3pwWV9aek3SAaIBQVVfeXFMTlQ0UDlGRVduZE41aFdsMnBIWU83ZmQ5dC1IeGlQOHU2TmhHMHJwS0djU3hWRV93dXRyeEo1aXFGYzFOSnpsY3lyS2V3TjZUbnhOTnNxWjRQSkhGWk1sTXpaeFBtRTB1TldsXzljSEZFXy1fSjBualJSNDI1WGotbngtdkNDcU9jRW81V3phOXdNVklDa2tWM1Rubm15WFRkZ3l3?oc=5",
+      "published_at": "Fri, 01 May 2026 14:53:40 GMT"
     },
     {
-      "headline": "Justice Department investigates District 87, Ridgeview and 34 other Illinois school districts over 'gender ideology' - WGLT",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZTBtdjlzMHFLOTJYb2lOUzhmd056cG1vTW96TkJjbUhFUmFCTVdpUjNIQ3FRUzZxdTlaWTRHWDh1WVl3UDRaTGNyemR2ZlFpYTc2aUdyRW0yMHgxTHk1Z2p5MURROGI1LWwtN1VxSFJ6U2hSSHpucDh2Q1k0MDgyczU5bWZXd3MwWUpxN0haRmNndHRZQU5OTmZXQlRFRGsyRlJaRkF0N3FiYWl2a0ppUUhWdFhlVU9sOGo3YXRRcXNVd3E4bmNNS0J3RlFDNHNLaFRxOTAzMmQ2ZWNnbTFOZGxITmJ1N3F0Q2lLRQ?oc=5",
-      "published_at": "Fri, 01 May 2026 04:06:00 GMT"
+      "headline": "\"These are not normal times\": Inside Democrats' sweeping 2028 redistricting plans - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWtzamJXS3RoSnFpekt1dnFLX0hlWm85a3JHaTZRX1RyZ3pUOHJJWnRtdUNNTU9vRS1EQWFHR1hvN3pHRFBVRmd6N0NsMGI5MVRwT1NiOGpNR1d0cl80enBsR1UtSm9XS2x0WC05ZnpiZnJub3EwbF9yVkpmdWhUemFiUnVqdW8?oc=5",
+      "published_at": "Fri, 01 May 2026 21:25:15 GMT"
     },
     {
-      "headline": "Fill in the blank for the quiz: The Trump admin took aim at _____ this week - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3hiSWI1M1BVNFZSRDRwSW40Q2FfV1JhdXhYVGo3dDlmc2hnaDd1eDJ6aGItQ3RPM1VkdkNaNERDdjd1Y2FYSFN4enRFVmJha3oyb0tHVkxvUzhrcmFwcjJEb29md2V0QU5vN0QtR0JIQU8tbXNqT2ZGMXVVRkl2WGthdVczU054dEMxdTJRMk5OdlU?oc=5",
-      "published_at": "Fri, 01 May 2026 09:01:00 GMT"
+      "headline": "Lt. Gen. Douglas A. Schiess nominated to be next US Space Force Chief of Space Operations - spaceforce.mil",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSDRRd09MX2dIblU3cnh5cjNOTFJWMTRxT25YdEV1XzJ6QWUyNXRQRlVob2NQcUstUnpybTVqZThpMGpVWHhiV1U2cDlfMkl6U3pBZzRJQzRrNHAwMEV3S1pyem9EX0lKbF9ZLVd4RW5XeTBYUkJ3WlUyUnZvYmpNMnI5akVtSnhJTUQyaDhhSFl2dGJJNzJyQW83eHl2emtBaWE4R3lDd3UtbldjbDRnTEUxemVETldhYTEtMnB6UWlFYnIyWGZxZG50YkJsV1VDeE9uMXVTbFhoc1Y1?oc=5",
+      "published_at": "Fri, 01 May 2026 12:16:58 GMT"
     },
     {
-      "headline": "Pope Leo XIV Accepts Resignation of Bishop James Tamayo of the Diocese of Laredo; Appoints Reverend John Gomez as Successor - usccb",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXljeHMwd1RoRUlHbjNuMTZ4NzVINlVuUHRIS1pLLXlVYURzbnRBRGRrV3pBeEM5TVl2V2JZTEZ2eDZTR3RlZVdWcjZlQzR6amZiRU1PZUNWVS1VcGRvQXBmOTFHYnBELWE4SFBaNXZLbFo0cHg1c1RTVTJmUEI2dXlySGZ6Sm1qOUF0d0pwNDF4cTcyWHBJVnV5cFhuZzR5OWZQWDV3OEdiaHhFVTkxd1NLV1RnQnhI?oc=5",
-      "published_at": "Fri, 01 May 2026 10:00:00 GMT"
+      "headline": "Schwab Affiliate Halts Customer Donations to Southern Poverty Law Center - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3RSNU5TQ3lyTUs4LU9zNk9mR09wMkFzeVhPV19yMjYyejJneU5SVWVOMnBXOG1oMHJYdXZkWktzYTdVdmJuY0wtY3hGSEEyTTR5RUhQbjhfd3haT0hMb3NzODAyYmFsUGRqMXE5VnhLVGdDMmZrSVowZXVoSTQwQ0tWbFphR2lTREppNjJYb1p3blBjMVloMw?oc=5",
+      "published_at": "Fri, 01 May 2026 23:55:28 GMT"
     },
     {
       "headline": "US military reaches deals with 7 tech companies to use their AI on classified systems - AP News",
@@ -437,19 +392,24 @@
       "published_at": "Fri, 01 May 2026 22:07:00 GMT"
     },
     {
+      "headline": "Justice Department investigates District 87, Ridgeview and 34 other Illinois school districts over 'gender ideology' - WGLT",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZTBtdjlzMHFLOTJYb2lOUzhmd056cG1vTW96TkJjbUhFUmFCTVdpUjNIQ3FRUzZxdTlaWTRHWDh1WVl3UDRaTGNyemR2ZlFpYTc2aUdyRW0yMHgxTHk1Z2p5MURROGI1LWwtN1VxSFJ6U2hSSHpucDh2Q1k0MDgyczU5bWZXd3MwWUpxN0haRmNndHRZQU5OTmZXQlRFRGsyRlJaRkF0N3FiYWl2a0ppUUhWdFhlVU9sOGo3YXRRcXNVd3E4bmNNS0J3RlFDNHNLaFRxOTAzMmQ2ZWNnbTFOZGxITmJ1N3F0Q2lLRQ?oc=5",
+      "published_at": "Fri, 01 May 2026 04:06:00 GMT"
+    },
+    {
+      "headline": "Centers for Medicare and Medicaid Services exposes doctors\u2019 Social Security numbers - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTloUWh0b0liblU3ZEt3cHdJdHU2d0wwV0tsWkNtV0N3a2hERFdoN3RaQ2ZkVmJkZVR1Z2ZVaUNUNnIxX2ZfSEhidjRadDZPajhsTUVwVnBZa1FFTkNOSFcwNHR5OVJpZUtTZGZyaVhNSEhJWl9RX0pnNFB0M1dSS05TYWwzaGJjaFZBV29FZ0RCb3JLX0FlMA?oc=5",
+      "published_at": "Sat, 02 May 2026 00:13:08 GMT"
+    },
+    {
+      "headline": "Fill in the blank for the quiz: The Trump admin took aim at _____ this week - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3hiSWI1M1BVNFZSRDRwSW40Q2FfV1JhdXhYVGo3dDlmc2hnaDd1eDJ6aGItQ3RPM1VkdkNaNERDdjd1Y2FYSFN4enRFVmJha3oyb0tHVkxvUzhrcmFwcjJEb29md2V0QU5vN0QtR0JIQU8tbXNqT2ZGMXVVRkl2WGthdVczU054dEMxdTJRMk5OdlU?oc=5",
+      "published_at": "Fri, 01 May 2026 09:01:00 GMT"
+    },
+    {
       "headline": "Workers around the world demonstrate on May Day, in photos - AP News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWlFRGp6SHRqajlleVczUTBBZmhzSTRZcDhRNnRoMm1rbnhZeHFCcHB4UTFVemZvVzNOQlJBZURwZjVrTk1iYW13dXFpNVpfVGIyUGVfS0JEa3RLYWRjUFVJSTlDLWRGRmg4VXpweE5HNUh4cG16MlBoa2E1U2tqVHUzZjJPeFIycDgxNHoyV2kzTWxYcGdweTkxZnRpVTFrcndBZlRmaUF2RHdBN0wzUg?oc=5",
       "published_at": "Fri, 01 May 2026 22:01:00 GMT"
-    },
-    {
-      "headline": "Meet the Kentucky Derby horses running in the 2026 race - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeUswRmtrSUptSV9QU3A5bVNIc3FKZ0ZNSWFzYkx0UWM4bjJabjc1OGhYbWw5a3VEOFJTX0hEVFJGb1Q1d1FVb19sOTFfYkFXYTFrZDUwN2lEbXdzMVpMYlRFWWFvVjDSAWxBVV95cUxNM0t5ak0tVGRCS21FUk1uWHBZUzNfdmVyOF9JSVRNdnpDNUwyNVVXRnVqUXZGTEZCVVMyM05zZnNuMXdib0I2X1g4ci1XdEhnTE42RGw4WGhzNUZ4bURiWXM1VjRkUkt5TkdsZHI?oc=5",
-      "published_at": "Sat, 02 May 2026 00:42:00 GMT"
-    },
-    {
-      "headline": "GameStop Preparing Offer for eBay - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWFjcEtHUDBqVkkyX1VIWGZ4YjZweGVCTXZoS1piWF9YUFpEdGUtZUt2UGZFNHg0SkVyR2NTaEpDUUtEbmZqZmZQaU9yMG1VczFTNS1RbUtfYk5sSW82bVVQZ19pZkJPdUlKY1RwWk0wQlRVOG1Ea0Y0cGxSdkFNY0RNRQ?oc=5",
-      "published_at": "Fri, 01 May 2026 21:51:00 GMT"
     },
     {
       "headline": "F.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer - The New York Times",
@@ -457,9 +417,14 @@
       "published_at": "Fri, 01 May 2026 21:28:23 GMT"
     },
     {
-      "headline": "Chaotic new video emerges of Mitchell Robinson fight \u2014 and the Knicks should be relieved - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTNrZUxsU19jdUZ0cnR1RWh2Z2VHOWoxeUxpRGFWVkUxbW5ScnNxRE95a1NkMzB5ZVI0blhqOUxLVzQ3enI2M3kwOEhPeGY2MmJxMXVyeXFrWmF6YnZNaTVUOEtYTC1hbHZvWk9KMi1xNmdsM1ZfNzRidWJWam9ORVV6UDctZTRKVFJJYnhuUkRUa3E5STNuVnF1aTF2YklmZnNiUXdR?oc=5",
-      "published_at": "Fri, 01 May 2026 17:44:00 GMT"
+      "headline": "Trump Loses Ground on Several Personal Traits as Approval Rating Slips - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEU0Z2x4by1TSlBzdlFBbnAwRWkwdm1kUW5PT0FSQy1YTXdkTGlNOVNDMTBiZ2FyUkxFeWE2UVMxN05VYk53VHFUckxEd0xJTEVtdFRWakdDUzRmcUJ3MHI3d3Bkd2U1aGpPbUVFRG1QaUxsMXI2UTFaS2lSbkY1NlZiY2NzLWE1M2ViSk9QbHBBSTdkMHpuenhuWkVIX3ZaZFhkUzhOb3oxNXFDMVliaWwxUnhlVno1elh3?oc=5",
+      "published_at": "Fri, 01 May 2026 16:00:36 GMT"
+    },
+    {
+      "headline": "Economic Fury Targets Iranian Shadow Banking Networks Moving Billions in Foreign Currency - U.S. Department of the Treasury (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MeEREWlNjTXYyYzEzbG1UY1VoRzFjaUhfSGZhYVlkekpnSmFTZUV1c2NFbFBpR3JrNldzM1pHeG14Q0JHbVRYSVpuQkY0UG82NHlDRUxEN3Z2TzcwLWZ1MjVn?oc=5",
+      "published_at": "Fri, 01 May 2026 15:30:00 GMT"
     },
     {
       "headline": "Why is gas so high in Illinois? Gas prices today increased amid Iran war, after BP Whiting, Indiana refinery power loss - ABC7 Chicago",
@@ -467,19 +432,29 @@
       "published_at": "Fri, 01 May 2026 21:49:12 GMT"
     },
     {
+      "headline": "Chaotic new video emerges of Mitchell Robinson fight \u2014 and the Knicks should be relieved - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTNrZUxsU19jdUZ0cnR1RWh2Z2VHOWoxeUxpRGFWVkUxbW5ScnNxRE95a1NkMzB5ZVI0blhqOUxLVzQ3enI2M3kwOEhPeGY2MmJxMXVyeXFrWmF6YnZNaTVUOEtYTC1hbHZvWk9KMi1xNmdsM1ZfNzRidWJWam9ORVV6UDctZTRKVFJJYnhuUkRUa3E5STNuVnF1aTF2YklmZnNiUXdR?oc=5",
+      "published_at": "Fri, 01 May 2026 17:44:00 GMT"
+    },
+    {
+      "headline": "Tonight\u2019s Flower Moon kicks off a rare two-Moon month. Here's why you shouldn't miss it - BBC Sky at Night Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Vc25vbGdSSmViUFpzQXlVOFoxVlZCTWFxemhKbkZ1dEl0c1h1cElPNTF5S1FuNkZreGh1UHAwTjg1M293WTVPR0dKVEN2QjE0czBQQ1RCVGFMMlFZS1kwZ3Z6aFk1R0k?oc=5",
+      "published_at": "Fri, 01 May 2026 04:40:14 GMT"
+    },
+    {
+      "headline": "Norris seizes pole in Miami Sprint Qualifying - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcEVaUm9xbUdYaF9rVy1FQjBoZ2pKcVo4RkdjVUJjTFB2M0ZaRkprOFFaMXZDYnhyQUdMYjAwRFVVZWVpVnN4bjhOTVYzcVNoeTRyZE42OVNjNmoxSmNSMnJrR3d4bmticnBvV1E3Wkk0QVNfaFRMZ1otQ1oxTU5LMUlYX0xFRi1Bb2dva0h6LTB2VGR4SWVtQWdmYWlRRExUUDhJeTJ6b2h2LV9HRTVOWWZYeC1UNmRMallxVDEtdVZVM3ZnN2hib2lzN0ZzV20yVEtOUW9WTXQ1MTRDX1EtMnRvVTdUdw?oc=5",
+      "published_at": "Fri, 01 May 2026 21:31:00 GMT"
+    },
+    {
       "headline": "Bryson DeChambeau releases statement on his LIV Golf future - hitc.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHQtTEdKX3MxY05nMW8wQnVTVXQwZUIwRHpFLXBJVklXcm5PM21lazNWZU9KNlpsSW85d19FZHdZZEZHVkVzTDUtRFVDWkpKc0djWTQwcU1rWFNFb0N2d0JPM1hwRmlZRldSOTdqTll1TUxxSnBnS3FmbVd6ektzU3FfQUU2Q0g3?oc=5",
       "published_at": "Fri, 01 May 2026 18:59:00 GMT"
     },
     {
-      "headline": "California hits Tesla Cybercab and Robotaxi driverless cars with new law - Teslarati",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbkIycHlkNnRTTXd1TzJvNGhrR2lMTzdJLTJtcEl0bkVteHF3dXlLYWIybW1pSEFkVU9TU0VzMVZJZV9yTUREcTFuQ2tkWjJVV1FpNDVLWmZoQUhlR1pqX2FBdmNxS1JxV3lsVHVyaHZuZXk2enFxRXV0bm9Gd2M?oc=5",
-      "published_at": "Fri, 01 May 2026 10:44:46 GMT"
-    },
-    {
-      "headline": "Packers\u2019 draft class full of energy, emotion as NFL journey begins - Green Bay Packers \u2013 packers.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0VaY2hDc2JNR1hJOUFkc19RVlY2VmFSR0Rsb0E5Z3k2WmhaSW1sdWFkeUw2a1Rfd0FLaXhTZU1EWi1jQUVTN19BMVM4V0N2UzNiUlQ4NE5ncnNubnEwT0w4bjJxUFZOcmdNNDJGTjFmd3Nkano2LTNMVDF3ODhWZ0ZXRWlqdVp6cGlJa0RVSnlIdjZ0Q1hpSmx0V0JyQXhIYnJsSC12RQ?oc=5",
-      "published_at": "Fri, 01 May 2026 20:51:43 GMT"
+      "headline": "Box Office: 'Devil Wears Prada 2' Banking $75M-$80M U.S. Opening - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkFfckVzcVlTbzhnQ1U5R2hCX0JOcm9kTkhUcGx4UUFWNGpoZ1lvR3hmYlltSFNRLTFjRXdiWW9TaDlpZ0ozSWtQWDdEc0YyYzJTNjhSclZEYmVUcFR5R3pqTlFaUkZ1b3VnaDRaM09RWG1UOFBEeFVUZUlkVllwbC0tdjBSdw?oc=5",
+      "published_at": "Fri, 01 May 2026 21:16:00 GMT"
     }
   ]
 }
